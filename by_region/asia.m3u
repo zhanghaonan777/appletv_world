@@ -1,0 +1,1041 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-id="BSAsahi.jp@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Bs_Asahi_Logo.jpg/revision/latest/scale-to-width-down/512" group-title="日本",BS Asahi (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+#EXTINF:-1 tvg-id="BSShochikuTokyu.jp@SD" tvg-logo="https://i.imgur.com/pSKCgvv.png" group-title="日本",BS Shochiku Tokyu (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+#EXTINF:-1 tvg-id="BSTVTokyo.jp@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/BSTVTokyo_2024logo-TeletoVer.svg/revision/latest/scale-to-width-down/512" group-title="日本",BS TV Tokyo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+#EXTINF:-1 tvg-id="CGNTVJapan.jp@SD" tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="日本",CGNTV Japan (1080p)
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+#EXTINF:-1 tvg-id="FujiTVNEXT.jp@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Next-fujitv_logo.jpg/revision/latest" group-title="日本",Fuji TV NEXT (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+#EXTINF:-1 tvg-id="HomeDramaChannel.jp@SD" tvg-logo="https://i.imgur.com/iNkKh7w.png" group-title="日本",Home Drama Channel (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+#EXTINF:-1 tvg-id="JORXDTV.jp@SD" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="日本",JORX-DTV
+https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-id="JODXDTV.jp@SD" tvg-logo="https://i.imgur.com/WMNg5De.png" group-title="日本",Kansai TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+#EXTINF:-1 tvg-id="QVC.jp@SD" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="日本",QVC Japan (720p)
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 tvg-id="JOUHDTV.jp@SD" tvg-logo="https://i.imgur.com/0qtXIRM.png" group-title="日本",Sun TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+#EXTINF:-1 tvg-name="TOKYO MX チャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" group-title="日本",TOKYO MX チャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 tvg-id="WOWOWPrime.jp@SD" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="日本",WOWOW Prime (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+#EXTINF:-1 tvg-id="AlltheKPop.kr" tvg-name="All the K-Pop Ⓨ" tvg-logo="https://i.imgur.com/tBbTTAx.png" group-title="韩国",All the K-Pop Ⓨ
+https://www.youtube.com/c/ALLTHEKPOP/live
+#EXTINF:-1 tvg-id="KRBC3200001VC" tvg-name="Animax 요리왕 비룡 더 마스터" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20250604T010127SQUARE.png" group-title="韩国",Animax 요리왕 비룡 더 마스터
+https://jmp2.uk/stvp-KRBC3200001VC
+#EXTINF:-1 tvg-id="BBSTV.kr@SD" tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="韩国",BBS Buddhist Broadcasting (1080p)
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="KR12000017G" tvg-name="Genie Movie" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR12000017G_20250827T005929SQUARE.png" group-title="韩国",Genie Movie
+https://jmp2.uk/stvp-KR12000017G
+#EXTINF:-1 tvg-id="KR2000012AI" tvg-name="Genie 봄맞이 로맨스 특집" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000012AI_20260325T012944SQUARE.png" group-title="韩国",Genie 봄맞이 로맨스 특집
+https://jmp2.uk/stvp-KR2000012AI
+#EXTINF:-1 tvg-id="KR4000020F" tvg-name="JTBC 라이프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4000020F_20250827T005943SQUARE.png" group-title="韩国",JTBC 라이프
+https://jmp2.uk/stvp-KR4000020F
+#EXTINF:-1 tvg-id="KRBC4400003SD" tvg-name="KBS 1박2일 시즌1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400003SD_20260225T010532SQUARE.png" group-title="韩国",KBS 1박2일 시즌1
+https://jmp2.uk/stvp-KRBC4400003SD
+#EXTINF:-1 tvg-id="KBSKorea.kr" tvg-name="KBS Korea Ⓨ" tvg-logo="https://kbsworldimage.kbs.co.kr/images/layout/logo/logo_korea_n.png" group-title="韩国",KBS Korea Ⓨ
+https://www.youtube.com/c/kbsworldtv/live
+#EXTINF:-1 tvg-id="KR5100001TH" tvg-name="KBS 뉴스24" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR5100001TH_20260325T012947SQUARE.png" group-title="韩国",KBS 뉴스24
+https://jmp2.uk/stvp-KR5100001TH
+#EXTINF:-1 tvg-id="KRBC4400001TZ" tvg-name="KBS 신사와 아가씨" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20260225T010546SQUARE.png" group-title="韩国",KBS 신사와 아가씨
+https://jmp2.uk/stvp-KRBC4400001TZ
+#EXTINF:-1 tvg-id="IN3600005NF" tvg-name="Korean TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600005NF_20260318T004139SQUARE.png" group-title="韩国",Korean TV
+https://jmp2.uk/stvp-IN3600005NF
+#EXTINF:-1 tvg-id="KR4500002GS" tvg-name="MBC HOT CLIP 예능" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500002GS_20260225T010550SQUARE.png" group-title="韩国",MBC HOT CLIP 예능
+https://jmp2.uk/stvp-KR4500002GS
+#EXTINF:-1 tvg-id="MBCIraq.iq@SD" tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="韩国",MBC Iraq (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+#EXTINF:-1 tvg-id="MBCTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s135691_ld_h15_aa.png?lock=720x540" group-title="韩国",MBC TV (576p)
+https://mumt03.tangotv.in/MBCTV/index.m3u8
+#EXTINF:-1 tvg-id="KRBC200002I0" tvg-name="MBC 나혼자산다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200002I0_20260121T012221SQUARE.png" group-title="韩国",MBC 나혼자산다
+https://jmp2.uk/stvp-KRBC200002I0
+#EXTINF:-1 tvg-id="KRBB5000069BS" tvg-name="MBC 무한도전" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20260224T012033SQUARE.png" group-title="韩国",MBC 무한도전
+https://jmp2.uk/stvp-KRBB5000069BS
+#EXTINF:-1 tvg-id="KRBB50000711L" tvg-name="MBC 심야괴담회" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000711L_20260128T012022SQUARE.png" group-title="韩国",MBC 심야괴담회
+https://jmp2.uk/stvp-KRBB50000711L
+#EXTINF:-1 tvg-id="KRBC3500017PO" tvg-name="MBN 나는 자연인이다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500017PO_20260128T012225SQUARE.png" group-title="韩国",MBN 나는 자연인이다
+https://jmp2.uk/stvp-KRBC3500017PO
+#EXTINF:-1 tvg-id="KRBC3500018J9" tvg-name="MBN 휴먼다큐 사노라면" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500018J9_20250402T010354SQUARE.png" group-title="韩国",MBN 휴먼다큐 사노라면
+https://jmp2.uk/stvp-KRBC3500018J9
+#EXTINF:-1 tvg-id="KRBC3200028P2" tvg-name="Mnet 라이브 와이어" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200028P2_20260325T012843SQUARE.png" group-title="韩国",Mnet 라이브 와이어
+https://jmp2.uk/stvp-KRBC3200028P2
+#EXTINF:-1 group-title="韩国",Ondemand Korea (CA) Geo
+https://amg01923-odk-amg01923c19-lg-ca-6106.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SBSTV.kr" tvg-name="SBS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/512px-SBS_Korea_Logo_%28Word_Only%29.svg.png" group-title="韩国",SBS TV
+https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8
+#EXTINF:-1 tvg-id="KRBB4200013L5" tvg-name="SBS 순간포착 세상에 이런일이" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200013L5_20250402T010450SQUARE.png" group-title="韩国",SBS 순간포착 세상에 이런일이
+https://jmp2.uk/stvp-KRBB4200013L5
+#EXTINF:-1 tvg-id="KRBB4200012PV" tvg-name="SBS 정글의 법칙" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200012PV_20251029T003918SQUARE.png" group-title="韩国",SBS 정글의 법칙
+https://jmp2.uk/stvp-KRBB4200012PV
+#EXTINF:-1 tvg-id="KRBD2400001XD" tvg-name="YTN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20260325T012855SQUARE.png" group-title="韩国",YTN
+https://jmp2.uk/stvp-KRBD2400001XD
+#EXTINF:-1 tvg-id="KR2000007LI" tvg-name="가우스전자" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000007LI_20250827T010208SQUARE.png" group-title="韩国",가우스전자
+https://jmp2.uk/stvp-KR2000007LI
+#EXTINF:-1 tvg-id="KRBC3500014ZH" tvg-name="고독한 미식가" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500014ZH_20250827T010211SQUARE.png" group-title="韩国",고독한 미식가
+https://jmp2.uk/stvp-KRBC3500014ZH
+#EXTINF:-1 tvg-id="KR2000004DJ" tvg-name="구필수는 없다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000004DJ_20250827T010214SQUARE.png" group-title="韩国",구필수는 없다
+https://jmp2.uk/stvp-KR2000004DJ
+#EXTINF:-1 tvg-id="KRBB4200009C3" tvg-name="나는 솔로" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200009C3_20251029T003942SQUARE.png" group-title="韩国",나는 솔로
+https://jmp2.uk/stvp-KRBB4200009C3
+#EXTINF:-1 tvg-id="KR2000010K7" tvg-name="나의 해리에게" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000010K7_20250827T010223SQUARE.png" group-title="韩国",나의 해리에게
+https://jmp2.uk/stvp-KR2000010K7
+#EXTINF:-1 tvg-id="KR2000009EC" tvg-name="낮에 뜨는 달" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000009EC_20260311T004632SQUARE.png" group-title="韩国",낮에 뜨는 달
+https://jmp2.uk/stvp-KR2000009EC
+#EXTINF:-1 tvg-id="KR2000003T6" tvg-name="라이딩 인생" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000003T6_20260311T004634SQUARE.png" group-title="韩国",라이딩 인생
+https://jmp2.uk/stvp-KR2000003T6
+#EXTINF:-1 tvg-id="KRBC3200007D1" tvg-name="맛있는 녀석들" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200007D1_20251015T000213SQUARE.png" group-title="韩国",맛있는 녀석들
+https://jmp2.uk/stvp-KRBC3200007D1
+#EXTINF:-1 tvg-id="KR7000044K" tvg-name="서울경제TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000044K_20250402T010059SQUARE.png" group-title="韩国",서울경제TV
+https://jmp2.uk/stvp-KR7000044K
+#EXTINF:-1 tvg-id="KR5000002QW" tvg-name="쯔양" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR5000002QW_20260224T012113SQUARE.png" group-title="韩国",쯔양
+https://jmp2.uk/stvp-KR5000002QW
+#EXTINF:-1 tvg-id="KRBB5000364M" tvg-name="초록뱀미디어 K-STAR 골프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000364M_20250521T005555SQUARE.png" group-title="韩国",초록뱀미디어 K-STAR 골프
+https://jmp2.uk/stvp-KRBB5000364M
+#EXTINF:-1 tvg-id="KR3200003RR" tvg-name="코난 오브라이언 쇼" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3200003RR_20250402T010126SQUARE.png" group-title="韩国",코난 오브라이언 쇼
+https://jmp2.uk/stvp-KR3200003RR
+#EXTINF:-1 tvg-id="KRBB500035VF" tvg-name="코코비TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500035VF_20250514T082352SQUARE.png" group-title="韩国",코코비TV
+https://jmp2.uk/stvp-KRBB500035VF
+#EXTINF:-1 tvg-id="KRAH1801500A" tvg-name="현대홈쇼핑" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20250402T005600SQUARE.png" group-title="韩国",현대홈쇼핑
+https://jmp2.uk/stvp-KRAH1801500A
+#EXTINF:-1 tvg-id="INBC2800013L6" tvg-name="9X Jalwa" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800013L6_20240131T032422SQUARE.png_20240131032423.png" group-title="南亚",9X Jalwa
+https://jmp2.uk/stvp-INBC2800013L6
+#EXTINF:-1 group-title="南亚",APB Asmita (IN) Geo
+https://amg01043-abpnewsnetwork-amg01043c2-lg-in-2042.playouts.now.amagi.tv/playlist/amg01043-abpnewsnetwork-abpasmita-lgin/playlist.m3u8
+#EXTINF:-1 tvg-id="AadinathTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AADINATH_TV/images/LOGO_HD/image.png" group-title="南亚",Aadinath TV (576p)
+https://mumt01.tangotv.in/AADINATHTV/index.m3u8
+#EXTINF:-1 tvg-id="IN3800001ZH" tvg-name="Aaj Tak HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20260325T012257SQUARE.png" group-title="南亚",Aaj Tak HD
+https://jmp2.uk/stvp-IN3800001ZH
+#EXTINF:-1 tvg-id="AaseervathamTV.in@SD" tvg-logo="https://i.imgur.com/GlfrYs7.png" group-title="南亚",Aaseervatham TV (576p)
+https://mumt04.tangotv.in/AASEERVATHAMTV/index.m3u8
+#EXTINF:-1 tvg-id="AasthaBhajan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142514_ld_h15_aa.png?lock=720x540" group-title="南亚",Aastha Bhajan (480p)
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AasthaTelugu.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158136_ld_h15_aa.png?lock=720x540" group-title="南亚",Aastha Telugu (480p)
+https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
+#EXTINF:-1 group-title="南亚",Accuweather Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/accuweath-accuweather-lg/playlist.m3u8
+#EXTINF:-1 tvg-id="Animaux.fr@SD" tvg-logo="https://i.imgur.com/FM9FVAG.png" group-title="南亚",Animaux (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd
+#EXTINF:-1 tvg-id="AradanaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142649_ld_h9_aa.png?lock=720x540" group-title="南亚",Aradana TV (576p)
+https://cdn-1.pishow.tv/live/961/master.m3u8
+#EXTINF:-1 tvg-id="AryanTVNational.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARYAN_TV_NATIONAL/images/LOGO_HD/image.png" group-title="南亚",Aryan TV National (576p)
+https://mumt04.tangotv.in/ARYANTVNATIONAL/index.m3u8
+#EXTINF:-1 tvg-id="IN39000307N" tvg-name="B4U Bhojpuri" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000307N_20260121T010753SQUARE.png" group-title="南亚",B4U Bhojpuri
+https://jmp2.uk/stvp-IN39000307N
+#EXTINF:-1 tvg-id="BVN.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/960px-BVN_logo.svg.png" group-title="南亚",BVN (576p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
+#EXTINF:-1 tvg-id="BeritaRTM.my@SD" tvg-logo="https://i.imgur.com/1Xzxsgl.png" group-title="南亚",Berita RTM [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+#EXTINF:-1 tvg-id="BhakthiTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg" group-title="南亚",Bhakthi TV (720p)
+https://cdn-1.pishow.tv/live/397/master.m3u8
+#EXTINF:-1 tvg-id="IN46000105Q" tvg-name="Cook & Bake" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000105Q_20260225T010339SQUARE.png" group-title="南亚",Cook & Bake
+https://jmp2.uk/stvp-IN46000105Q
+#EXTINF:-1 tvg-id="ETNow.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ET_NOW/images/LOGO_HD/image.png" group-title="南亚",ET Now (720p)
+https://pubads.g.doubleclick.net/ssai/event/pJrzNyDoT_K_GwYQsijTsQ/master.m3u8
+#EXTINF:-1 tvg-id="EkhonTV.bd@SD" tvg-logo="https://i.imgur.com/tRrDh6z.png" group-title="南亚",Ekhon TV (1080p)
+https://tplay.live/out/bangladesh/ekhontv.index.m3u8
+#EXTINF:-1 tvg-id="EuroD.tr@SD" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="南亚",Euro D (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
+#EXTINF:-1 tvg-id="FazalTV.pk@SD" tvg-logo="https://i.imgur.com/c0fvKia.png" group-title="南亚",Fazal TV (1080p)
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IN460000313" tvg-name="Foodie Hub" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000313_20250205T004601SQUARE.png" group-title="南亚",Foodie Hub
+https://jmp2.uk/stvp-IN460000313
+#EXTINF:-1 tvg-id="IN3000003QJ" tvg-name="Foodxp" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000003QJ_20240925T012639SQUARE.png" group-title="南亚",Foodxp
+https://jmp2.uk/stvp-IN3000003QJ
+#EXTINF:-1 tvg-id="GaundaPunjabTV.ca@SD" tvg-logo="https://i.imgur.com/ArRZRM3.png" group-title="南亚",Gaunda Punjab TV (720p)
+http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GraceNetwork.pk@SD" tvg-logo="https://i.imgur.com/QSaZPJ4.png" group-title="南亚",Grace Network (720p)
+https://livecdn.live247stream.com/grace/tv/playlist.m3u8
+#EXTINF:-1 group-title="南亚",HNC Free (UK) Geo
+https://hncfree-lg-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HanoiTV1.vn@SD" tvg-logo="https://i.imgur.com/Je3K25E.png" group-title="南亚",HanoiTV1 (1080p) [Geo-blocked]
+https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="HanoiTV2.vn@SD" tvg-logo="https://i.imgur.com/szivqh2.png" group-title="南亚",HanoiTV2 (1080p) [Geo-blocked]
+https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
+#EXTINF:-1 group-title="南亚",Hells Kitchen (FI) Geo
+https://amg00654-itv-amg00654c1-lg-fi-2691.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hellskitchen-lgfi/playlist.m3u8
+#EXTINF:-1 tvg-id="HinduDharmam.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143131_ld_h15_aa.png?lock=720x540" group-title="南亚",Hindu Dharmam (576p)
+https://cdn-1.pishow.tv/live/959/master.m3u8
+#EXTINF:-1 group-title="南亚",Homeful (NO) Geo
+https://amg00090-blueantcanada-amg00090c4-lg-no-818.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-lgno/playlist.m3u8
+#EXTINF:-1 group-title="南亚",Homeful (US) Geo
+https://bam-homeful-usa-lg-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HopeChannelIndia.in@SD" tvg-logo="https://i.imgur.com/wPzPUrK.png" group-title="南亚",Hope Channel India (576p)
+https://mumt01.tangotv.in/HOPECHANNELINDIA/index.m3u8
+#EXTINF:-1 group-title="南亚",House of Docs (IT) Geo
+https://amg02512-nexodigital-amg02512c2-lg-it-822.playouts.now.amagi.tv/playlist/amg02512-nexodigital-houseofdocs-lgit/playlist.m3u8
+#EXTINF:-1 group-title="南亚",How to (US) Geo
+https://amg00136-wbd-amg00136c16-lg-us-1936.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvhowto-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",Humanity Documentaries (FR) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/alchimieA-humanity-doc-fr-lg/playlist.m3u8
+#EXTINF:-1 group-title="南亚",Humanity Documentaries (IT) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/alchimieA-humanity-doc-it-lg/playlist.m3u8
+#EXTINF:-1 group-title="南亚",I Almost got away with it (US) Geo
+https://amg00136-wbd-amg00136c68-lg-us-5719.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="南亚",Infast Lifestyle HD (AU) Geo
+https://amg00861-terncloud-amg00861c9-lg-au-3098.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestylehd-lgau/playlist.m3u8
+#EXTINF:-1 group-title="南亚",Intervention (GB) Geo
+https://amg00276-aenetwork-amg00276c17-lg-gb-3760.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="南亚",Intervention (NO) Geo
+https://amg00276-aenetwork-amg00276c17-lg-no-3761.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="南亚",Introuble HD (AU) Geo
+https://amg00861-terncloud-amg00861c6-lg-au-3099.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-lgau/playlist.m3u8
+#EXTINF:-1 group-title="南亚",Inwonder HD (AU) Geo
+https://amg00861-terncloud-amg00861c8-lg-au-3101.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderhd-lgau/playlist.m3u8
+#EXTINF:-1 tvg-id="KiteVicters.in@SD" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="南亚",KITE Victers (Kerala) (720p) [Not 24/7]
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KTO.fr@SD" tvg-logo="https://i.imgur.com/EY6TsdV.png" group-title="南亚",KTO (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/kto/browser-dash/kto.mpd
+#EXTINF:-1 tvg-id="KairaliArabia.in@SD" tvg-logo="https://i.imgur.com/BBEfplL.png" group-title="南亚",Kairali Arabia (576p)
+https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8
+#EXTINF:-1 tvg-id="KalaignarTV.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kalaignar%20TV.png" group-title="南亚",Kalaignar TV (396p)
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LG Channels Holiday Showcase Geo
+https://amg00497-amg00497c10-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c10-amgplt0023/playlist.m3u8
+#EXTINF:-1 group-title="南亚",Lacrosse (CA) Geo
+https://amg01267-tripleb-amg01267c2-lg-ca-4770.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="南亚",Lacrosse (US) Geo
+https://amg01267-tripleb-amg01267c2-lg-us-4759.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="南亚",Lala Life English (AU) Geo Alt 2
+https://amg02051-soulpublishing-amg02051c17-lg-au-340.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-lgau/playlist.m3u8
+#EXTINF:-1 group-title="南亚",Lets Make a Deal (CA) Geo
+https://amg00145-amg00145c22-lg-ca-5663.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IN2400001L0" tvg-name="Life+Style" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2400001L0_20250811T033504SQUARE.png" group-title="南亚",Life+Style
+https://jmp2.uk/stvp-IN2400001L0
+#EXTINF:-1 group-title="南亚",Little Women L.A (GB) Geo
+https://amg00276-aenetwork-amg00276c18-lg-gb-3917.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="南亚",Little Women L.A (NL) Geo
+https://amg00276-aenetwork-amg00276c18-lg-nl-3918.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Abilene (US) Geo
+https://amg01583-localnow-amg01583c173-lg-us-1568.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowabilene-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Albany (US) Geo
+https://amg01583-localnow-amg01583c74-lg-us-1602.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowalbany-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Albany GA (US) Geo
+https://amg01583-localnow-amg01583c214-lg-us-1650.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowalbanyga-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Alexandria (US) Geo
+https://amg01583-localnow-amg01583c197-lg-us-1637.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowalexandria-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Alpena (US) Geo
+https://amg01583-localnow-amg01583c200-lg-us-1640.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowalpena-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Amarillo (US) Geo
+https://amg01583-localnow-amg01583c147-lg-us-1540.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowamarillo-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Anchorage (US) Geo
+https://amg01583-localnow-amg01583c154-lg-us-1547.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowanchorage-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Atlanta (US) Geo
+https://amg01583-localnow-amg01583c225-lg-us-1599.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowatlanta-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Augusta (US) Geo
+https://amg01583-localnow-amg01583c105-lg-us-1502.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowaugusta-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Aurora (US) Geo
+https://amg01583-localnow-amg01583c156-lg-us-1550.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowaurora-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Austin (US) Geo
+https://amg01583-localnow-amg01583c22-lg-us-1427.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowaustin-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Bakersfield (US) Geo
+https://amg01583-localnow-amg01583c142-lg-us-1534.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowbakersfield-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Baltimore (US) Geo
+https://amg01583-localnow-amg01583c32-lg-us-1437.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowbaltimore-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Bangor (US) Geo
+https://amg01583-localnow-amg01583c152-lg-us-1545.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowbangor-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Baton Rouge (US) Geo
+https://amg01583-localnow-amg01583c92-lg-us-1608.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowbatonrouge-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Beaumont (US) Geo
+https://amg01583-localnow-amg01583c151-lg-us-1544.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowbeaumont-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Beckley (US) Geo
+https://amg01583-localnow-amg01583c172-lg-us-1567.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowbeckley-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Bend (US) Geo
+https://amg01583-localnow-amg01583c191-lg-us-1630.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowbend-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Bergen County (US) Geo
+https://amg01583-localnow-amg01583c138-lg-us-1618.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowbergencounty-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Billings (US) Geo
+https://amg01583-localnow-amg01583c176-lg-us-1571.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowbillings-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Biloxi (US) Geo
+https://amg01583-localnow-amg01583c116-lg-us-1514.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowbiloxi-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Binghamton (US) Geo
+https://amg01583-localnow-amg01583c124-lg-us-1522.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowbinghamton-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Bismarck (US) Geo
+https://amg01583-localnow-amg01583c158-lg-us-1552.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowbismarck-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Boston (US) Geo
+https://amg01583-localnow-amg01583c16-lg-us-1422.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowboston-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Bowling Green (US) Geo
+https://amg01583-localnow-amg01583c168-lg-us-1563.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowbowlinggreen-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Bristol (US) Geo
+https://amg01583-localnow-amg01583c85-lg-us-1488.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowbristol-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Brownsville (US) Geo
+https://amg01583-localnow-amg01583c122-lg-us-1520.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowbrownsville-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Buffalo (US) Geo
+https://amg01583-localnow-amg01583c70-lg-us-1475.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowbuffalo-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Burlington (US) Geo
+https://amg01583-localnow-amg01583c112-lg-us-1511.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowburlington-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Butte (US) Geo
+https://amg01583-localnow-amg01583c193-lg-us-1632.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowbutte-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Casper (US) Geo
+https://amg01583-localnow-amg01583c184-lg-us-1624.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowcasper-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Cedar Rapids (US) Geo
+https://amg01583-localnow-amg01583c113-lg-us-1512.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowcedarrapids-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Charlotte (US) Geo
+https://amg01583-localnow-amg01583c14-lg-us-1420.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowcharlotte-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Charlottesville (US) Geo
+https://amg01583-localnow-amg01583c133-lg-us-1532.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowcharlottesville-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Cheyenne (US) Geo
+https://amg01583-localnow-amg01583c189-lg-us-1631.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowcheyenne-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Chicago (US) Geo
+https://amg01583-localnow-amg01583c2-lg-us-1394.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowchicago-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Cincinatti (US) Geo
+https://amg01583-localnow-amg01583c39-lg-us-1445.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowcincinnati-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Clarksburg (US) Geo
+https://amg01583-localnow-amg01583c161-lg-us-1556.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowclarksburg-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Cleveland (US) Geo
+https://amg01583-localnow-amg01583c18-lg-us-1424.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowcleveland-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Columbia MO (US) Geo
+https://amg01583-localnow-amg01583c213-lg-us-1528.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowcolumbiamo-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Columbus (US) Geo
+https://amg01583-localnow-amg01583c24-lg-us-1429.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowcolumbus-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Corpus Christi (US) Geo
+https://amg01583-localnow-amg01583c129-lg-us-1527.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowcorpuschristi-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - D.C (US) Geo
+https://amg01583-localnow-amg01583c8-lg-us-1415.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowdc-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Dallas (US) Geo
+https://amg01583-localnow-amg01583c3-lg-us-1414.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowdallas-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Dallas Downtown (US) Geo
+https://amg01583-localnow-amg01583c224-lg-us-1655.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowdallasdowntown-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Davenport (US) Geo
+https://amg01583-localnow-amg01583c108-lg-us-1507.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowdavenport-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - DeSoto (US) Geo
+https://amg01583-localnow-amg01583c146-lg-us-1539.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowdesoto-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Decatur (US) Geo
+https://amg01583-localnow-amg01583c201-lg-us-1641.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowdecatur-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Denver (US) Geo
+https://amg01583-localnow-amg01583c27-lg-us-1432.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowdenver-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Des Moines (US) Geo
+https://amg01583-localnow-amg01583c71-lg-us-1476.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowdesmoines-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Detroit (US) Geo
+https://amg01583-localnow-amg01583c12-lg-us-1418.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowdetroit-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Dothan (US) Geo
+https://amg01583-localnow-amg01583c145-lg-us-1538.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowdothan-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Downtown Denver (US) Geo
+https://amg01583-localnow-amg01583c130-lg-us-1529.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowdowntowndenver-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Duluth (US) Geo
+https://amg01583-localnow-amg01583c126-lg-us-1524.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowduluth-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - El Paso (US) Geo
+https://amg01583-localnow-amg01583c99-lg-us-1495.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowelpaso-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Erie (US) Geo
+https://amg01583-localnow-amg01583c141-lg-us-1533.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowerie-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Eugene (US) Geo
+https://amg01583-localnow-amg01583c111-lg-us-1510.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnoweugene-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Eureka (US) Geo
+https://amg01583-localnow-amg01583c204-lg-us-1644.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnoweureka-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Evansville (US) Geo
+https://amg01583-localnow-amg01583c106-lg-us-1503.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowevansville-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Fairbanks (US) Geo
+https://amg01583-localnow-amg01583c207-lg-us-1647.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowfairbanks-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Fargo (US) Geo
+https://amg01583-localnow-amg01583c127-lg-us-1525.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowfargo-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Flagstaff (US) Geo
+https://amg01583-localnow-amg01583c132-lg-us-1531.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowflagstaff-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Flint (US) Geo
+https://amg01583-localnow-amg01583c90-lg-us-1492.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowflint-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Florence (US) Geo
+https://amg01583-localnow-amg01583c101-lg-us-1497.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowflorence-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Fort Wayne (US) Geo
+https://amg01583-localnow-amg01583c91-lg-us-1606.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowfortwayne-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Fresno (US) Geo
+https://amg01583-localnow-amg01583c80-lg-us-1483.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowfresno-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Gainesville (US) Geo
+https://amg01583-localnow-amg01583c114-lg-us-1513.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowgainesville-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Glendive (US) Geo
+https://amg01583-localnow-amg01583c208-lg-us-1645.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowglendive-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Grand Junction (US) Geo
+https://amg01583-localnow-amg01583c159-lg-us-1554.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowgrandjunction-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Great Falls (US) Geo
+https://amg01583-localnow-amg01583c195-lg-us-1635.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowgreatfalls-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Green Bay (US) Geo
+https://amg01583-localnow-amg01583c82-lg-us-1485.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowgreenbay-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Greensboro (US) Geo
+https://amg01583-localnow-amg01583c41-lg-us-1446.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowgreensboro-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Greenville (US) Geo
+https://amg01583-localnow-amg01583c31-lg-us-1436.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowgreenville-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Greenville MS (US) Geo
+https://amg01583-localnow-amg01583c219-lg-us-1651.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowgreenvillems-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Greenville NC (US) Geo
+https://amg01583-localnow-amg01583c211-lg-us-1501.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowgreenvillenc-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Hagerstown (US) Geo
+https://amg01583-localnow-amg01583c49-lg-us-1454.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowhagerstown-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Hartford (US) Geo
+https://amg01583-localnow-amg01583c26-lg-us-1431.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowhartford-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Hattiesburg (US) Geo
+https://amg01583-localnow-amg01583c181-lg-us-1622.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowhattiesburg-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Helena (US) Geo
+https://amg01583-localnow-amg01583c205-lg-us-1648.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowhelena-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Honolulu (US) Geo
+https://amg01583-localnow-amg01583c148-lg-us-1541.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowhonolulu-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Houston (US) Geo
+https://amg01583-localnow-amg01583c6-lg-us-1416.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowhouston-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Idaho Falls (US) Geo
+https://amg01583-localnow-amg01583c170-lg-us-1565.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowidahofalls-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Indy (US) Geo
+https://amg01583-localnow-amg01583c21-lg-us-1426.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowindy-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Irving (US) Geo
+https://amg01583-localnow-amg01583c179-lg-us-1619.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowirving-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Jackson (US) Geo
+https://amg01583-localnow-amg01583c94-lg-us-1605.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowjackson-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Jackson TN (US) Geo
+https://amg01583-localnow-amg01583c216-lg-us-1549.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowjacksontn-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Jacksonville (US) Geo
+https://amg01583-localnow-amg01583c34-lg-us-1439.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowjacksonville-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Johnstown (US) Geo
+https://amg01583-localnow-amg01583c121-lg-us-1519.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowjohnstown-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Jonesboro (US) Geo
+https://amg01583-localnow-amg01583c169-lg-us-1564.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowjonesboro-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Joplin (US) Geo
+https://amg01583-localnow-amg01583c163-lg-us-1558.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowjoplin-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Juneau (US) Geo
+https://amg01583-localnow-amg01583c209-lg-us-1649.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowjuneau-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - K.C (US) Geo
+https://amg01583-localnow-amg01583c33-lg-us-1438.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowkc-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - LA (US) Geo
+https://amg01583-localnow-amg01583c1-lg-us-1393.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowla-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - La Crosse (US) Geo
+https://amg01583-localnow-amg01583c134-lg-us-1611.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowlacrosse-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Lafayette (US) Geo
+https://amg01583-localnow-amg01583c115-lg-us-1612.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowlafayette-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Lafayette IN (US) Geo
+https://amg01583-localnow-amg01583c217-lg-us-1553.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowlafayettein-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Lake Charles (US) Geo
+https://amg01583-localnow-amg01583c187-lg-us-1627.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowlakecharles-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Lansing (US) Geo
+https://amg01583-localnow-amg01583c118-lg-us-1516.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowlansing-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Laredo (US) Geo
+https://amg01583-localnow-amg01583c203-lg-us-1643.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowlaredo-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Lincoln (US) Geo
+https://amg01583-localnow-amg01583c128-lg-us-1526.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowlincoln-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Little Rock (US) Geo
+https://amg01583-localnow-amg01583c51-lg-us-1456.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowlittlerock-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Louisville (US) Geo
+https://amg01583-localnow-amg01583c44-lg-us-1449.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowlouisville-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Macon (US) Geo
+https://amg01583-localnow-amg01583c103-lg-us-1499.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowmacon-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Madison (US) Geo
+https://amg01583-localnow-amg01583c95-lg-us-1609.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowmadison-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Mankato (US) Geo
+https://amg01583-localnow-amg01583c194-lg-us-1634.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowmankato-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Marietta (US) Geo
+https://amg01583-localnow-amg01583c87-lg-us-1490.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowmarietta-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Marquette (US) Geo
+https://amg01583-localnow-amg01583c178-lg-us-1573.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowmarquette-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Medford (US) Geo
+https://amg01583-localnow-amg01583c155-lg-us-1548.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowmedford-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Memphis (US) Geo
+https://amg01583-localnow-amg01583c45-lg-us-1450.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowmemphis-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Meridian (US) Geo
+https://amg01583-localnow-amg01583c196-lg-us-1636.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowmeridian-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Miami (US) Geo
+https://amg01583-localnow-amg01583c226-lg-us-1600.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowmiami-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Midland (US) Geo
+https://amg01583-localnow-amg01583c171-lg-us-1566.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowmidland-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Midtown (US) Geo
+https://amg01583-localnow-amg01583c183-lg-us-1623.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowmidtown-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Minneapolis (US) Geo
+https://amg01583-localnow-amg01583c13-lg-us-1421.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowminneapolis-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Missoula (US) Geo
+https://amg01583-localnow-amg01583c164-lg-us-1559.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowmissoula-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Mobile (US) Geo
+https://amg01583-localnow-amg01583c48-lg-us-1453.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowmobile-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Monroe (US) Geo
+https://amg01583-localnow-amg01583c162-lg-us-1557.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowmonroe-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Monterey (US) Geo
+https://amg01583-localnow-amg01583c175-lg-us-1570.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowmonterey-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Montgomery (US) Geo
+https://amg01583-localnow-amg01583c123-lg-us-1521.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowmontgomery-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - NYC (US) Geo
+https://amg01583-localnow-amg01583c7-lg-us-1413.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnownyc-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Nashville (US) Geo
+https://amg01583-localnow-amg01583c28-lg-us-1433.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnownashville-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - New Orleans (US) Geo
+https://amg01583-localnow-amg01583c76-lg-us-1480.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowneworleans-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Newburgh (US) Geo
+https://amg01583-localnow-amg01583c46-lg-us-1451.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnownewburgh-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Norfolk (US) Geo
+https://amg01583-localnow-amg01583c37-lg-us-1442.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnownorfolk-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - North Platte (US) Geo
+https://amg01583-localnow-amg01583c206-lg-us-1646.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnownorthplatte-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - OKC (US) Geo
+https://amg01583-localnow-amg01583c43-lg-us-1448.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowokc-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Omaha (US) Geo
+https://amg01583-localnow-amg01583c72-lg-us-1477.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowomaha-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Orlando (US) Geo
+https://amg01583-localnow-amg01583c11-lg-us-1417.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnoworlando-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Ottumwa (US) Geo
+https://amg01583-localnow-amg01583c202-lg-us-1642.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowottumwa-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Paducah (US) Geo
+https://amg01583-localnow-amg01583c104-lg-us-1500.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowpaducah-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Panama City (US) Geo
+https://amg01583-localnow-amg01583c93-lg-us-1607.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowpanamacity-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Parkersburg (US) Geo
+https://amg01583-localnow-amg01583c166-lg-us-1561.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowparkersburg-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Peoria (US) Geo
+https://amg01583-localnow-amg01583c109-lg-us-1508.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowpeoria-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Phoenix (US) Geo
+https://amg01583-localnow-amg01583c5-lg-us-1411.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowphoenix-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Pittsburgh (US) Geo
+https://amg01583-localnow-amg01583c40-lg-us-1444.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowpittsburgh-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Plano (US) Geo
+https://amg01583-localnow-amg01583c119-lg-us-1517.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowplano-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Portland (US) Geo
+https://amg01583-localnow-amg01583c23-lg-us-1428.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowportland-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Providence (US) Geo
+https://amg01583-localnow-amg01583c75-lg-us-1479.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowprovidence-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Quincy (US) Geo
+https://amg01583-localnow-amg01583c186-lg-us-1628.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowquincy-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Raleigh (US) Geo
+https://amg01583-localnow-amg01583c17-lg-us-1423.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowraleigh-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Rapid City (US) Geo
+https://amg01583-localnow-amg01583c180-lg-us-1620.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowrapidcity-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Redding (US) Geo
+https://amg01583-localnow-amg01583c167-lg-us-1562.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowredding-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Reno (US) Geo
+https://amg01583-localnow-amg01583c125-lg-us-1523.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowreno-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Roanoke (US) Geo
+https://amg01583-localnow-amg01583c79-lg-us-1482.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowroanoke-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Rochester (US) Geo
+https://amg01583-localnow-amg01583c78-lg-us-1603.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowrochester-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Rochester MN (US) Geo
+https://amg01583-localnow-amg01583c218-lg-us-1574.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowrochestermn-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Rockford (US) Geo
+https://amg01583-localnow-amg01583c143-lg-us-1536.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowrockford-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Roswell (US) Geo
+https://amg01583-localnow-amg01583c136-lg-us-1616.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowroswell-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Roswell New Mexico (US) Geo
+https://amg01583-localnow-amg01583c177-lg-us-1572.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowroswellnewmexico-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - SLC (US) Geo
+https://amg01583-localnow-amg01583c35-lg-us-1440.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowslc-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Sacramento (US) Geo
+https://amg01583-localnow-amg01583c30-lg-us-1434.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowsacramento-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Salisbury (US) Geo
+https://amg01583-localnow-amg01583c140-lg-us-1615.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowsalisbury-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - San Angelo (US) Geo
+https://amg01583-localnow-amg01583c198-lg-us-1638.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowsanangelo-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - San Antonio (US) Geo
+https://amg01583-localnow-amg01583c25-lg-us-1430.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowsanantonio-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - San Diego (US) Geo
+https://amg01583-localnow-amg01583c36-lg-us-1441.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowsandiego-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - San Francisco (US) Geo
+https://amg01583-localnow-amg01583c19-lg-us-1395.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowsanfrancisco-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - San Jose (US) Geo
+https://amg01583-localnow-amg01583c97-lg-us-1493.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowsanjose-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Santa Barbara (US) Geo
+https://amg01583-localnow-amg01583c153-lg-us-1546.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowsantabarbara-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Savannah (US) Geo
+https://amg01583-localnow-amg01583c73-lg-us-1478.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowsavannah-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Seattle (US) Geo
+https://amg01583-localnow-amg01583c15-lg-us-1425.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowseattle-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Sherman (US) Geo
+https://amg01583-localnow-amg01583c174-lg-us-1569.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowsherman-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Shreveport (US) Geo
+https://amg01583-localnow-amg01583c102-lg-us-1498.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowshreveport-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Sioux City (US) Geo
+https://amg01583-localnow-amg01583c165-lg-us-1560.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowsiouxcity-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Sioux Falls (US) Geo
+https://amg01583-localnow-amg01583c117-lg-us-1515.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowsiouxfalls-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - South Bend (US) Geo
+https://amg01583-localnow-amg01583c88-lg-us-1491.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowsouthbend-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Spokane (US) Geo
+https://amg01583-localnow-amg01583c77-lg-us-1481.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowspokane-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Springfield (US) Geo
+https://amg01583-localnow-amg01583c89-lg-us-1604.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowspringfield-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Springfield IL (US) Geo
+https://amg01583-localnow-amg01583c212-lg-us-1505.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowspringfieldil-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Springfield MA (US) Geo
+https://amg01583-localnow-amg01583c215-lg-us-1535.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowspringfieldma-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - St Louis (US) Geo
+https://amg01583-localnow-amg01583c220-lg-us-1653.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowstlouis-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Stapleton (US) Geo
+https://amg01583-localnow-amg01583c185-lg-us-1626.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowstapleton-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Syracuse (US) Geo
+https://amg01583-localnow-amg01583c96-lg-us-1610.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowsyracuse-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Tallahassee (US) Geo
+https://amg01583-localnow-amg01583c98-lg-us-1494.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowtallahassee-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Tampa (US) Geo
+https://amg01583-localnow-amg01583c10-lg-us-1419.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowtampa-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Terre Haute (US) Geo
+https://amg01583-localnow-amg01583c149-lg-us-1542.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowterrehaute-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Toledo (US) Geo
+https://amg01583-localnow-amg01583c84-lg-us-1487.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowtoledo-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Topeka (US) Geo
+https://amg01583-localnow-amg01583c139-lg-us-1617.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowtopeka-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Traverse City (US) Geo
+https://amg01583-localnow-amg01583c137-lg-us-1614.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowtraversecity-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Tupelo (US) Geo
+https://amg01583-localnow-amg01583c131-lg-us-1530.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowtupelo-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Twin Falls (US) Geo
+https://amg01583-localnow-amg01583c199-lg-us-1639.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowtwinfalls-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Tyler (US) Geo
+https://amg01583-localnow-amg01583c107-lg-us-1504.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowtyler-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Utica (US) Geo
+https://amg01583-localnow-amg01583c160-lg-us-1555.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowutica-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Vegas (US) Geo
+https://amg01583-localnow-amg01583c29-lg-us-1435.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowvegas-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Victoria (US) Geo
+https://amg01583-localnow-amg01583c192-lg-us-1633.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowvictoria-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Waco (US) Geo
+https://amg01583-localnow-amg01583c83-lg-us-1486.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowwaco-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Washington Park (US) Geo
+https://amg01583-localnow-amg01583c182-lg-us-1621.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowwashingtonpark-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Watertown (US) Geo
+https://amg01583-localnow-amg01583c190-lg-us-1629.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowwatertown-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Wausau (US) Geo
+https://amg01583-localnow-amg01583c150-lg-us-1543.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowwausau-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - White Plains (US) Geo
+https://amg01583-localnow-amg01583c135-lg-us-1613.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowwhiteplains-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Wichita Falls (US) Geo
+https://amg01583-localnow-amg01583c144-lg-us-1537.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowwichitafalls-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Wilmington (US) Geo
+https://amg01583-localnow-amg01583c100-lg-us-1496.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowwilmington-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Yakima (US) Geo
+https://amg01583-localnow-amg01583c120-lg-us-1518.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowyakima-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Youngstown (US) Geo
+https://amg01583-localnow-amg01583c110-lg-us-1509.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowyoungstown-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow - Yuma (US) Geo
+https://amg01583-localnow-amg01583c188-lg-us-1625.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowyuma-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",LocalNow Birmingham (US) Geo
+https://amg01583-localnow-amg01583c42-lg-us-1447.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowbirmingham-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",Mav TV Select (US) Geo
+https://amg00378-mavtv-amg00378c4-lg-us-1984.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-mavtvselectdomestic-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVSeries.co@SD" tvg-logo="https://i.imgur.com/ohCSMhY.png" group-title="南亚",Memorias TV Series (720p) [Geo-blocked]
+https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
+#EXTINF:-1 group-title="南亚",Movies 4 Free Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/videosolu-movies4free-lg/playlist.m3u8
+#EXTINF:-1 tvg-id="NambikkaiTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAMBIKKAI_TV/images/LOGO_HD/image.png" group-title="南亚",Nambikkai TV (576p)
+https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8
+#EXTINF:-1 tvg-id="NamdhariTV.in@SD" tvg-logo="https://i.imgur.com/NalsXTo.png" group-title="南亚",Namdhari (404p) [Not 24/7]
+https://namdhari.tv/live/sbs1.m3u8
+#EXTINF:-1 tvg-id="NandighoshaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="南亚",Nandighosha TV (720p)
+https://www.nandighoshatvlive.com/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png" group-title="南亚",National Geographic Wild HD (1080p)
+http://103.157.248.140:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="NireekshanaTV.in@SD" tvg-logo="https://i.imgur.com/nGJv6QR.png" group-title="南亚",Nireekshana TV (576p)
+https://cdn-1.pishow.tv/live/965/master.m3u8
+#EXTINF:-1 group-title="南亚",Now 70s (FI) Geo
+https://amg01076-lightning-amg01076c1-lg-fi-3973.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="南亚",Now 70s (NL) Geo
+https://amg01076-lightning-amg01076c1-lg-nl-3978.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="南亚",Now 70s (SE) Geo
+https://amg01076-lightning-amg01076c1-lg-se-3981.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="南亚",Now 80s (PT) Geo
+https://amg01076-lightning-amg01076c2-lg-pt-4095.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OnTV.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/oo/on-tv-in.png" group-title="南亚",On TV (576p)
+https://mumt03.tangotv.in/ONTV/index.m3u8
+#EXTINF:-1 tvg-id="PTV.ph@SD" tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="南亚",PTV 4 (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/ptv/playlist.m3u8
+#EXTINF:-1 tvg-id="PeaceofMindTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEACE_OF_MIND/images/LOGO_HD/image.png" group-title="南亚",Peace Of Mind TV (576p)
+https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8
+#EXTINF:-1 tvg-id="RPlus.in@SD" tvg-logo="https://i.imgur.com/XUnWcZF.png" group-title="南亚",R Plus (768p)
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+#EXTINF:-1 tvg-id="RTMParlimenDewanNegara.my@SD" tvg-logo="https://i.postimg.cc/mgrVsTMY/header.png" group-title="南亚",RTM Parlimen (Dewan Negara) [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+#EXTINF:-1 tvg-id="RTMParlimenDewanRakyat.my@SD" tvg-logo="https://i.postimg.cc/mgrVsTMY/header.png" group-title="南亚",RTM Parlimen (Dewan Rakyat) [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
+#EXTINF:-1 tvg-id="Radio51TV.it@SD" tvg-logo="https://i.imgur.com/UupkBt6.png" group-title="南亚",Radio 51 TV (480p) [Geo-blocked]
+http://178.32.140.155/canale51/canale51/playlist.m3u8
+#EXTINF:-1 tvg-id="RongeenTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RONGEEN_TV/images/LOGO_HD/image.png" group-title="南亚",Rongeen TV (720p)
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+#EXTINF:-1 tvg-id="RadioSines.pt@SD" tvg-logo="https://i.imgur.com/Oe6F1nL.png" group-title="南亚",Rádio Sines (720p) [Geo-blocked]
+https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SVBC2.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143890_ld_h9_aa.png?lock=720x540" group-title="南亚",SVBC 2 (1080p)
+https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SVBC4.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SVBC4.png" group-title="南亚",SVBC 4 (1080p)
+https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SVBC.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540" group-title="南亚",SVBC Sri Venkateswara Bhakti Channel (1080p)
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Sadhna.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SADHNA/images/LOGO_HD/image.png" group-title="南亚",Sadhna (720p)
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SafariTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png" group-title="南亚",Safari TV (480p) [Not 24/7]
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SairamTV.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sairam_tv_in.png" group-title="南亚",Sairam TV (576p)
+https://mumt04.tangotv.in/SAIRAMTV/index.m3u8
+#EXTINF:-1 tvg-id="SalvationTV.in@SD" tvg-logo="https://content.jdmagicbox.com/comp/bangalore/l5/080pxx80.xx80.150207120517.e4l5/catalogue/salvation-tv-network-pvt-m-g-road-bangalore-religious-organizations-1sabn2d.jpg" group-title="南亚",Salvation TV (1080p)
+https://ktismaservers.in:3902/live/salvationtvlive.m3u8
+#EXTINF:-1 tvg-id="INBD4700018T7" tvg-name="Sangeet Bangla" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700018T7_20250612T083839SQUARE.png" group-title="南亚",Sangeet Bangla
+https://jmp2.uk/stvp-INBD4700018T7
+#EXTINF:-1 tvg-id="INBD4700017SL" tvg-name="Sangeet Bhojpuri" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700017SL_20240710T022253SQUARE.png" group-title="南亚",Sangeet Bhojpuri
+https://jmp2.uk/stvp-INBD4700017SL
+#EXTINF:-1 tvg-id="SankaraTV.in@SD" tvg-logo="https://i.imgur.com/2z0bDRD.png" group-title="南亚",Sankara TV (576p)
+https://cdn-3.pishow.tv/live/1135/master.m3u8
+#EXTINF:-1 tvg-id="SansadTV2.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png?lock=720x540" group-title="南亚",Sansad TV 2 (1080p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
+#EXTINF:-1 tvg-id="SanskarWebTV.in@SD" tvg-logo="https://i.imgur.com/mu2B6hw.png" group-title="南亚",Sanskar Web TV (1080p)
+https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8
+#EXTINF:-1 tvg-id="SantvaniChannel.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143763_ld_h15_aa.png?lock=720x540" group-title="南亚",Santvani Channel (576p)
+https://cdn-2.pishow.tv/live/475/master.m3u8
+#EXTINF:-1 tvg-id="SatsangTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SATSANG/images/LOGO_HD/image.png" group-title="南亚",Satsang TV (1080p)
+https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
+#EXTINF:-1 tvg-id="SatsangWebTV.in@SD" tvg-logo="https://i.imgur.com/40kNu1w.png" group-title="南亚",Satsang Web TV (1080p)
+https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
+#EXTINF:-1 group-title="南亚",Screamin Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/zyloAAAAA-zylo-screamin-lg/playlist.m3u8
+#EXTINF:-1 tvg-id="ShaliniTV.in@SD" tvg-logo="https://i.imgur.com/fDdG6Y2.png" group-title="南亚",Shalini TV (576p)
+https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
+#EXTINF:-1 tvg-id="Shalom.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540" group-title="南亚",Shalom (1080p)
+https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="ShemarooMarathiBana.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_MARATHIBANA/images/LOGO_HD/image.png" group-title="南亚",Shemaroo Marathi Bana (720p)
+https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8]
+#EXTINF:-1 tvg-id="ShubhTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHUBH_TV/images/LOGO_HD/image.png" group-title="南亚",Shubh TV (1080p)
+https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
+#EXTINF:-1 tvg-id="ShubhsandeshTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHUBHSANDESH_TV/images/LOGO_HD/image.png" group-title="南亚",Shubhsandesh TV (720p) [Not 24/7]
+https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:-1 tvg-id="SirippoliTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png?lock=720x540" group-title="南亚",Sirippoli TV (576p)
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:-1 tvg-id="SohamTV.in@SD" tvg-logo="https://i.imgur.com/cpedJ0L.png" group-title="南亚",Soham TV (576p)
+https://mumt03.tangotv.in/SOHAMTV/index.m3u8
+#EXTINF:-1 tvg-id="IN24000052F" tvg-name="Star Central" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN24000052F_20250811T033512SQUARE.png" group-title="南亚",Star Central
+https://jmp2.uk/stvp-IN24000052F
+#EXTINF:-1 tvg-id="Starnet.in@SD" tvg-logo="https://i.imgur.com/J3jB7Kr.png" group-title="南亚",Starnet (480p)
+https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
+#EXTINF:-1 tvg-id="SubhartiTV.in@SD" tvg-logo="https://i.imgur.com/9hdNFtt.png" group-title="南亚",Subharti TV (576p)
+https://mumt04.tangotv.in/SUBHARTITV/index.m3u8
+#EXTINF:-1 tvg-id="SubhavaarthaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUBHAVAARTHA/images/LOGO_HD/image.png" group-title="南亚",Subhavaartha TV (720p)
+https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SukanRTM.my@SD" tvg-logo="https://i.imgur.com/1pYYSu2.png" group-title="南亚",Sukan RTM (1080p) [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-id="SuspilneKrym.ua@SD" tvg-logo="https://i.imgur.com/m7znCes.png" group-title="南亚",Suspilne. Krym (1080p) [Geo-blocked]
+https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
+#EXTINF:-1 tvg-id="TMC.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" group-title="南亚",TMC HD (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+#EXTINF:-1 tvg-id="TV6.my@SD" tvg-logo="https://i.imgur.com/bK8UH9D.png" group-title="南亚",TV6 [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+#EXTINF:-1 tvg-id="TaazaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Taaza_TV.png" group-title="南亚",Taaza TV (720p)
+https://live.we2live.in/taazatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TamilanTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tamilan_Television.png" group-title="南亚",Tamilan TV (1080p)
+https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleYucatan.mx@SD" tvg-logo="https://i.imgur.com/XkpDSmO.png" group-title="南亚",Tele Yucatan (1080p) [Geo-blocked]
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
+#EXTINF:-1 tvg-id="IN400058AF" tvg-name="TeluguOne TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400058AF_20260311T004509SQUARE.png" group-title="南亚",TeluguOne TV
+https://jmp2.uk/stvp-IN400058AF
+#EXTINF:-1 tvg-id="IN800001OD" tvg-name="That's 70s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800001OD_20260318T003937SQUARE.png" group-title="南亚",That's 70s
+https://jmp2.uk/stvp-IN800001OD
+#EXTINF:-1 tvg-id="IN800004YV" tvg-name="That's 90s00s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800004YV_20260318T003946SQUARE.png" group-title="南亚",That's 90s00s
+https://jmp2.uk/stvp-IN800004YV
+#EXTINF:-1 group-title="南亚",The Conners (US) Geo
+https://amg00353-amg00353c36-lg-us-6064.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="南亚",The Country Network (US) Geo
+https://amg00600-tcn-amg00600c1-lg-us-929.playouts.now.amagi.tv/playlist/amg00600-thecountrynetworkfast-thecountrynetwork-lgus/playlist.m3u8
+#EXTINF:-1 group-title="南亚",The Dog Whisperer with Cesar Millan (US) Geo
+https://amg01201-cinedigm-amg01201c30-lg-us-5871.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheQIndia.us@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144002_ld_h15_aa.png?lock=720x540" group-title="南亚",The Q India (576p)
+https://mumt05.tangotv.in/THEQ/index.m3u8
+#EXTINF:-1 tvg-id="IN400059ZR" tvg-name="Times Now Navbharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400059ZR_20260325T012321SQUARE.png" group-title="南亚",Times Now Navbharat
+https://jmp2.uk/stvp-IN400059ZR
+#EXTINF:-1 group-title="南亚",Trace Urban alt (DE) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-urban-lg-de/playlist.m3u8
+#EXTINF:-1 group-title="南亚",Trace Urban alt (UK) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-urban-lg-uk/playlist.m3u8
+#EXTINF:-1 tvg-id="VCV.in@SD" tvg-logo="https://i.imgur.com/KbU36xI.png" group-title="南亚",VCV (720p) [Not 24/7]
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV3.vn@HD" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="南亚",VTV3 HD (1080p) [Geo-blocked]
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="VTV7.vn@HD" tvg-logo="https://i.imgur.com/ZwoP823.png" group-title="南亚",VTV7 HD (1080p) [Geo-blocked]
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="VTV8.vn@HD" tvg-logo="https://i.imgur.com/rf9adGJ.png" group-title="南亚",VTV8 HD (1080p) [Geo-blocked]
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Vedic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144069_ld_h15_aa.png?lock=720x540" group-title="南亚",Vedic (480p)
+https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VillageTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VillageTV.png" group-title="南亚",Village TV (576p)
+https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
+#EXTINF:-1 tvg-id="VyasChannel.in@SD" tvg-logo="https://www.yupptv.com/seo_img/UGC_GEC_big.jpg" group-title="南亚",Vyas NIC (576p)
+https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
+#EXTINF:-1 group-title="南亚",Watch4Movies Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/videosolu-watch4movies-lg/playlist.m3u8
+#EXTINF:-1 tvg-id="WayanadVision.in@SD" tvg-logo="https://i.imgur.com/yF2C4Dt.png" group-title="南亚",Wayanad Vision (1080p)
+https://cloudsavre.in.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="IN460000585" tvg-name="Wild Flix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000585_20250416T020413SQUARE.png" group-title="南亚",Wild Flix
+https://jmp2.uk/stvp-IN460000585
+#EXTINF:-1 tvg-id="IN800006BS" tvg-name="Wild Stuff" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800006BS_20251217T003120SQUARE.png" group-title="南亚",Wild Stuff
+https://jmp2.uk/stvp-IN800006BS
+#EXTINF:-1 tvg-id="WinTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Win_TV.png" group-title="南亚",Win TV (576p)
+https://cdn-4.pishow.tv/live/1531/master.m3u8
+#EXTINF:-1 tvg-id="Xplore.gr@SD" tvg-logo="https://i.imgur.com/8oy62fX.png" group-title="南亚",Xplore (714p) [Geo-blocked]
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+#EXTINF:-1 tvg-id="ZBBhakti.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbbhakti.png" group-title="南亚",ZB Bhakti (720p)
+https://server.zillarbarta.com/zbbhakti/index.m3u8
+#EXTINF:-1 tvg-id="ZainabiaChannel.in@SD" group-title="南亚",Zainabia Channel
+https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+#EXTINF:-1 tvg-id="ZeeBusiness.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png?lock=720x540" group-title="南亚",Zee Business (720p)
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-id="ZeeCafe.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="南亚",Zee Cafe HD (1080p)
+http://103.229.254.25:7001/play/a0cx/index.m3u8
+#EXTINF:-1 tvg-id="TVRain.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/960px-Tvrain.svg.png" group-title="南亚",Дождь (1080p) [Geo-blocked]
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Prosveshchenie.ru@SD" tvg-logo="https://i.imgur.com/uppFhhq.png" group-title="南亚",Просвещение (540p) [Geo-blocked]
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
+#EXTINF:-1 tvg-id="AnNinhTV.vn@HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="东南亚",ANTV (1080p)
+https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
+#EXTINF:-1 tvg-id="AlImanTV.id@SD" tvg-logo="https://i.imgur.com/Qj1EFf1.png" group-title="东南亚",Al-Iman TV (720p)
+https://tv.aliman.id/aliman/live.m3u8
+#EXTINF:-1 tvg-id="AshiilTV.id@SD" tvg-logo="https://i.imgur.com/bTktkcr.png" group-title="东南亚",Ashiil TV (480p)
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+#EXTINF:-1 tvg-id="AstroBlitarTV.id@SD" tvg-logo="https://i.imgur.com/rORKbGw.png" group-title="东南亚",Astro Blitar TV (720p)
+https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
+#EXTINF:-1 tvg-id="AtambuaTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png" group-title="东南亚",Atambua TV (720p)
+http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="BiznetKids.id@SD" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="东南亚",Biznet Kids (1080p)
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
+#EXTINF:-1 tvg-id="BiznetLifestyle.id@SD" tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="东南亚",Biznet Lifestyle (1080p)
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
+#EXTINF:-1 tvg-id="CCTN47.ph@SD" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="东南亚",CCTN 47 (1080p) [Not 24/7]
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1 tvg-id="CVTVChannel192.us@SD" tvg-logo="https://i.imgur.com/loGNYCc.png" group-title="东南亚",CVTV Channel 192 (1080p)
+https://livestream.telvue.com/cvtv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="CaoBangTV.vn@SD" tvg-logo="https://i.imgur.com/dGonewm.png" group-title="东南亚",Cao Bằng TV (720p)
+https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="CineMo.ph@SD" tvg-logo="https://i.imgur.com/rGAOD3f.png" group-title="东南亚",CineMo (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd
+#EXTINF:-1 tvg-id="CinemaOne.ph@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/960px-Cinema_One_2013_logo.svg.png" group-title="东南亚",Cinema One (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
+#EXTINF:-1 tvg-id="CoolChannel.th@SD" tvg-logo="https://i.imgur.com/MU4E0A7.png" group-title="东南亚",Cool Channel
+https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+#EXTINF:-1 tvg-id="CanThoTV.vn@SD" tvg-logo="https://i.ibb.co/MDhNH26J/cantho1-2025.png" group-title="东南亚",Cần Thơ TV1 (1080p)
+https://live.canthotv.vn/live/tv/chunklist.m3u8
+#EXTINF:-1 tvg-id="CanThoTV2.vn@SD" tvg-logo="https://i.ibb.co/JjVvkMsf/cantho2-2025.png" group-title="东南亚",Cần Thơ TV2 (1080p)
+https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
+#EXTINF:-1 tvg-id="DLTV1.th@SD" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="东南亚",DLTV 1 (1080p)
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 tvg-id="DLTV11.th@SD" tvg-logo="https://i.imgur.com/hFk2b5s.png" group-title="东南亚",DLTV 11 (1080p)
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 tvg-id="DLTV12.th@SD" tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="东南亚",DLTV 12 (1080p)
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 tvg-id="DLTV13.th@SD" tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="东南亚",DLTV 13 (1080p)
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 tvg-id="DLTV14.th@SD" tvg-logo="https://i.imgur.com/HOjZRNS.png" group-title="东南亚",DLTV 14 (1080p)
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 tvg-id="DLTV15.th@SD" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="东南亚",DLTV 15 (1080p)
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+#EXTINF:-1 tvg-id="DLTV2.th@SD" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="东南亚",DLTV 2 (1080p)
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 tvg-id="DLTV5.th@SD" tvg-logo="https://i.imgur.com/J1E89jX.png" group-title="东南亚",DLTV 5 (1080p)
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 tvg-id="DLTV6.th@SD" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="东南亚",DLTV 6 (1080p)
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 tvg-id="DLTV7.th@SD" tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="东南亚",DLTV 7 (1080p)
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 tvg-id="DLTV8.th@SD" tvg-logo="https://i.imgur.com/xIwn5Ha.png" group-title="东南亚",DLTV 8 (1080p)
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 tvg-id="DaVinciAsia.de@Vietnam" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="东南亚",Da Vinci Asia Vietnam
+https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
+#EXTINF:-1 tvg-id="DavikaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Davika_TV.png" group-title="东南亚",Davika TV (480p)
+https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8
+#EXTINF:-1 tvg-id="DopaChannel.th@SD" tvg-logo="https://i.imgur.com/Z9vxti4.png" group-title="东南亚",Dopa Channel
+http://dopachannel.truegse.com/live/dopatv03.m3u8
+#EXTINF:-1 tvg-id="FilAmTVNetwork.us@HD" tvg-logo="https://i.imgur.com/nRiApdI.png" group-title="东南亚",FilAmTV Network (1080p)
+https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
+#EXTINF:-1 tvg-id="HTVKey.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png" group-title="东南亚",HTV Key (720p)
+https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8
+#EXTINF:-1 tvg-id="HillsboroughTV.us@SD" tvg-logo="https://i.imgur.com/fUne7FX.png" group-title="东南亚",Hillsborough County TV HTV (Hillsborough County FL) (360p)
+https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8
+#EXTINF:-1 tvg-id="HmongTVNetwork.us@SD" tvg-logo="https://yt3.googleusercontent.com/aj3kdBQTgfxP-bDnleou4m1ykjPRFexvfTZZuvWlNc75Hn9-NTqXYEdEJ_KOcTSsbKj24K1B9BM=s512-c-k-c0x00ffffff-no-rj" group-title="东南亚",Hmong TV Network (720p)
+https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ThuaThienHueTV.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/LogoHueTV_2025.png" group-title="东南亚",Huế TV (720p) [Geo-blocked]
+https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="HaTinhTV.vn@SD" tvg-logo="https://i.imgur.com/4yIgKKx.png" group-title="东南亚",Hà Tĩnh TV (720p)
+https://wse.hatinhtv.net/live/httv1/chunklist.m3u8
+#EXTINF:-1 tvg-id="INTRAVEL.nl@Philippines" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png" group-title="东南亚",InTravel (1080p)
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JambiTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Jambi_TV.png" group-title="东南亚",Jambi TV (480p) [Not 24/7]
+https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8
+#EXTINF:-1 tvg-id="JawaPosTV.id@Jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="东南亚",Jawa Pos TV Jakarta (720p)
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JawaPosTV.id@Madiun" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="东南亚",Jawa Pos TV Madiun (720p)
+http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JawaPosTV.id@Magelang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="东南亚",Jawa Pos TV Magelang (720p)
+http://122.248.43.242:1935/JAWAPOSTVMAGELANG/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JawaPosTV.id@Semarang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="东南亚",Jawa Pos TV Semarang (720p)
+http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JogjaIstimewaTV.id@SD" tvg-logo="https://i.imgur.com/VEqQfTu.png" group-title="东南亚",Jogja Istimewa TV (720p)
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="KawanuaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png" group-title="东南亚",Kawanua TV (720p)
+http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="KidsTV.id@SD" tvg-logo="https://i.imgur.com/B5YiUIP.png" group-title="东南亚",Kids TV
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+#EXTINF:-1 tvg-id="LanthungTV.th@SD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lanthung-tv-th.png" group-title="东南亚",Lanthung TV
+https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8
+#EXTINF:-1 tvg-id="LaoSVTV.vn@SD" tvg-logo="https://i.imgur.com/ZIXtazI.png" group-title="东南亚",Lao SV TV (480p)
+https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LaoThaiTV.us@SD" tvg-logo="https://i.imgur.com/q6cQzbv.png" group-title="东南亚",Lao-Thai TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LivingAsiaChannel.ph@HD" tvg-logo="https://i.imgur.com/q3UToRM.png" group-title="东南亚",Living Asia Channel (1080p)
+https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
+#EXTINF:-1 tvg-id="LamDongTV.vn@SD" tvg-logo="https://i.imgur.com/lSMoGlv.png" group-title="东南亚",Lâm Đồng TV (480p)
+http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="MagnaChannel.id@SD" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="东南亚",Magna Channel (1080p) [Not 24/7]
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MindanowNetworkTV.ph@SD" tvg-logo="https://i.imgur.com/xBlYirh.jpeg" group-title="东南亚",Mindanow Network TV (1080p)
+https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
+#EXTINF:-1 tvg-id="NATTV.us@SD" tvg-logo="https://i.imgur.com/a7tNaD5.png" group-title="东南亚",NAT TV (1080p)
+https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NabawiTV.id@SD" tvg-logo="https://i.imgur.com/O8WONFB.png" group-title="东南亚",Nabawi TV (720p)
+http://202.150.161.117:8000/play/NabawiTV
+#EXTINF:-1 tvg-id="PONTV.id@SD" tvg-logo="https://i.imgur.com/P5erWzm.png" group-title="东南亚",PONTV (720p)
+http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="PoliceTV.th@SD" tvg-logo="https://i.imgur.com/GhboFGt.png" group-title="东南亚",Police TV (1080p)
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+#EXTINF:-1 tvg-id="QPVN.vn@HD" tvg-logo="https://i.imgur.com/GQO7UNu.png" group-title="东南亚",QPVN HD (1080p)
+https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
+#EXTINF:-1 tvg-id="RCTI.id@HD" tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="东南亚",RCTI HD (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
+#EXTINF:-1 tvg-id="RRINet.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/960px-RRI_NET_2023.svg.png" group-title="东南亚",RRI Net (1080p)
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
+#EXTINF:-1 tvg-id="RVTVCivic.us@SD" tvg-logo="https://i.imgur.com/cTLhQjo.png" group-title="东南亚",RVTV Civic (720p)
+https://livestream.telvue.com/roguevalleycmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RVTVGrantsPass.us@SD" tvg-logo="https://i.imgur.com/Vpv0P6t.png" group-title="东南亚",RVTV Grants Pass (720p)
+https://livestream.telvue.com/roguevalleycmttv4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RVTVPrime.us@SD" tvg-logo="https://i.imgur.com/0Qd9Ic7.png" group-title="东南亚",RVTV Prime (720p)
+https://livestream.telvue.com/roguevalleycmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RVTVVoices.us@SD" tvg-logo="https://i.imgur.com/kOGQBZj.png" group-title="东南亚",RVTV Voices (720p)
+https://livestream.telvue.com/roguevalleycmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RadarTasikmalayaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="东南亚",Radar Tasikmalaya TV (720p) [Not 24/7]
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="东南亚",Rajawali TV
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+#EXTINF:-1 tvg-id="RakyatBengkuluTV.id@SD" tvg-logo="https://i.imgur.com/5L2q081.png" group-title="东南亚",Rakyat Bengkulu TV (720p)
+https://flv.intechmedia.net/live/ch59.m3u8
+#EXTINF:-1 tvg-id="RamaChannel.th@SD" tvg-logo="https://i.imgur.com/pnbzE2V.png" group-title="东南亚",Rama Channel
+https://ramach.ddns.net/live/ramalive/index.m3u8
+#EXTINF:-1 tvg-id="RinjaniTV.id@SD" tvg-logo="https://lombokindustries.com/assunnah/zone/img/rinjanitv.png" group-title="东南亚",Rinjani TV
+https://rinjanitv.cloud/hls/tvkabel.m3u8
+#EXTINF:-1 tvg-id="SBTTV.th@SD" tvg-logo="https://i.imgur.com/rmNDylW.png" group-title="东南亚",SBT TV
+http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
+#EXTINF:-1 tvg-id="SCTV1.vn@SD" tvg-logo="https://i.imgur.com/UcMXcHF.png" group-title="东南亚",SCTV1 (720p)
+https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8
+#EXTINF:-1 tvg-id="SCTV2.vn@SD" tvg-logo="https://i.imgur.com/8i5DXIg.png" group-title="东南亚",SCTV2 (720p)
+https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
+#EXTINF:-1 tvg-id="SCTV4.vn@SD" tvg-logo="https://i.imgur.com/qkZhzQq.png" group-title="东南亚",SCTV4 (720p)
+https://liveh12.vtvprime.vn/hls/SCTV4/index.m3u8
+#EXTINF:-1 tvg-id="SCTV6.vn@SD" tvg-logo="https://i.imgur.com/2oOVS42.png" group-title="东南亚",SCTV6 (1080p) [Geo-blocked]
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="SFGovTV.us@SD" tvg-logo="https://i.imgur.com/uYXuwmV.png" group-title="东南亚",SFGovTV San Francisco The Government Channel (720p)
+https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8
+#EXTINF:-1 tvg-id="SMTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png" group-title="东南亚",SMTV (720p)
+https://e.siar.us/live/smtv.m3u8
+#EXTINF:-1 tvg-id="STOUChannel.th@SD" tvg-logo="https://i.imgur.com/L3T2QZz.png" group-title="东南亚",STOU Channel (720p)
+https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="SaktiTV.id@SD" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="东南亚",Sakti TV (720p)
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="65df731cec9fda0008b7aa8d" tvg-name="South Park: Colección Cartman" tvg-logo="https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoPNG.png" group-title="东南亚",South Park: Colección Cartman
+https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
+#EXTINF:-1 tvg-id="65df71008b24c80008f04281" tvg-name="South Park: Coleção Cartman" tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-title="东南亚",South Park: Coleção Cartman
+https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-644b13a3a1c0a5b2024c8403" tvg-name="Strongman Champions" tvg-logo="https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png" group-title="东南亚",Strongman Champions
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644b13a3a1c0a5b2024c8403/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="TVRI.id@Aceh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="东南亚",TVRI Aceh (720p)
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@BangkaBelitung" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="东南亚",TVRI Bangka Belitung (480p)
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Gorontalo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="东南亚",TVRI Gorontalo (480p)
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Maluku" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="东南亚",TVRI Maluku (480p)
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@WestNusaTenggara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="东南亚",TVRI Nusa Tenggara Barat (720p)
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@SouthSulawesi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="东南亚",TVRI Sulawesi Selatan (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+#EXTINF:-1 tvg-id="TeaTV.vn@SD" tvg-logo="https://i.imgur.com/WorbnyD.jpg" group-title="东南亚",Tea TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ThaiNguyenTV.vn@SD" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png" group-title="东南亚",Thái Nguyên TV (720p)
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:-1 tvg-id="TimorTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png" group-title="东南亚",Timor TV (1080p)
+http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TayNinhTV.vn@SD" tvg-logo="https://tayninhtv.vn/static/images/logo.png" group-title="东南亚",Tây Ninh TV (720p)
+https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
+#EXTINF:-1 tvg-id="UChannel.id@SD" tvg-logo="https://i.imgur.com/qxkb0cy.png" group-title="东南亚",U Channel (720p)
+https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
+#EXTINF:-1 tvg-id="UniquelyThai.vn@SD" tvg-logo="https://i.imgur.com/cTSDB8O.png" group-title="东南亚",Uniquely Thai (720p)
+https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="VBSTV.us@SD" tvg-logo="https://i.imgur.com/OkslYzP.png" group-title="东南亚",VBS TV (480p) [Not 24/7]
+https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV2.vn@HD" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="东南亚",VTV2 HD (1080p) [Geo-blocked]
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="VTV5TayNamBo.vn@HD" tvg-logo="https://i.imgur.com/xiuHjEQ.png" group-title="东南亚",VTV5 Tây Nam Bộ HD (1080p)
+https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
+#EXTINF:-1 tvg-id="VTV5TayNguyen.vn@HD" tvg-logo="https://i.imgur.com/Hlcnqqt.png" group-title="东南亚",VTV5 Tây Nguyên HD (1080p)
+https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8
+#EXTINF:-1 tvg-id="VegasLifeTV.us@HD" tvg-logo="https://i.imgur.com/G7lONcu.png" group-title="东南亚",Vegas Life TV (1080p)
+https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV.ar@SD" tvg-logo="https://i.imgur.com/TLaausJ.png" group-title="东南亚",VerTV (VTV) (720p) [Not 24/7]
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+#EXTINF:-1 tvg-id="VietnamToday.vn@HD" tvg-logo="https://i.imgur.com/xW9rY7s.png" group-title="东南亚",Vietnam Today (1080p)
+https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
+#EXTINF:-1 tvg-id="WhiteChannel.th@SD" tvg-logo="https://i.imgur.com/Chx0AV9.png" group-title="东南亚",White Channel (1080p)
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:-1 tvg-id="MNBWorld.mn@SD" tvg-logo="https://i.imgur.com/PHlj84Q.png" group-title="东南亚",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",MNB World (1080p)
+https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
+#EXTINF:-1 tvg-id="DienBienTV.vn@SD" tvg-logo="https://i.imgur.com/u308o8q.png" group-title="东南亚",Điện Biên TV (406p)
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
+#EXTINF:-1 tvg-id="DaNangTV1.vn@SD" tvg-logo="https://i.imgur.com/EOMuO1z.png" group-title="东南亚",Đà Nẵng TV1 (1080p) [Not 24/7]
+https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
+#EXTINF:-1 tvg-id="DaNangTV2.vn@SD" group-title="东南亚",Đà Nẵng TV2 (1080p) [Not 24/7]
+https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+#EXTINF:-1 tvg-id="DongThapTV.vn@SD" tvg-logo="https://i.ibb.co/XFX7yw0/logo2-1.png" group-title="东南亚",Đồng Tháp TV1 (720p)
+https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8
+#EXTINF:-1 tvg-id="TienGiangTV.vn@SD" tvg-logo="https://i.imgur.com/yonKxgZ.png" group-title="东南亚",Đồng Tháp TV2 (540p)
+https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
+#EXTINF:-1 tvg-id="ABNsat.iq@SD" tvg-logo="https://i.imgur.com/WhPlJzh.jpeg" group-title="中东",ABNsat (720p)
+https://mediaserver.abnvideos.com/streams/abnsat.m3u8
+#EXTINF:-1 tvg-id="AVAFamily.ir@SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ava-family-iq.png" group-title="中东",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AjmanTV.ae@SD" tvg-logo="https://i.imgur.com/hVNIwgE.png" group-title="中东",Ajman TV (1080p)
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AlRasheedTV.iq@SD" tvg-logo="https://i.imgur.com/ltyRjPK.png" group-title="中东",Al Rasheed TV (1080p) [Not 24/7]
+https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae@SD" tvg-logo="https://i.imgur.com/m4qheI4.png" group-title="中东",Al Sharqiya Min Kabla (1080p)
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlBahjahTV.id@SD" tvg-logo="https://i.imgur.com/52dlDZk.png" group-title="中东",Al-Bahjah TV (1080p)
+http://202.150.161.117:8000/play/AlBahjahTV
+#EXTINF:-1 tvg-id="AlJawadainTV.iq@SD" tvg-logo="https://i.imgur.com/Eo3UYCK.png" group-title="中东",Al-Jawadain TV (1080p) [Not 24/7]
+https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiya.iq@SD" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="中东",Al-Sharqiya (1080p)
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="Alquran.iq@SD" tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="中东",Alquran (1080p)
+https://ktvlive.online/stream/hls/ch1.m3u8
+#EXTINF:-1 tvg-id="AvarTV.iq@HD" tvg-logo="https://i.imgur.com/JazFBkW.jpeg" group-title="中东",Avar TV (1080p)
+https://avr.host247.net/live/AvarTv/playlist.m3u8
+#EXTINF:-1 tvg-id="BabAlHara.sa@SD" tvg-logo="https://i.imgur.com/QtlnZbq.png" group-title="中东",Bab Al Hara (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
+#EXTINF:-1 tvg-id="BeitolAbbasTVChannel.iq@SD" tvg-logo="https://i.imgur.com/s8PfUQy.png" group-title="中东",BeitolAbbas TV Channel (720p)
+https://live.beitolabbas.tv/live/beitolabbastv.m3u8
+#EXTINF:-1 tvg-id="BigTimePlus.sa@SD" tvg-logo="https://shahid.mbc.net/mediaObject/4e042cb6-500b-4e4c-a8ca-21a5a7a7a71b" group-title="中东",Big Time Plus (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
+#EXTINF:-1 tvg-id="EmanTv.iq@HD" tvg-logo="https://i.imgur.com/QmgaPSi.png" group-title="中东",EmanTv (1080p)
+https://avr.host247.net/live/emantv/playlist.m3u8
+#EXTINF:-1 tvg-id="FarmodaTV.iq@HD" tvg-logo="https://i.imgur.com/x4KCQlH.png" group-title="中东",FarmodaTV (1080p)
+https://avr.host247.net/live/FarmodaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="ImamHusseinTV1.iq@SD" tvg-logo="https://i.imgur.com/pDdUvz7.png" group-title="中东",Imam Hussein TV 1 (1080p) [Not 24/7]
+https://live.imamhossaintv.com/live/ih1.m3u8
+#EXTINF:-1 tvg-id="ImamHusseinTV3.iq@SD" tvg-logo="https://i.imgur.com/emQRHQZ.png" group-title="中东",Imam Hussein TV 3 (1080p) [Not 24/7]
+https://live.imamhossaintv.com/live/ih3.m3u8
+#EXTINF:-1 tvg-id="IqraaQuran.sa@SD" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="中东",Iqraa Quran (1080p)
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+#EXTINF:-1 tvg-id="IraqFuture.iq@SD" tvg-logo="https://i.imgur.com/Z7woTe5.png" group-title="中东",Iraq Future (480p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KurdChannel.iq@SD" tvg-logo="https://i.imgur.com/xPwzad9.png" group-title="中东",Kurd Channel
+https://kurdchhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-logo="https://i.imgur.com/mjQptpc.png" group-title="中东",Kurdistan TV (720p) [Not 24/7]
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MarjaeyatTVPersian.iq@SD" tvg-logo="https://i.imgur.com/fCj05f0.png" group-title="中东",Marjaeyat TV Persian (240p) [Not 24/7]
+https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
+#EXTINF:-1 tvg-id="NourTV.ae@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg" group-title="中东",Nour TV
+https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
+#EXTINF:-1 tvg-id="PeaceTVChinese.ae@SD" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg" group-title="中东",Peace TV Chinese (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
+#EXTINF:-1 tvg-id="Pulse95Radio.ae@SD" tvg-logo="https://maraya.faulio.com/storage/mediagallery/60/26/fullhd_d5c3c81b0562a76bc63f073a5e0947f309b0215b.png" group-title="中东",Pulse95 Radio (1080p)
+https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8
+#EXTINF:-1 tvg-id="SBC.sa@SD" tvg-logo="https://i.imgur.com/9JSQglj.png" group-title="中东",SBC (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
+#EXTINF:-1 tvg-id="Sharjah2.ae@SD" tvg-logo="https://i.imgur.com/Wd3Xvd1.png" group-title="中东",Sharjah 2 (1080p)
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SharjahRadio.ae@SD" tvg-logo="https://i.imgur.com/q7GGALe.png" group-title="中东",Sharjah Radio (1080p)
+https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8
+#EXTINF:-1 tvg-id="SharjahRadioQuran.ae@SD" tvg-logo="https://i.imgur.com/MxZlOvc.png" group-title="中东",Sharjah Radio Quran (1080p)
+https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
+#EXTINF:-1 tvg-id="SharjahTV.ae@SD" tvg-logo="https://i.imgur.com/Oz2bPOt.png" group-title="中东",Sharjah TV (1080p)
+https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WatarRadio.ae@SD" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/d2/ad/fullhd_48adf2291d08266c05ed1b0c24f326c86b1095b7.png" group-title="中东",Watar Radio (1080p)
+https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8

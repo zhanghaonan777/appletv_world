@@ -1,0 +1,1451 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-id="GB3700007OZ" tvg-name="&TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700007OZ_20250624T021650SQUARE.png" group-title="英国",&TV
+https://jmp2.uk/stvp-GB3700007OZ
+#EXTINF:-1 tvg-id="GBAK3504500A" tvg-name="5 Cops" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504500A_20250107T022508SQUARE.png" group-title="英国",5 Cops
+https://jmp2.uk/stvp-GBAK3504500A
+#EXTINF:-1 tvg-id="GBAK3504501A" tvg-name="5 Exploring Britain" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504501A_20250107T022511SQUARE.png" group-title="英国",5 Exploring Britain
+https://jmp2.uk/stvp-GBAK3504501A
+#EXTINF:-1 tvg-id="GB1800002FA" tvg-name="8 Out Of 10 Cats" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1800002FA_20250211T013901SQUARE.png" group-title="英国",8 Out Of 10 Cats
+https://jmp2.uk/stvp-GB1800002FA
+#EXTINF:-1 tvg-id="GB60000381" tvg-name="A New Life In The Sun" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB60000381_20260224T031127SQUARE.png" group-title="英国",A New Life In The Sun
+https://jmp2.uk/stvp-GB60000381
+#EXTINF:-1 tvg-id="GB2600015OS" tvg-name="Action Movies - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600015OS_20240924T050854SQUARE.png" group-title="英国",Action Movies - Rakuten TV
+https://jmp2.uk/stvp-GB2600015OS
+#EXTINF:-1 tvg-id="GBBC2300001X5" tvg-name="American Idol" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20260224T031130SQUARE.png" group-title="英国",American Idol
+https://jmp2.uk/stvp-GBBC2300001X5
+#EXTINF:-1 tvg-id="GB2700016H5" tvg-name="Artist of the Year" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700016H5_20251013T054254SQUARE.png" group-title="英国",Artist of the Year
+https://jmp2.uk/stvp-GB2700016H5
+#EXTINF:-1 group-title="英国",BBC Earth (US)
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6308eda9ac9983739c8a29bb" tvg-name="BBC Home & Garden" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca13d56c-b5ee-41c8-be4c-fbacc7972c57/PLEX_HOME_GARDEN_Logo_Light_1500X1000.png" group-title="英国",BBC Home & Garden
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6308eda9ac9983739c8a29bb/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="60dafb9a0df1ba000758d37b" tvg-name="BBC Series" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG_1770367705306.png" group-title="英国",BBC Series
+https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8
+#EXTINF:-1 tvg-id="BATV.us@SD" tvg-logo="https://i.imgur.com/nTeE4xu.png" group-title="英国",Bloomfield Access TV Channel 5 (480p)
+https://reflect-batv.cablecast.tv/live-5/live/live.m3u8
+#EXTINF:-1 tvg-id="GBBD4100006KV" tvg-name="Born to Kill" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100006KV_20250610T011248SQUARE.png" group-title="英国",Born to Kill
+https://jmp2.uk/stvp-GBBD4100006KV
+#EXTINF:-1 tvg-id="GB32000024G" tvg-name="British Screen Classics" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB32000024G_20250107T031100SQUARE.png" group-title="英国",British Screen Classics
+https://jmp2.uk/stvp-GB32000024G
+#EXTINF:-1 tvg-id="GB4600003RY" tvg-name="Chaos on Cam" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4600003RY_20260310T031821SQUARE.png" group-title="英国",Chaos on Cam
+https://jmp2.uk/stvp-GB4600003RY
+#EXTINF:-1 tvg-id="GBBD25000038Y" tvg-name="Comedy Hub" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20260310T031824SQUARE.png" group-title="英国",Comedy Hub
+https://jmp2.uk/stvp-GBBD25000038Y
+#EXTINF:-1 tvg-id="GB2600020OP" tvg-name="Comedy Movies - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600020OP_20250415T020934SQUARE.png" group-title="英国",Comedy Movies - Rakuten TV
+https://jmp2.uk/stvp-GB2600020OP
+#EXTINF:-1 tvg-id="GB3700008XB" tvg-name="Cops & Docs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700008XB_20251013T054314SQUARE.png" group-title="英国",Cops & Docs
+https://jmp2.uk/stvp-GB3700008XB
+#EXTINF:-1 tvg-id="GB4900001NW" tvg-name="Deadly Women: powered by Banijay" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4900001NW_20250811T172507SQUARE.png" group-title="英国",Deadly Women: powered by Banijay
+https://jmp2.uk/stvp-GB4900001NW
+#EXTINF:-1 tvg-id="GBBB38000068U" tvg-name="Deal or No Deal US" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB38000068U_20250617T031624SQUARE.png" group-title="英国",Deal or No Deal US
+https://jmp2.uk/stvp-GBBB38000068U
+#EXTINF:-1 tvg-id="GB2400008GK" tvg-name="Dennis and Gnasher" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2400008GK_20251016T040107SQUARE.png" group-title="英国",Dennis and Gnasher
+https://jmp2.uk/stvp-GB2400008GK
+#EXTINF:-1 tvg-id="GBBD3200001E2" tvg-name="Earth Touch" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200001E2_20250107T030638SQUARE.png" group-title="英国",Earth Touch
+https://jmp2.uk/stvp-GBBD3200001E2
+#EXTINF:-1 tvg-id="GB270001538" tvg-name="Emergency 24/7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB270001538_20250107T153916SQUARE.png" group-title="英国",Emergency 24/7
+https://jmp2.uk/stvp-GB270001538
+#EXTINF:-1 tvg-id="GBBC2300003ZQ" tvg-name="Entertainment Hub" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20260224T031147SQUARE.png" group-title="英国",Entertainment Hub
+https://jmp2.uk/stvp-GBBC2300003ZQ
+#EXTINF:-1 tvg-id="GB500006EX" tvg-name="Escape to the Country" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500006EX_20260324T035037SQUARE.png" group-title="英国",Escape to the Country
+https://jmp2.uk/stvp-GB500006EX
+#EXTINF:-1 tvg-id="5cb6f6f9a461406ffe4022cf" tvg-name="FBI Files" tvg-logo="https://images.pluto.tv/channels/5cb6f6f9a461406ffe4022cf/colorLogoPNG.png" group-title="英国",FBI Files
+https://jmp2.uk/plu-5cb6f6f9a461406ffe4022cf.m3u8
+#EXTINF:-1 tvg-id="GB500004YN" tvg-name="H2O & Friends" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500004YN_20250408T021359SQUARE.png" group-title="英国",H2O & Friends
+https://jmp2.uk/stvp-GB500004YN
+#EXTINF:-1 tvg-id="GB3700005QK" tvg-name="Hoarders" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700005QK_20250326T013514SQUARE.png" group-title="英国",Hoarders
+https://jmp2.uk/stvp-GB3700005QK
+#EXTINF:-1 tvg-id="60e452730e76f20007598de8" tvg-name="Homicide Hunter" tvg-logo="https://images.pluto.tv/channels/60e452730e76f20007598de8/colorLogoPNG.png" group-title="英国",Homicide Hunter
+https://jmp2.uk/plu-60e452730e76f20007598de8.m3u8
+#EXTINF:-1 tvg-id="ITV.ua" tvg-name="ITV" tvg-logo="https://i.imgur.com/NZdT9yJ.png" group-title="英国",ITV
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="ITV.ua@SD" tvg-logo="https://i.imgur.com/NZdT9yJ.png" group-title="英国",ITV (480p)
+https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
+#EXTINF:-1 tvg-id="68c8201b1e5aaf77c47d9605" tvg-name="Ice Road Truckers" tvg-logo="https://images.pluto.tv/channels/68c8201b1e5aaf77c47d9605/colorLogoPNG_1765208715103.png" group-title="英国",Ice Road Truckers
+https://jmp2.uk/plu-68c8201b1e5aaf77c47d9605.m3u8
+#EXTINF:-1 tvg-id="686fc8fe1889b4ad04604704" tvg-name="Icons Unearthed+" tvg-logo="https://images.pluto.tv/channels/686fc8fe1889b4ad04604704/colorLogoPNG_1759777262346.png" group-title="英国",Icons Unearthed+
+https://jmp2.uk/plu-686fc8fe1889b4ad04604704.m3u8
+#EXTINF:-1 tvg-id="622f498d119b4c000719c0b7" tvg-name="Judge Judy" tvg-logo="https://images.pluto.tv/channels/622f498d119b4c000719c0b7/colorLogoPNG.png" group-title="英国",Judge Judy
+https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8
+#EXTINF:-1 tvg-id="GB3400003A9" tvg-name="Ketchup TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3400003A9_20250107T031143SQUARE.png" group-title="英国",Ketchup TV
+https://jmp2.uk/stvp-GB3400003A9
+#EXTINF:-1 tvg-id="GB4600004A9" tvg-name="Live PD Presents" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4600004A9_20260310T031832SQUARE.png" group-title="英国",Live PD Presents
+https://jmp2.uk/stvp-GB4600004A9
+#EXTINF:-1 tvg-id="GB430000144" tvg-name="LooLoo Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB430000144_20250107T031148SQUARE.png" group-title="英国",LooLoo Kids
+https://jmp2.uk/stvp-GB430000144
+#EXTINF:-1 tvg-id="691b453846ca5e6d1665f03b" tvg-name="Meet, Marry, Murder" tvg-logo="https://images.pluto.tv/channels/691b453846ca5e6d1665f03b/colorLogoPNG_1770830496262.png" group-title="英国",Marry, Murder" tvg-logo="https://images.pluto.tv/channels/691b453846ca5e6d1665f03b/colorLogoPNG_1770830496262.png" group-title="United Kingdom",Meet Marry Murder
+https://jmp2.uk/plu-691b453846ca5e6d1665f03b.m3u8
+#EXTINF:-1 tvg-id="GBBD25000019N" tvg-name="Masterchef UK: 'Powered by Banijay'" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000019N_20250107T030719SQUARE.png" group-title="英国",Masterchef UK: 'Powered by Banijay'
+https://jmp2.uk/stvp-GBBD25000019N
+#EXTINF:-1 tvg-id="GB28000063B" tvg-name="Mayday: Air Disaster" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB28000063B_20250811T172943SQUARE.png" group-title="英国",Mayday: Air Disaster
+https://jmp2.uk/stvp-GB28000063B
+#EXTINF:-1 tvg-id="GB3600001XM" tvg-name="Medical Detectives" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3600001XM_20251202T002708SQUARE.png" group-title="英国",Medical Detectives
+https://jmp2.uk/stvp-GB3600001XM
+#EXTINF:-1 tvg-id="620f6c60b994540007ddd74b" tvg-name="Moesha" tvg-logo="https://images.pluto.tv/channels/620f6c60b994540007ddd74b/colorLogoPNG.png" group-title="英国",Moesha
+https://jmp2.uk/plu-620f6c60b994540007ddd74b.m3u8
+#EXTINF:-1 tvg-id="GB4300003ZT" tvg-name="Most Haunted" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4300003ZT_20251125T100300SQUARE.png" group-title="英国",Most Haunted
+https://jmp2.uk/stvp-GB4300003ZT
+#EXTINF:-1 tvg-id="GB900003KR" tvg-name="Mr Bean Animated" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900003KR_20250923T010443SQUARE.png" group-title="英国",Mr Bean Animated
+https://jmp2.uk/stvp-GB900003KR
+#EXTINF:-1 tvg-id="GB4000008O5" tvg-name="Mr Bean Live Action" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4000008O5_20251013T054359SQUARE.png" group-title="英国",Mr Bean Live Action
+https://jmp2.uk/stvp-GB4000008O5
+#EXTINF:-1 tvg-id="61c4a09d6c959f0007189c93" tvg-name="Mystery TV" tvg-logo="https://images.pluto.tv/channels/61c4a09d6c959f0007189c93/colorLogoPNG.png" group-title="英国",Mystery TV
+https://jmp2.uk/plu-61c4a09d6c959f0007189c93.m3u8
+#EXTINF:-1 tvg-id="GB3900002DT" tvg-name="Ninja Warrior" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3900002DT_20250107T031200SQUARE.png" group-title="英国",Ninja Warrior
+https://jmp2.uk/stvp-GB3900002DT
+#EXTINF:-1 tvg-id="667ac79c15f35c00088a2409" tvg-name="Outback Truckers" tvg-logo="https://images.pluto.tv/channels/667ac79c15f35c00088a2409/colorLogoPNG.png" group-title="英国",Outback Truckers
+https://jmp2.uk/plu-667ac79c15f35c00088a2409.m3u8
+#EXTINF:-1 tvg-id="664c94e80120f40008b860f0" tvg-name="POP" tvg-logo="https://images.pluto.tv/channels/664c94e80120f40008b860f0/colorLogoPNG.png" group-title="英国",POP
+https://jmp2.uk/plu-664c94e80120f40008b860f0.m3u8
+#EXTINF:-1 tvg-id="6462190b7cb4b1000862dd60" tvg-name="Pluto TV Alien Invasion" tvg-logo="https://images.pluto.tv/channels/6462190b7cb4b1000862dd60/colorLogoPNG.png" group-title="英国",Pluto TV Alien Invasion
+https://jmp2.uk/plu-6462190b7cb4b1000862dd60.m3u8
+#EXTINF:-1 tvg-id="692ebafce72f03e07e7df985" tvg-name="Pluto TV American True Crime" tvg-logo="https://images.pluto.tv/channels/692ebafce72f03e07e7df985/colorLogoPNG_1768902223754.png" group-title="英国",Pluto TV American True Crime
+https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
+#EXTINF:-1 tvg-id="5dc3fc6b9133f500099c7d98" tvg-name="Pluto TV Family Movie Club" tvg-logo="https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png" group-title="英国",Pluto TV Family Movie Club
+https://jmp2.uk/plu-5dc3fc6b9133f500099c7d98.m3u8
+#EXTINF:-1 tvg-id="685041d936c9361b1921c26c" tvg-name="Pluto TV Fantasy & Horror" tvg-logo="https://images.pluto.tv/channels/685041d936c9361b1921c26c/colorLogoPNG_1753696741486.png" group-title="英国",Pluto TV Fantasy & Horror
+https://jmp2.uk/plu-685041d936c9361b1921c26c.m3u8
+#EXTINF:-1 tvg-id="5dc2c00abfed110009d97243" tvg-name="Pluto TV Sherlock" tvg-logo="https://images.pluto.tv/channels/5dc2c00abfed110009d97243/colorLogoPNG.png" group-title="英国",Pluto TV Sherlock
+https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
+#EXTINF:-1 tvg-id="655b7cbb2c46f300086f0afa" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/655b7cbb2c46f300086f0afa/colorLogoPNG_1759435114417.png" group-title="英国",Pluto TV Snooker 900
+https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8
+#EXTINF:-1 tvg-id="65f0166566eec80008b96f7e" tvg-name="Pluto TV Wildest Adventures" tvg-logo="https://images.pluto.tv/channels/65f0166566eec80008b96f7e/colorLogoPNG.png" group-title="英国",Pluto TV Wildest Adventures
+https://jmp2.uk/plu-65f0166566eec80008b96f7e.m3u8
+#EXTINF:-1 tvg-id="696e024a7e92438c27a425a8" tvg-name="Rally TV" tvg-logo="https://images.pluto.tv/channels/696e024a7e92438c27a425a8/colorLogoPNG_1770892518087.png" group-title="英国",Rally TV
+https://jmp2.uk/plu-696e024a7e92438c27a425a8.m3u8
+#EXTINF:-1 tvg-id="68e38b005c876cf730fcbf0f" tvg-name="Six Million Dollar Man" tvg-logo="https://images.pluto.tv/channels/68e38b005c876cf730fcbf0f/colorLogoPNG_1761687344585.png" group-title="英国",Six Million Dollar Man
+https://jmp2.uk/plu-68e38b005c876cf730fcbf0f.m3u8
+#EXTINF:-1 tvg-id="SkyA.jp@SD" tvg-logo="https://i.imgur.com/JU3wZ0k.png" group-title="英国",Sky A (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+#EXTINF:-1 tvg-id="SkyFolkTV.mk" tvg-name="Sky Folk" tvg-logo="https://i.imgur.com/xRw4Hmu.png" group-title="英国",Sky Folk
+https://skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-id="SonyBBCEarth.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143799_ld_h15_aa.png?lock=720x540" group-title="英国",Sony BBC Earth (576p)
+http://ajkiptv.ridsys.in/riptv/live/SONY_BBC_EARTH/index.m3u8
+#EXTINF:-1 tvg-id="GBBD5100001HL" tvg-name="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD5100001HL_20250729T045852SQUARE.png" group-title="英国",SuperToons TV
+https://jmp2.uk/stvp-GBBD5100001HL
+#EXTINF:-1 tvg-id="GBBB3800007BN" tvg-name="Survivor" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800007BN_20251013T054423SQUARE.png" group-title="英国",Survivor
+https://jmp2.uk/stvp-GBBB3800007BN
+#EXTINF:-1 tvg-id="TAKARAZUKASKYSTAGE.jp@SD" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/38/takarazuka-skystage_logo.jpg" group-title="英国",TAKARAZUKA SKY STAGE (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+#EXTINF:-1 tvg-id="TJC.uk" tvg-name="TJC" tvg-logo="https://i.imgur.com/fk5rEje.png" group-title="英国",TJC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+#EXTINF:-1 tvg-id="68e8ffee9d1d49e672fe790f" tvg-name="The Yellow Couch with Jeremy Lynch" tvg-logo="https://images.pluto.tv/channels/68e8ffee9d1d49e672fe790f/colorLogoPNG_1761768607111.png" group-title="英国",The Yellow Couch with Jeremy Lynch
+https://jmp2.uk/plu-68e8ffee9d1d49e672fe790f.m3u8
+#EXTINF:-1 tvg-id="GB2600018PD" tvg-name="Top Movies - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600018PD_20250107T031259SQUARE.png" group-title="英国",Top Movies - Rakuten TV
+https://jmp2.uk/stvp-GB2600018PD
+#EXTINF:-1 tvg-id="68504098f212bedacf63a7e1" tvg-name="Touched by an Angel" tvg-logo="https://images.pluto.tv/channels/68504098f212bedacf63a7e1/colorLogoPNG_1752724700982.png" group-title="英国",Touched by an Angel
+https://jmp2.uk/plu-68504098f212bedacf63a7e1.m3u8
+#EXTINF:-1 tvg-id="6304fb268bd95300072d2198" tvg-name="True Crime UK" tvg-logo="https://images.pluto.tv/channels/6304fb268bd95300072d2198/colorLogoPNG.png" group-title="英国",True Crime UK
+https://jmp2.uk/plu-6304fb268bd95300072d2198.m3u8
+#EXTINF:-1 tvg-id="GBBD3100002NU" tvg-name="U&Real Heroes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100002NU_20250107T153919SQUARE.png" group-title="英国",U&Real Heroes
+https://jmp2.uk/stvp-GBBD3100002NU
+#EXTINF:-1 tvg-id="GB3100002NB" tvg-name="Wheels & Steel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3100002NB_20260203T045958SQUARE.png" group-title="英国",Wheels & Steel
+https://jmp2.uk/stvp-GB3100002NB
+#EXTINF:-1 tvg-id="GBBD1100001UI" tvg-name="World War TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100001UI_20250527T014801SQUARE.png" group-title="英国",World War TV
+https://jmp2.uk/stvp-GBBD1100001UI
+#EXTINF:-1 tvg-id="677fb0b33a225c2d0d8a17be" tvg-name="Xena: Warrior Princess" tvg-logo="https://images.pluto.tv/channels/677fb0b33a225c2d0d8a17be/colorLogoPNG_1761690271873.png" group-title="英国",Xena: Warrior Princess
+https://jmp2.uk/plu-677fb0b33a225c2d0d8a17be.m3u8
+#EXTINF:-1 tvg-id="GBBD1100013BJ" tvg-name="Zee One" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100013BJ_20250701T033240SQUARE.png" group-title="英国",Zee One
+https://jmp2.uk/stvp-GBBD1100013BJ
+#EXTINF:-1 tvg-id="123tv.de@SD" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="德国",1-2-3 TV (270p)
+https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1 tvg-id="65a67dd13af63d0008257f17" tvg-name="90210" tvg-logo="https://images.pluto.tv/channels/65a67dd13af63d0008257f17/colorLogoPNG.png" group-title="德国",90210
+https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" group-title="德国",ARD-alpha (720p)
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" group-title="德国",ARD-alpha HD (576p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
+#EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="德国",Adventure Earth (1080p)
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 tvg-id="AlexBerlin.de@SD" tvg-logo="https://i.imgur.com/eTmHk4e.png" group-title="德国",Alex Berlin (1080p)
+https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
+#EXTINF:-1 tvg-id="DE16000042J" tvg-name="All Romance" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE16000042J_20250520T045009SQUARE.png" group-title="德国",All Romance
+https://jmp2.uk/stvp-DE16000042J
+#EXTINF:-1 tvg-id="AllgauTV.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/960px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png" group-title="德国",Allgäu TV (1080p)
+https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AugsburgTV.de@SD" tvg-logo="https://i.imgur.com/27AKMUL.png" group-title="德国",Augsburg TV (1080p)
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="62bc1784120ba80007935aaa" tvg-name="Awkward" tvg-logo="https://images.pluto.tv/channels/62bc1784120ba80007935aaa/colorLogoPNG.png" group-title="德国",Awkward
+https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
+#EXTINF:-1 tvg-id="6914913274601d957ae35565" tvg-name="Ax Men - Die Holzfäller" tvg-logo="https://images.pluto.tv/channels/6914913274601d957ae35565/colorLogoPNG_1768808755553.png" group-title="德国",Ax Men - Die Holzfäller
+https://jmp2.uk/plu-6914913274601d957ae35565.m3u8
+#EXTINF:-1 tvg-id="663e09e4b18d700008e48dcf" tvg-name="BIG BROTHER CLASSIC" tvg-logo="https://images.pluto.tv/channels/663e09e4b18d700008e48dcf/colorLogoPNG.png" group-title="德国",BIG BROTHER CLASSIC
+https://jmp2.uk/plu-663e09e4b18d700008e48dcf.m3u8
+#EXTINF:-1 tvg-id="BLKRegionalTV.de@SD" tvg-logo="https://i.imgur.com/JLgnPG1.png" group-title="德国",BLK Regional TV (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
+#EXTINF:-1 tvg-id="BRFernsehen.de@Nord" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_Bayerischer_Rundfunk_2024.svg/960px-Logo_Bayerischer_Rundfunk_2024.svg.png" group-title="德国",BR Fernsehen Nord (720p)
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="66337ea1307fa300082c28a0" tvg-name="BVB-Frauen" tvg-logo="https://images.pluto.tv/channels/66337ea1307fa300082c28a0/colorLogoPNG_1755794338808.png" group-title="德国",BVB-Frauen
+https://jmp2.uk/plu-66337ea1307fa300082c28a0.m3u8
+#EXTINF:-1 tvg-id="BadenTV.de@SD" tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="德国",Baden TV (1080p) [Not 24/7]
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 tvg-id="BadenTVSud.de@SD" tvg-logo="https://badentvsued.s3.welocal.cloud/sources/60631840dfa86.png" group-title="德国",Baden TV Süd (480p)
+https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="630348a54c48ce00077eb6c7" tvg-name="Becker" tvg-logo="https://images.pluto.tv/channels/630348a54c48ce00077eb6c7/colorLogoPNG.png" group-title="德国",Becker
+https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8
+#EXTINF:-1 tvg-id="BibelTV.de@SD" tvg-logo="https://i.imgur.com/RLwmrk3.png" group-title="德国",Bibel TV (720p)
+https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BibelTVImpuls.de@SD" tvg-logo="https://i.imgur.com/k4tbW3W.png" group-title="德国",Bibel TV Impuls (720p)
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenChemnitz.de@SD" tvg-logo="https://i.imgur.com/4SEAbVf.png" group-title="德国",Chemnitz Fernsehen (1080p)
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="DasErste.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png" group-title="德国",Das Erste (720p)
+https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DasErste.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png" group-title="德国",Das Erste HD (1080p)
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="67dc21ce5a15c0759a07ee19" tvg-name="Der Chef" tvg-logo="https://images.pluto.tv/channels/67dc21ce5a15c0759a07ee19/colorLogoPNG_1762189762673.png" group-title="德国",Der Chef
+https://jmp2.uk/plu-67dc21ce5a15c0759a07ee19.m3u8
+#EXTINF:-1 tvg-id="62cebd7302478b00073a6b71" tvg-name="Der Denver-Clan" tvg-logo="https://images.pluto.tv/channels/62cebd7302478b00073a6b71/colorLogoPNG.png" group-title="德国",Der Denver-Clan
+https://jmp2.uk/plu-62cebd7302478b00073a6b71.m3u8
+#EXTINF:-1 tvg-id="DieNeueZeitTV.ch@SD" tvg-logo="https://i.imgur.com/K3lvrog.png" group-title="德国",Die Neue Zeit (576p)
+https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="6447df8cd3fdde0008f1f627" tvg-name="Die Thundermans" tvg-logo="https://images.pluto.tv/channels/6447df8cd3fdde0008f1f627/colorLogoPNG.png" group-title="德国",Die Thundermans
+https://jmp2.uk/plu-6447df8cd3fdde0008f1f627.m3u8
+#EXTINF:-1 tvg-id="Dokusat.de@SD" tvg-logo="https://i.imgur.com/GadfTwF.png" group-title="德国",Dokusat (1080p)
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenDresden.de@SD" tvg-logo="https://i.imgur.com/rnvprGj.png" group-title="德国",Dresden Fernsehen (1080p) [Not 24/7]
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="EchtJetztTV.de@SD" tvg-logo="https://i.ibb.co/ccNRGVj/download-10.png" group-title="德国",EchtJetzt TV (720p)
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="66a244d5cd0d3100083b1e47" tvg-name="Eine himmlische Familie" tvg-logo="https://images.pluto.tv/channels/66a244d5cd0d3100083b1e47/colorLogoPNG.png" group-title="德国",Eine himmlische Familie
+https://jmp2.uk/plu-66a244d5cd0d3100083b1e47.m3u8
+#EXTINF:-1 tvg-id="67a324d221af380008105d6f" tvg-name="Eine schrecklich nette Familie" tvg-logo="https://images.pluto.tv/channels/67a324d221af380008105d6f/colorLogoPNG.png" group-title="德国",Eine schrecklich nette Familie
+https://jmp2.uk/plu-67a324d221af380008105d6f.m3u8
+#EXTINF:-1 tvg-id="DE3900001WX" tvg-name="Emily Erdbeer" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3900001WX_20250107T024831SQUARE.png" group-title="德国",Emily Erdbeer
+https://jmp2.uk/stvp-DE3900001WX
+#EXTINF:-1 tvg-id="Filstalwelle.de@SD" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="德国",Filstalwelle (1080p)
+https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="68d277fb12bf71eaaed3e9f1" tvg-name="Flipper" tvg-logo="https://images.pluto.tv/channels/68d277fb12bf71eaaed3e9f1/colorLogoPNG_1765786137783.png" group-title="德国",Flipper
+https://jmp2.uk/plu-68d277fb12bf71eaaed3e9f1.m3u8
+#EXTINF:-1 tvg-id="62a0b2aff4cf470007e47e29" tvg-name="Fluss-Monster" tvg-logo="https://images.pluto.tv/channels/62a0b2aff4cf470007e47e29/colorLogoPNG.png" group-title="德国",Fluss-Monster
+https://jmp2.uk/plu-62a0b2aff4cf470007e47e29.m3u8
+#EXTINF:-1 tvg-id="FrankenFernsehen.de@SD" tvg-logo="https://i.imgur.com/3pGGLLD.png" group-title="德国",Franken Fernsehen (Nürnberg) (1080p) [Not 24/7]
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="68d27437e6767bdeb23f0336" tvg-name="Gigolos" tvg-logo="https://images.pluto.tv/channels/68d27437e6767bdeb23f0336/colorLogoPNG_1758705599610.png" group-title="德国",Gigolos
+https://jmp2.uk/plu-68d27437e6767bdeb23f0336.m3u8
+#EXTINF:-1 tvg-id="HSE.de@SD" tvg-logo="https://i.imgur.com/IecRNCk.png" group-title="德国",HSE (1080p)
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1 tvg-id="HSEExtra.de@SD" tvg-logo="https://i.imgur.com/nvMpbip.png" group-title="德国",HSE24 Extra (1080p)
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1 tvg-id="HSETrend.de@SD" tvg-logo="https://i.imgur.com/qwh2urX.png" group-title="德国",HSE24 Trend (576p)
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1 tvg-id="DE3800001CR" tvg-name="Horror Comedy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3800001CR_20251111T013957SQUARE.png" group-title="德国",Horror Comedy
+https://jmp2.uk/stvp-DE3800001CR
+#EXTINF:-1 tvg-id="HorseCountryTV.uk@SD" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="德国",Horse & Country TV (1080p)
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:-1 tvg-id="Juwelo.de@SD" tvg-logo="https://i.imgur.com/vmX8Qin.png" group-title="德国",Juwelo (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+#EXTINF:-1 tvg-id="Kanal12SprembergTV.de@SD" tvg-logo="https://i.ibb.co/1LzJz7Y/Channels4-profile-7.jpg" group-title="德国",Kanal12 Spremberg TV (404p) [Not 24/7]
+https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KaufBeiTV.de@SD" tvg-logo="https://i.imgur.com/CVJWiM0.png" group-title="德国",KaufBei TV (576p)
+https://api.alpaca.t62a.com/hls/9103/index.m3u8
+#EXTINF:-1 tvg-id="65dde5ef28730900089af7cf" tvg-name="KultKrimi: Der Alte" tvg-logo="https://images.pluto.tv/channels/65dde5ef28730900089af7cf/colorLogoPNG.png" group-title="德国",KultKrimi: Der Alte
+https://jmp2.uk/plu-65dde5ef28730900089af7cf.m3u8
+#EXTINF:-1 tvg-id="65dde5848145cb00083277f6" tvg-name="KultKrimi: Derrick" tvg-logo="https://images.pluto.tv/channels/65dde5848145cb00083277f6/colorLogoPNG.png" group-title="德国",KultKrimi: Derrick
+https://jmp2.uk/plu-65dde5848145cb00083277f6.m3u8
+#EXTINF:-1 tvg-id="67ed0c86f7c5d70b90889a51" tvg-name="KultKrimi: Die Rettungsflieger" tvg-logo="https://images.pluto.tv/channels/67ed0c86f7c5d70b90889a51/colorLogoPNG_1745819307940.png" group-title="德国",KultKrimi: Die Rettungsflieger
+https://jmp2.uk/plu-67ed0c86f7c5d70b90889a51.m3u8
+#EXTINF:-1 tvg-id="KulturMD.de@SD" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="德国",KulturMD (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-id="LTV.de@SD" tvg-logo="https://i.imgur.com/HuGaMJj.png" group-title="德国",L-TV (720p)
+https://live2.telvi.de/hls/l-tv_s1.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenLeipzig.de@SD" tvg-logo="https://i.imgur.com/easmJUw.png" group-title="德国",Leipzig Fernsehen (1080p)
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="68d276ce59fd82da32267d0d" tvg-name="Liebe Sünde" tvg-logo="https://images.pluto.tv/channels/68d276ce59fd82da32267d0d/colorLogoPNG_1763647481975.png" group-title="德国",Liebe Sünde
+https://jmp2.uk/plu-68d276ce59fd82da32267d0d.m3u8
+#EXTINF:-1 tvg-id="LightChannel.de@SD" tvg-logo="https://i.imgur.com/0OmBlfE.png" group-title="德国",Light Channel (576p) [Not 24/7]
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+#EXTINF:-1 tvg-id="MDF1.de@SD" tvg-logo="https://i.imgur.com/IFGXK6u.png" group-title="德国",MDF.1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="615c1e5ce3039400070a0547" tvg-name="MOVIEDOME" tvg-logo="https://images.pluto.tv/channels/615c1e5ce3039400070a0547/colorLogoPNG.png" group-title="德国",MOVIEDOME
+https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
+#EXTINF:-1 tvg-id="66c6fcfc6838ee00085beb1a" tvg-name="McLeods Töchter" tvg-logo="https://images.pluto.tv/channels/66c6fcfc6838ee00085beb1a/colorLogoPNG.png" group-title="德国",McLeods Töchter
+https://jmp2.uk/plu-66c6fcfc6838ee00085beb1a.m3u8
+#EXTINF:-1 tvg-id="DE3100005JK" tvg-name="Merhaba Amour" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3100005JK_20260310T031445SQUARE.png" group-title="德国",Merhaba Amour
+https://jmp2.uk/stvp-DE3100005JK
+#EXTINF:-1 tvg-id="6864e8f264d94c1425fb4563" tvg-name="Merhaba Türkische Serien" tvg-logo="https://images.pluto.tv/channels/6864e8f264d94c1425fb4563/colorLogoPNG_1755512689374.png" group-title="德国",Merhaba Türkische Serien
+https://jmp2.uk/plu-6864e8f264d94c1425fb4563.m3u8
+#EXTINF:-1 tvg-id="642ad2127ef83900085f8910" tvg-name="Mork vom Ork" tvg-logo="https://images.pluto.tv/channels/642ad2127ef83900085f8910/colorLogoPNG.png" group-title="德国",Mork vom Ork
+https://jmp2.uk/plu-642ad2127ef83900085f8910.m3u8
+#EXTINF:-1 tvg-id="MotorvisionPlus.de@SD" tvg-logo="https://i.imgur.com/5cs5GkJ.png" group-title="德国",Motorvision.tv (French)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+#EXTINF:-1 tvg-id="65a67d572fac9c000835eb3a" tvg-name="Moviepilot TV mit Pluto TV" tvg-logo="https://images.pluto.tv/channels/65a67d572fac9c000835eb3a/colorLogoPNG.png" group-title="德国",Moviepilot TV mit Pluto TV
+https://jmp2.uk/plu-65a67d572fac9c000835eb3a.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehen.de@Hamburg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" group-title="德国",NDR Hamburg (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehen.de@Niedersachsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" group-title="德国",NDR Niedersachsen (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehen.de@SchleswigHolstein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" group-title="德国",NDR Schleswig-Holstein (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1 tvg-id="NRWision.de@SD" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="德国",NRWision (1080p)
+https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTV.de@SD" tvg-logo="https://i.imgur.com/9uaMgTk.png" group-title="德国",Niederbayern TV (720p)
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVDeggendorfStraubing.de@SD" tvg-logo="https://i.imgur.com/mAaIh3C.png" group-title="德国",Niederbayern TV Deggendorf & Straubing (1080p)
+https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVLandshut.de@SD" tvg-logo="https://i.imgur.com/5sHzZAh.png" group-title="德国",Niederbayern TV Landshut (1080p)
+https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-id="noa4Hamburg.de@SD" tvg-logo="https://i.imgur.com/7A2LRKI.png" group-title="德国",Noa 4 Hamburg (1080p)
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="OKDessau.de@SD" tvg-logo="https://i.imgur.com/nx4Wc8l.png" group-title="德国",OK Dessau (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKFlensburg.de@SD" tvg-logo="https://i.imgur.com/NPbfgQC.png" group-title="德国",OK Flensburg (576p)
+https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
+#EXTINF:-1 tvg-id="OKKiel.de@SD" tvg-logo="https://i.imgur.com/eToHabX.png" group-title="德国",OK Kiel (576p)
+https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
+#EXTINF:-1 tvg-id="OKMagdeburg.de@SD" tvg-logo="https://i.imgur.com/zftoymR.png" group-title="德国",OK Magdeburg (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKSalzwedel.de@SD" tvg-logo="https://i.imgur.com/jDmiTOS.png" group-title="德国",OK Salzwedel (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKStendal.de@SD" tvg-logo="https://i.imgur.com/s9wo85l.png" group-title="德国",OK Stendal (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKWernigerode.de@SD" tvg-logo="https://i.imgur.com/3gQvhSy.png" group-title="德国",OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 tvg-id="PUNKTumFernsehen.de@SD" tvg-logo="https://i.imgur.com/3yamOmw.png" group-title="德国",PUNKTum Fernsehen (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de@SD" tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="德国",Parlamentsfernsehen 1 (1080p) [Not 24/7]
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
+#EXTINF:-1 tvg-id="686cfef52704ca31d85c4bf1" tvg-name="Pastewka" tvg-logo="https://images.pluto.tv/channels/686cfef52704ca31d85c4bf1/colorLogoPNG_1753793017907.png" group-title="德国",Pastewka
+https://jmp2.uk/plu-686cfef52704ca31d85c4bf1.m3u8
+#EXTINF:-1 tvg-id="67f68bd2135aeda9ddf0ef54" tvg-name="Pluto TV Adult Animation" tvg-logo="https://images.pluto.tv/channels/67f68bd2135aeda9ddf0ef54/colorLogoPNG_1746816413112.png" group-title="德国",Pluto TV Adult Animation
+https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8
+#EXTINF:-1 tvg-id="67fe495d9ebfe4142424b7a7" tvg-name="Pluto TV Anime: Fantasy" tvg-logo="https://images.pluto.tv/channels/67fe495d9ebfe4142424b7a7/colorLogoPNG_1746817524304.png" group-title="德国",Pluto TV Anime: Fantasy
+https://jmp2.uk/plu-67fe495d9ebfe4142424b7a7.m3u8
+#EXTINF:-1 tvg-id="677e5a3d7bffa6000808dbf2" tvg-name="Pluto TV Britische Serien" tvg-logo="https://images.pluto.tv/channels/677e5a3d7bffa6000808dbf2/colorLogoPNG.png" group-title="德国",Pluto TV Britische Serien
+https://jmp2.uk/plu-677e5a3d7bffa6000808dbf2.m3u8
+#EXTINF:-1 tvg-id="6672f49f61a39900089db68e" tvg-name="Pluto TV Deutsche Comedy" tvg-logo="https://images.pluto.tv/channels/6672f49f61a39900089db68e/colorLogoPNG_1748857141516.png" group-title="德国",Pluto TV Deutsche Comedy
+https://jmp2.uk/plu-6672f49f61a39900089db68e.m3u8
+#EXTINF:-1 tvg-id="69a5578b762ae48b4319f113" tvg-name="Pluto TV Die Rache der Natur" tvg-logo="https://images.pluto.tv/channels/69a5578b762ae48b4319f113/colorLogoPNG_1774261150262.png" group-title="德国",Pluto TV Die Rache der Natur
+https://jmp2.uk/plu-69a5578b762ae48b4319f113.m3u8
+#EXTINF:-1 tvg-id="67ebc04855de98dc71428538" tvg-name="Pluto TV Emmanuelle Filme" tvg-logo="https://images.pluto.tv/channels/67ebc04855de98dc71428538/colorLogoPNG_1768808619480.png" group-title="德国",Pluto TV Emmanuelle Filme
+https://jmp2.uk/plu-67ebc04855de98dc71428538.m3u8
+#EXTINF:-1 tvg-id="68245366b19ce6d4a30b7687" tvg-name="Pluto TV Femme Fatale" tvg-logo="https://images.pluto.tv/channels/68245366b19ce6d4a30b7687/colorLogoPNG_1756144251078.png" group-title="德国",Pluto TV Femme Fatale
+https://jmp2.uk/plu-68245366b19ce6d4a30b7687.m3u8
+#EXTINF:-1 tvg-id="664f10c4f9992200084a2f47" tvg-name="Pluto TV Heiße Nächte Retro" tvg-logo="https://images.pluto.tv/channels/664f10c4f9992200084a2f47/colorLogoPNG.png" group-title="德国",Pluto TV Heiße Nächte Retro
+https://jmp2.uk/plu-664f10c4f9992200084a2f47.m3u8
+#EXTINF:-1 tvg-id="68ada3395190a45dc9c445cf" tvg-name="Pluto TV Historische Serien" tvg-logo="https://images.pluto.tv/channels/68ada3395190a45dc9c445cf/colorLogoPNG_1760957063422.png" group-title="德国",Pluto TV Historische Serien
+https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
+#EXTINF:-1 tvg-id="66337de656fc840008ff7a65" tvg-name="Pluto TV Kult Comedies" tvg-logo="https://images.pluto.tv/channels/66337de656fc840008ff7a65/colorLogoPNG.png" group-title="德国",Pluto TV Kult Comedies
+https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8
+#EXTINF:-1 tvg-id="617aad99b68ef100072608cd" tvg-name="Pluto TV Mystery" tvg-logo="https://images.pluto.tv/channels/617aad99b68ef100072608cd/colorLogoPNG.png" group-title="德国",Pluto TV Mystery
+https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
+#EXTINF:-1 tvg-id="64be64445dc166000899ce75" tvg-name="Pluto TV Polizeiserien" tvg-logo="https://images.pluto.tv/channels/64be64445dc166000899ce75/colorLogoPNG_1753350668041.png" group-title="德国",Pluto TV Polizeiserien
+https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
+#EXTINF:-1 tvg-id="68ada3edf84960586ad31c7d" tvg-name="Pluto TV Reportagen" tvg-logo="https://images.pluto.tv/channels/68ada3edf84960586ad31c7d/colorLogoPNG_1760078189640.png" group-title="德国",Pluto TV Reportagen
+https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
+#EXTINF:-1 tvg-id="67d983d6a1609bdb523f5f9b" tvg-name="Pluto TV Sanfte Berührungen" tvg-logo="https://images.pluto.tv/channels/67d983d6a1609bdb523f5f9b/colorLogoPNG_1745932379351.png" group-title="德国",Pluto TV Sanfte Berührungen
+https://jmp2.uk/plu-67d983d6a1609bdb523f5f9b.m3u8
+#EXTINF:-1 tvg-id="669526d232e25300084bb47b" tvg-name="Pluto TV Sharks" tvg-logo="https://images.pluto.tv/channels/669526d232e25300084bb47b/colorLogoPNG.png" group-title="德国",Pluto TV Sharks
+https://jmp2.uk/plu-669526d232e25300084bb47b.m3u8
+#EXTINF:-1 tvg-id="6152ee71bf99590007893a11" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png" group-title="德国",Pluto TV Star Trek
+https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
+#EXTINF:-1 tvg-id="69492467ae33e24d916e56cf" tvg-name="Pluto TV Star Trek: Animation" tvg-logo="https://images.pluto.tv/channels/69492467ae33e24d916e56cf/colorLogoPNG_1770896970638.png" group-title="德国",Pluto TV Star Trek: Animation
+https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8
+#EXTINF:-1 tvg-id="682453215c646751955e1204" tvg-name="Pluto TV Western Serien" tvg-logo="https://images.pluto.tv/channels/682453215c646751955e1204/colorLogoPNG_1758265241676.png" group-title="德国",Pluto TV Western Serien
+https://jmp2.uk/plu-682453215c646751955e1204.m3u8
+#EXTINF:-1 tvg-id="64526a145a0cd50008632bfa" tvg-name="Pluto TV heiße Nächte" tvg-logo="https://images.pluto.tv/channels/64526a145a0cd50008632bfa/colorLogoPNG.png" group-title="德国",Pluto TV heiße Nächte
+https://jmp2.uk/plu-64526a145a0cd50008632bfa.m3u8
+#EXTINF:-1 tvg-id="ProSieben.de@SD" tvg-logo="https://i.imgur.com/zZOk3nh.png" group-title="德国",ProSieben (1080p)
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="67d984c989788ef7f058b084" tvg-name="Profiling Paris" tvg-logo="https://images.pluto.tv/channels/67d984c989788ef7f058b084/colorLogoPNG.png" group-title="德国",Profiling Paris
+https://jmp2.uk/plu-67d984c989788ef7f058b084.m3u8
+#EXTINF:-1 tvg-id="QVCZwei.de@SD" tvg-logo="https://i.imgur.com/f94kPed.png" group-title="德国",QVC 2 Germany (540p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+#EXTINF:-1 tvg-id="QVC.de@SD" tvg-logo="https://i.imgur.com/EybRtsI.png" group-title="德国",QVC Germany (720p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+#EXTINF:-1 tvg-id="QVCStyle.de@SD" tvg-logo="https://i.imgur.com/DwdkHGj.png" group-title="德国",QVC Style Germany (540p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
+#EXTINF:-1 tvg-id="677fafd91da79bfe4fb0b4ec" tvg-name="Quantum Leap" tvg-logo="https://images.pluto.tv/channels/677fafd91da79bfe4fb0b4ec/colorLogoPNG_1770397003859.png" group-title="德国",Quantum Leap
+https://jmp2.uk/plu-677fafd91da79bfe4fb0b4ec.m3u8
+#EXTINF:-1 tvg-id="RTLCrime.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/RTL_Crime_%28Netherlands%29_%282023%2C_stacked%29.svg" group-title="德国",RTL Crime HD (1080p)
+http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
+#EXTINF:-1 tvg-id="RTLPassion.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/RTL_Passion_Logo_2021.svg/960px-RTL_Passion_Logo_2021.svg.png" group-title="德国",RTL Passion (1080p)
+http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/31369/index.m3u8
+#EXTINF:-1 tvg-id="638f2bc7bc363100072f02dd" tvg-name="Rauchende Colts" tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/colorLogoPNG.png" group-title="德国",Rauchende Colts
+https://jmp2.uk/plu-638f2bc7bc363100072f02dd.m3u8
+#EXTINF:-1 tvg-id="638f2983dcd9100008c2374d" tvg-name="Rawhide - Tausend Meilen Staub" tvg-logo="https://images.pluto.tv/channels/638f2983dcd9100008c2374d/colorLogoPNG.png" group-title="德国",Rawhide - Tausend Meilen Staub
+https://jmp2.uk/plu-638f2983dcd9100008c2374d.m3u8
+#EXTINF:-1 tvg-id="645a0ddfe1979c00086d83ff" tvg-name="Red Shoe Diaries" tvg-logo="https://images.pluto.tv/channels/645a0ddfe1979c00086d83ff/colorLogoPNG.png" group-title="德国",Red Shoe Diaries
+https://jmp2.uk/plu-645a0ddfe1979c00086d83ff.m3u8
+#EXTINF:-1 tvg-id="RegioTVBodensee.de@SD" tvg-logo="https://i.imgur.com/3koyLef.png" group-title="德国",Regio TV Bodensee (1080p)
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVStuttgart.de@SD" tvg-logo="https://i.imgur.com/3koyLef.png" group-title="德国",Regio TV Stuttgart (1080p)
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RennsteigTV.de@SD" tvg-logo="https://www.rennsteig.tv/wp-content/uploads/rennsteig-tv-claim-300.png" group-title="德国",Rennsteig TV (720p)
+http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="6628e513cee0d90008639b46" tvg-name="RoboCop" tvg-logo="https://images.pluto.tv/channels/6628e513cee0d90008639b46/colorLogoPNG.png" group-title="德国",RoboCop
+https://jmp2.uk/plu-6628e513cee0d90008639b46.m3u8
+#EXTINF:-1 tvg-id="RockAntenne.de@SD" tvg-logo="https://i.imgur.com/nvFXRjH.png" group-title="德国",Rock Antenne [Not 24/7]
+https://stream.rockantenne.de/rockantenne/stream/mp3
+#EXTINF:-1 tvg-id="64be635a40962900080aaca5" tvg-name="Rules of Engagement" tvg-logo="https://images.pluto.tv/channels/64be635a40962900080aaca5/colorLogoPNG.png" group-title="德国",Rules of Engagement
+https://jmp2.uk/plu-64be635a40962900080aaca5.m3u8
+#EXTINF:-1 tvg-id="SAT1Gold.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sat.1_Gold_Logo_2019.svg/960px-Sat.1_Gold_Logo_2019.svg.png" group-title="德国",SAT.1 Gold (576p)
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="SRFernsehen.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/960px-SR_Fernsehen_Logo_2023.svg.png" group-title="德国",SR Fernsehen (720p)
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 tvg-id="SRF.de@SD" tvg-logo="https://i.imgur.com/92XNBmr.png" group-title="德国",SRF (1080p)
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="SWR3VisualRadio.de@SD" tvg-logo="https://i.imgur.com/PxSgxRO.jpg" group-title="德国",SWR 3 Visual Radio (720p)
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1 tvg-id="SaarlandFernsehen1.de@SD" tvg-logo="https://i.imgur.com/OodehFV.png" group-title="德国",Saarland Fernsehen 1 (1080p)
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SaarlandFernsehen2.de@SD" tvg-logo="https://i.imgur.com/Yv7j4ia.png" group-title="德国",Saarland Fernsehen 2 (720p) [Not 24/7]
+https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="622f40c901d4b70007ad7609" tvg-name="Sabrina - Total verhext!" tvg-logo="https://images.pluto.tv/channels/622f40c901d4b70007ad7609/colorLogoPNG.png" group-title="德国",Sabrina - Total verhext!
+https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
+#EXTINF:-1 tvg-id="SachsenEins.de@SD" tvg-logo="https://i.imgur.com/2EXNdd8.png" group-title="德国",Sachsen Eins (1080p)
+https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="688735087b2cf33d01a2d411" tvg-name="Sea Patrol" tvg-logo="https://images.pluto.tv/channels/688735087b2cf33d01a2d411/colorLogoPNG_1757918762968.png" group-title="德国",Sea Patrol
+https://jmp2.uk/plu-688735087b2cf33d01a2d411.m3u8
+#EXTINF:-1 tvg-id="Seenluft24.de@SD" tvg-logo="https://i.imgur.com/3TgBg9v.jpg" group-title="德国",Seenluft24 (1080p)
+https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="SenderNeuJerusalem.de@SD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/new-jerusalem-de.png" group-title="德国",Sender Neu Jerusalem (576p)
+https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
+#EXTINF:-1 tvg-id="SophiaTV.de@SD" tvg-logo="https://i.imgur.com/1hNgHbB.png" group-title="德国",Sophia TV (720p)
+https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SophiaTVEspanol.de@SD" tvg-logo="https://i.imgur.com/T2JPCq2.png" group-title="德国",Sophia TV Español (720p)
+https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SophiaTVFrancais.de@SD" tvg-logo="https://i.imgur.com/T2JPCq2.png" group-title="德国",Sophia TV Français (720p)
+https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="646b14a0e94c3800082a8d3a" tvg-name="South Park: Butters Collection" tvg-logo="https://images.pluto.tv/channels/646b14a0e94c3800082a8d3a/colorLogoPNG.png" group-title="德国",South Park: Butters Collection
+https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
+#EXTINF:-1 tvg-id="646b150a15939400089e2702" tvg-name="South Park: Original Version" tvg-logo="https://images.pluto.tv/channels/646b150a15939400089e2702/colorLogoPNG.png" group-title="德国",South Park: Original Version
+https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
+#EXTINF:-1 group-title="德国",Spark Light Love (BR)
+https://candlelightmedia-sparklightlove-3-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DE1400003DP" tvg-name="Spiegel TV action+crime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1400003DP_20250422T045258SQUARE.png" group-title="德国",Spiegel TV action+crime
+https://jmp2.uk/stvp-DE1400003DP
+#EXTINF:-1 tvg-id="663e09b341af640008c1b68c" tvg-name="Stand-up Comedy" tvg-logo="https://images.pluto.tv/channels/663e09b341af640008c1b68c/colorLogoPNG.png" group-title="德国",Stand-up Comedy
+https://jmp2.uk/plu-663e09b341af640008c1b68c.m3u8
+#EXTINF:-1 tvg-id="69776b58036e883f39e5ab8a" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/69776b58036e883f39e5ab8a/colorLogoPNG_1769434091096.png" group-title="德国",Star Trek: The Original Series
+https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
+#EXTINF:-1 tvg-id="StimmungsgartenTV.at@SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/stimmungsgarten-tv-de.png" group-title="德国",Stimmungsgarten TV
+https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8
+#EXTINF:-1 tvg-id="686cff3224918d4300fa542b" tvg-name="Stromberg" tvg-logo="https://images.pluto.tv/channels/686cff3224918d4300fa542b/colorLogoPNG_1753976762248.png" group-title="德国",Stromberg
+https://jmp2.uk/plu-686cff3224918d4300fa542b.m3u8
+#EXTINF:-1 tvg-id="Studio47.de@SD" tvg-logo="https://i.imgur.com/xCiU1TB.png" group-title="德国",Studio 47 (576p)
+https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLSuper.de@HD" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="德国",Super RTL HD (720p)
+https://forsizero.github.io/iptv/m3u/superrtlhd.m3u
+#EXTINF:-1 tvg-id="TVIngolstadt.de@SD" tvg-logo="https://i.imgur.com/Ymh11VV.png" group-title="德国",TV Ingolstadt (1080p)
+https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOberfranken.de@SD" tvg-logo="https://i.imgur.com/tjD9fX2.png" group-title="德国",TV Oberfranken (TVO) (1080p) [Not 24/7]
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TerraMaterWILD.de@German" tvg-logo="https://i.imgur.com/EbMK3Ph.png" group-title="德国",Terra Mater WILD (1080p)
+https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="68d2759a59fd82da3226492d" tvg-name="The L Word – Wenn Frauen lieben" tvg-logo="https://images.pluto.tv/channels/68d2759a59fd82da3226492d/colorLogoPNG_1769617985920.png" group-title="德国",The L Word – Wenn Frauen lieben
+https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8
+#EXTINF:-1 tvg-id="67b481cc1a5ca760801c6c5e" tvg-name="The Last Flight" tvg-logo="https://images.pluto.tv/channels/67b481cc1a5ca760801c6c5e/colorLogoPNG_1775033091768.png" group-title="德国",The Last Flight
+https://jmp2.uk/plu-67b481cc1a5ca760801c6c5e.m3u8
+#EXTINF:-1 tvg-id="6996f0335452cb4f0a2c4153" tvg-name="The Nanny & Mr Sheffield - A Fine Romance" tvg-logo="https://images.pluto.tv/channels/6996f0335452cb4f0a2c4153/colorLogoPNG_1771499680778.png" group-title="德国",The Nanny & Mr Sheffield - A Fine Romance
+https://jmp2.uk/plu-6996f0335452cb4f0a2c4153.m3u8
+#EXTINF:-1 tvg-id="TideTV.de@SD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png" group-title="德国",Tide TV (1080p)
+https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="642abea1283aa4000805bb5b" tvg-name="Täterjagd" tvg-logo="https://images.pluto.tv/channels/642abea1283aa4000805bb5b/colorLogoPNG.png" group-title="德国",Täterjagd
+https://jmp2.uk/plu-642abea1283aa4000805bb5b.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Bonn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/960px-WDR_Fernsehen_Logo_2018.svg.png" group-title="德国",WDR Fernsehen Bonn (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Duisburg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/960px-WDR_Fernsehen_Logo_2018.svg.png" group-title="德国",WDR Fernsehen Duisburg (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Dusseldorf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/960px-WDR_Fernsehen_Logo_2018.svg.png" group-title="德国",WDR Fernsehen Düsseldorf (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
+#EXTINF:-1 tvg-id="WeltderWunderTV.de@SD" tvg-logo="https://i.imgur.com/DLXssJe.png" group-title="德国",Welt der Wunder TV (576p)
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1 tvg-id="642d7e029189ce0008958af5" tvg-name="X-Factor: Das Unfassbare" tvg-logo="https://images.pluto.tv/channels/642d7e029189ce0008958af5/colorLogoPNG.png" group-title="德国",X-Factor: Das Unfassbare
+https://jmp2.uk/plu-642d7e029189ce0008958af5.m3u8
+#EXTINF:-1 tvg-id="63c69e6c4207be0007f73c22" tvg-name="Zoey 101" tvg-logo="https://images.pluto.tv/channels/63c69e6c4207be0007f73c22/colorLogoPNG.png" group-title="德国",Zoey 101
+https://jmp2.uk/plu-63c69e6c4207be0007f73c22.m3u8
+#EXTINF:-1 tvg-id="HR.de" tvg-name="hr-fernsehen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png" group-title="德国",hr-fernsehen
+https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
+#EXTINF:-1 tvg-id="hrfernsehen.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/960px-HR-Fernsehen_Logo_2023.svg.png" group-title="德国",hr-fernsehen (1080p)
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-id="iSTUFF.de@SD" tvg-logo="https://i.imgur.com/1V3UXVb.jpg" group-title="德国",iSTUFF (720p) [Not 24/7]
+https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
+#EXTINF:-1 tvg-id="labor14.de@HD" tvg-logo="https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg" group-title="德国",labor14 (720p)
+https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="sixx.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/960px-Sixx_Logo.svg.png" group-title="德国",sixx
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="FR3600003DS" tvg-name="100% Comedy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600003DS_20260127T040232SQUARE.png" group-title="法国",100% Comedy
+https://jmp2.uk/stvp-FR3600003DS
+#EXTINF:-1 tvg-id="20MinutesTV.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/960px-20_Minutes_TV_IDF_logo_%282023%29.png" group-title="法国",20 Minutes TV (1080p)
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 tvg-id="ADNTVPlus.fr@SD" tvg-logo="https://i.imgur.com/HQZQyWt.png" group-title="法国",ADN TV+ (720p)
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+#EXTINF:-1 tvg-id="60afaa535580be0007ac9ee4" tvg-name="Alerte à Malibu" tvg-logo="https://images.pluto.tv/channels/60afaa535580be0007ac9ee4/colorLogoPNG.png" group-title="法国",Alerte à Malibu
+https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
+#EXTINF:-1 tvg-id="AlpedHuezTV.fr@SD" tvg-logo="https://i.imgur.com/090tCQ5.png" group-title="法国",Alpe d’Huez TV (720p) [Not 24/7]
+https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
+#EXTINF:-1 tvg-id="FR1400003Y0" tvg-name="BFM 2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400003Y0_20241015T040216SQUARE.png" group-title="法国",BFM 2
+https://jmp2.uk/stvp-FR1400003Y0
+#EXTINF:-1 tvg-id="FR300004J5" tvg-name="BFM Grands Reportages" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20241015T040221SQUARE.png" group-title="法国",BFM Grands Reportages
+https://jmp2.uk/stvp-FR300004J5
+#EXTINF:-1 tvg-id="BrionnaisTV.fr@SD" tvg-logo="https://i.imgur.com/y94bhqX.jpg" group-title="法国",Brionnais TV (720p)
+https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
+#EXTINF:-1 tvg-id="63b579961bdba100071214cb" tvg-name="C'est pas sorcier" tvg-logo="https://images.pluto.tv/channels/63b579961bdba100071214cb/colorLogoPNG.png" group-title="法国",C'est pas sorcier
+https://jmp2.uk/plu-63b579961bdba100071214cb.m3u8
+#EXTINF:-1 tvg-id="Canal32.fr@SD" tvg-logo="https://i.imgur.com/lAsE6kN.png" group-title="法国",Canal 32 (1080p)
+https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
+#EXTINF:-1 tvg-id="CannesLerinsTV.fr@SD" tvg-logo="https://i.imgur.com/atlgnum.png" group-title="法国",Cannes Lérins TV (1080p)
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+#EXTINF:-1 tvg-id="FRBC3900004DS" tvg-name="Cap Terre" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900004DS_20250923T010330SQUARE.png" group-title="法国",Cap Terre
+https://jmp2.uk/stvp-FRBC3900004DS
+#EXTINF:-1 tvg-id="6823648580b2665220d9e69a" tvg-name="Ciné 666 by Pluto TV" tvg-logo="https://images.pluto.tv/channels/6823648580b2665220d9e69a/colorLogoPNG-1757404141.png" group-title="法国",Ciné 666 by Pluto TV
+https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8
+#EXTINF:-1 tvg-id="5f8ed1ff5c39700007e2204a" tvg-name="Ciné Action by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG_1752228138963.png" group-title="法国",Ciné Action by Pluto TV
+https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
+#EXTINF:-1 tvg-id="65a69ef53af63d000825e0ee" tvg-name="Ciné Catastrophe by Pluto TV" tvg-logo="https://images.pluto.tv/channels/65a69ef53af63d000825e0ee/colorLogoPNG_1751272916058.png" group-title="法国",Ciné Catastrophe by Pluto TV
+https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
+#EXTINF:-1 tvg-id="5f8ed168f72fcd0007e56269" tvg-name="Ciné Rétro by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG_1751272859383.png" group-title="法国",Ciné Rétro by Pluto TV
+https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
+#EXTINF:-1 tvg-id="60c34592c911890007f29a73" tvg-name="Ciné Sci-Fi by Pluto TV" tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png" group-title="法国",Ciné Sci-Fi by Pluto TV
+https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
+#EXTINF:-1 tvg-id="5f8ed0f17564a300082b676a" tvg-name="Ciné by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG_1775048900088.png" group-title="法国",Ciné by Pluto TV
+https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8
+#EXTINF:-1 tvg-id="62f3e2d000418d00070f7dbc" tvg-name="Ciné d'Asie by Pluto TV" tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png" group-title="法国",Ciné d'Asie by Pluto TV
+https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
+#EXTINF:-1 tvg-id="62f3dd1c2f29ce0007e18596" tvg-name="Coeur Océan" tvg-logo="https://images.pluto.tv/channels/62f3dd1c2f29ce0007e18596/colorLogoPNG.png" group-title="法国",Coeur Océan
+https://jmp2.uk/plu-62f3dd1c2f29ce0007e18596.m3u8
+#EXTINF:-1 tvg-id="69aadc5551df9542f2521e1a" tvg-name="Dawson" tvg-logo="https://images.pluto.tv/channels/69aadc5551df9542f2521e1a/colorLogoPNG_1775030813222.png" group-title="法国",Dawson
+https://jmp2.uk/plu-69aadc5551df9542f2521e1a.m3u8
+#EXTINF:-1 tvg-id="FR2600005LH" tvg-name="Drames - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600005LH_20241015T040143SQUARE.png" group-title="法国",Drames - Rakuten TV
+https://jmp2.uk/stvp-FR2600005LH
+#EXTINF:-1 tvg-id="FRBC3500002E4" tvg-name="Echappées belles & co" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3500002E4_20241015T040301SQUARE.png" group-title="法国",Echappées belles & co
+https://jmp2.uk/stvp-FRBC3500002E4
+#EXTINF:-1 tvg-id="63921a1bf76e7d0007c998a6" tvg-name="Enquêtes de Choc" tvg-logo="https://images.pluto.tv/channels/63921a1bf76e7d0007c998a6/colorLogoPNG.png" group-title="法国",Enquêtes de Choc
+https://jmp2.uk/plu-63921a1bf76e7d0007c998a6.m3u8
+#EXTINF:-1 tvg-id="662a622b5e2370000800f392" tvg-name="Faites entrer l'accusé" tvg-logo="https://images.pluto.tv/channels/662a622b5e2370000800f392/colorLogoPNG.png" group-title="法国",Faites entrer l'accusé
+https://jmp2.uk/plu-662a622b5e2370000800f392.m3u8
+#EXTINF:-1 tvg-id="FR2600003OZ" tvg-name="Films Romantiques - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600003OZ_20250121T012912SQUARE.png" group-title="法国",Films Romantiques - Rakuten TV
+https://jmp2.uk/stvp-FR2600003OZ
+#EXTINF:-1 tvg-id="68d292d554c61bfff220a635" tvg-name="Flynn Carson et The Outpost" tvg-logo="https://images.pluto.tv/channels/68d292d554c61bfff220a635/colorLogoPNG_1761761926608.png" group-title="法国",Flynn Carson et The Outpost
+https://jmp2.uk/plu-68d292d554c61bfff220a635.m3u8
+#EXTINF:-1 tvg-id="France2.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png" group-title="法国",France 2 (1080p)
+http://69.64.57.208/france2/mono.m3u8
+#EXTINF:-1 tvg-id="France2.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png" group-title="法国",France 2 HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+#EXTINF:-1 tvg-id="France5.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png" group-title="法国",France 5 (1080p)
+http://69.64.57.208/france5/mono.m3u8
+#EXTINF:-1 tvg-id="Francophonie24.fr@SD" tvg-logo="https://i.imgur.com/uM1v1sd.png" group-title="法国",Francophonie24 (1080p)
+https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Gong.fr@SD" tvg-logo="https://i.imgur.com/lA9UFMG.png" group-title="法国",Gong (1080p)
+https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="60afb203ec391c00070ea1bf" tvg-name="Génération Sitcoms" tvg-logo="https://images.pluto.tv/channels/60afb203ec391c00070ea1bf/colorLogoPNG.png" group-title="法国",Génération Sitcoms
+https://jmp2.uk/plu-60afb203ec391c00070ea1bf.m3u8
+#EXTINF:-1 tvg-id="60549e98061b5f000776866a" tvg-name="Instant Saga" tvg-logo="https://images.pluto.tv/channels/60549e98061b5f000776866a/colorLogoPNG.png" group-title="法国",Instant Saga
+https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8
+#EXTINF:-1 tvg-id="FRBD11000038N" tvg-name="L'effet papillon" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD11000038N_20250211T013831SQUARE.png" group-title="法国",L'effet papillon
+https://jmp2.uk/stvp-FRBD11000038N
+#EXTINF:-1 tvg-id="FR4200001BN" tvg-name="La Maison France 5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4200001BN_20251209T004439SQUARE.png" group-title="法国",La Maison France 5
+https://jmp2.uk/stvp-FR4200001BN
+#EXTINF:-1 tvg-id="FR3900003Y7" tvg-name="La Vie" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900003Y7_20260310T031736SQUARE.png" group-title="法国",La Vie
+https://jmp2.uk/stvp-FR3900003Y7
+#EXTINF:-1 tvg-id="FRBD1900006NA" tvg-name="Le meilleur d'Arthur" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900006NA_20241015T040338SQUARE.png" group-title="法国",Le meilleur d'Arthur
+https://jmp2.uk/stvp-FRBD1900006NA
+#EXTINF:-1 tvg-id="60549c238c3f21000753d3e0" tvg-name="Le miracle de l'amour" tvg-logo="https://images.pluto.tv/channels/60549c238c3f21000753d3e0/colorLogoPNG.png" group-title="法国",Le miracle de l'amour
+https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
+#EXTINF:-1 tvg-id="60afae68a7fc50000737186d" tvg-name="Les Années fac" tvg-logo="https://images.pluto.tv/channels/60afae68a7fc50000737186d/colorLogoPNG.png" group-title="法国",Les Années fac
+https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8
+#EXTINF:-1 tvg-id="5f8edb6df1ebb800072edf10" tvg-name="Les Nouveaux Detectives" tvg-logo="https://images.pluto.tv/channels/5f8edb6df1ebb800072edf10/colorLogoPNG.png" group-title="法国",Les Nouveaux Detectives
+https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8
+#EXTINF:-1 tvg-id="60549d97cd7b090007c73314" tvg-name="Les filles d'à côté" tvg-logo="https://images.pluto.tv/channels/60549d97cd7b090007c73314/colorLogoPNG.png" group-title="法国",Les filles d'à côté
+https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8
+#EXTINF:-1 tvg-id="FRBB490000412" tvg-name="Motus" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB490000412_20241015T042740SQUARE.png" group-title="法国",Motus
+https://jmp2.uk/stvp-FRBB490000412
+#EXTINF:-1 tvg-id="MyZenTV.fr@SD" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="法国",MyZen TV (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="692ec6d82329c10c5166f436" tvg-name="Nina" tvg-logo="https://images.pluto.tv/channels/692ec6d82329c10c5166f436/colorLogoPNG_1771598181775.png" group-title="法国",Nina
+https://jmp2.uk/plu-692ec6d82329c10c5166f436.m3u8
+#EXTINF:-1 tvg-id="662a6309307fa30008196b4e" tvg-name="Plus Belle la Vie 2" tvg-logo="https://images.pluto.tv/channels/662a6309307fa30008196b4e/colorLogoPNG.png" group-title="法国",Plus Belle la Vie 2
+https://jmp2.uk/plu-662a6309307fa30008196b4e.m3u8
+#EXTINF:-1 tvg-id="66b498bc14a2bb00086965bc" tvg-name="Pluto TV 2010's Classics" tvg-logo="https://images.pluto.tv/channels/66b498bc14a2bb00086965bc/colorLogoPNG.png" group-title="法国",Pluto TV 2010's Classics
+https://jmp2.uk/plu-66b498bc14a2bb00086965bc.m3u8
+#EXTINF:-1 tvg-id="66b4990746762a00084c2f78" tvg-name="Pluto TV 90's Classics" tvg-logo="https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png" group-title="法国",Pluto TV 90's Classics
+https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
+#EXTINF:-1 tvg-id="611e7811eb9daf000764cbfd" tvg-name="Pluto TV Aventure" tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png" group-title="法国",Pluto TV Aventure
+https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
+#EXTINF:-1 tvg-id="684bf01df7d8b74b625b7dd1" tvg-name="Pluto TV Brigade Criminelle" tvg-logo="https://images.pluto.tv/channels/684bf01df7d8b74b625b7dd1/colorLogoPNG_1753890939606.png" group-title="法国",Pluto TV Brigade Criminelle
+https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8
+#EXTINF:-1 tvg-id="5f8eb91bb9b9e7000817e67f" tvg-name="Pluto TV Comédie" tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png" group-title="法国",Pluto TV Comédie
+https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
+#EXTINF:-1 tvg-id="67b4b2d976a934282e92d71c" tvg-name="Pluto TV Comédies Cultes" tvg-logo="https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/colorLogoPNG.png" group-title="法国",Pluto TV Comédies Cultes
+https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
+#EXTINF:-1 tvg-id="62f3e0522443200008c567d7" tvg-name="Pluto TV French Collection" tvg-logo="https://images.pluto.tv/channels/62f3e0522443200008c567d7/colorLogoPNG.png" group-title="法国",Pluto TV French Collection
+https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
+#EXTINF:-1 tvg-id="611e771e2f5f180007002224" tvg-name="Pluto TV Histoire" tvg-logo="https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png" group-title="法国",Pluto TV Histoire
+https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
+#EXTINF:-1 tvg-id="5f8ed3892ed7bb000741a1d2" tvg-name="Pluto TV Inside" tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png" group-title="法国",Pluto TV Inside
+https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
+#EXTINF:-1 tvg-id="652557d93fd33c000802f995" tvg-name="Pluto TV Super Kids" tvg-logo="https://images.pluto.tv/channels/652557d93fd33c000802f995/colorLogoPNG_1733440546104.png" group-title="法国",Pluto TV Super Kids
+https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
+#EXTINF:-1 tvg-id="PublicSenat2424.fr@SD" tvg-logo="https://i.imgur.com/nHWWLBP.png" group-title="法国",Public Senat 24/24
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/publicsenat.m3u8
+#EXTINF:-1 tvg-id="PuissanceTV.fr@SD" tvg-logo="https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg" group-title="法国",Puissance TV
+https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
+#EXTINF:-1 tvg-id="678f894ef5c74bff95c20a7f" tvg-name="Pêche à haut risque" tvg-logo="https://images.pluto.tv/channels/678f894ef5c74bff95c20a7f/colorLogoPNG.png" group-title="法国",Pêche à haut risque
+https://jmp2.uk/plu-678f894ef5c74bff95c20a7f.m3u8
+#EXTINF:-1 tvg-id="5f8ed2d1c34c2300073bf02c" tvg-name="Series by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG_1775048963457.png" group-title="法国",Series by Pluto TV
+https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
+#EXTINF:-1 tvg-id="SonyOneBlacklist.fr@HD" tvg-logo="https://i.imgur.com/uJC8rXr.png" group-title="法国",Sony One Blacklist (1080p)
+https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneSeriesComedie.fr@HD" tvg-logo="https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png" group-title="法国",Sony One Series Comedie (1080p)
+https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneSeriesThriller.fr@HD" tvg-logo="https://i.imgur.com/RVS8LDj.png" group-title="法国",Sony One Series Thriller (1080p)
+https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="SudRadio.fr@SD" tvg-logo="https://www.sudradio.fr/wp-content/themes/sud-2023/assets/img/logo-fondblanc-parlons.png" group-title="法国",Sud Radio (288p)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sudradio.m3u8
+#EXTINF:-1 tvg-id="T18.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/500px-Logo_de_la_chaine_T18.svg.png" group-title="法国",T18 (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+#EXTINF:-1 tvg-id="TVMonaco.mc@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/960px-TVMonaco_2023.svg.png" group-title="法国",TV Monaco (1080p)
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+#EXTINF:-1 tvg-id="FRBB49000059E" tvg-name="Tahiti TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000059E_20241015T042847SQUARE.png" group-title="法国",Tahiti TV
+https://jmp2.uk/stvp-FRBB49000059E
+#EXTINF:-1 tvg-id="FRBC14000010C" tvg-name="Tele.Novela" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC14000010C_20241015T042852SQUARE.png" group-title="法国",Tele.Novela
+https://jmp2.uk/stvp-FRBC14000010C
+#EXTINF:-1 tvg-id="5f8ece1a89d79800072510e6" tvg-name="The Asylum" tvg-logo="https://images.pluto.tv/channels/5f8ece1a89d79800072510e6/colorLogoPNG.png" group-title="法国",The Asylum
+https://jmp2.uk/plu-5f8ece1a89d79800072510e6.m3u8
+#EXTINF:-1 tvg-id="FR2600007CB" tvg-name="Top Films - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600007CB_20250415T020909SQUARE.png" group-title="法国",Top Films - Rakuten TV
+https://jmp2.uk/stvp-FR2600007CB
+#EXTINF:-1 tvg-id="5f914f4b36d67d0007a91a04" tvg-name="True Crime by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png" group-title="法国",True Crime by Pluto TV
+https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
+#EXTINF:-1 tvg-id="6683cd0f63a5f20008fb84a3" tvg-name="Un Si Grand Soleil" tvg-logo="https://images.pluto.tv/channels/6683cd0f63a5f20008fb84a3/colorLogoPNG_1749650858325.png" group-title="法国",Un Si Grand Soleil
+https://jmp2.uk/plu-6683cd0f63a5f20008fb84a3.m3u8
+#EXTINF:-1 tvg-id="ViaMatele.fr@SD" tvg-logo="https://i.imgur.com/XVCV9rj.png" group-title="法国",ViàMatélé (1080p)
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+#EXTINF:-1 tvg-id="VosgesTV.fr@SD" tvg-logo="https://i.imgur.com/7y7ancc.png" group-title="法国",Vosges Télévision (576p) [Not 24/7]
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+#EXTINF:-1 tvg-id="680291e38e1ff89c2427aefd" tvg-name="Voyages & Saveurs" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" group-title="法国",Voyages & Saveurs
+https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
+#EXTINF:-1 tvg-id="5f8ecfb9db6c180007a6d1b0" tvg-name="WPT" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="法国",WPT
+https://jmp2.uk/plu-5f8ecfb9db6c180007a6d1b0.m3u8
+#EXTINF:-1 tvg-id="60b4d6c806ad2a00073b3108" tvg-name="Wild Side TV" tvg-logo="https://images.pluto.tv/channels/60b4d6c806ad2a00073b3108/colorLogoPNG.png" group-title="法国",Wild Side TV
+https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8
+#EXTINF:-1 tvg-id="612e044c970e6f00083bcf3b" tvg-name="Y'a que la vérité qui compte" tvg-logo="https://images.pluto.tv/channels/612e044c970e6f00083bcf3b/colorLogoPNG.png" group-title="法国",Y'a que la vérité qui compte
+https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
+#EXTINF:-1 tvg-id="66f55cf2483d460008f68746" tvg-name="Zone Interdite" tvg-logo="https://images.pluto.tv/channels/66f55cf2483d460008f68746/colorLogoPNG.png" group-title="法国",Zone Interdite
+https://jmp2.uk/plu-66f55cf2483d460008f68746.m3u8
+#EXTINF:-1 tvg-id="IntoCrime.fr@SD" tvg-logo="https://i.imgur.com/43at4M2.png" group-title="法国",Zylo Into Crime (1080p)
+https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6671b26836a2f90008d9333c" tvg-name="Diane, femme flic" tvg-logo="https://images.pluto.tv/channels/6671b26836a2f90008d9333c/colorLogoPNG.png" group-title="法国",femme flic" tvg-logo="https://images.pluto.tv/channels/6671b26836a2f90008d9333c/colorLogoPNG.png" group-title="France",Diane femme flic
+https://jmp2.uk/plu-6671b26836a2f90008d9333c.m3u8
+#EXTINF:-1 tvg-id="62f3ece7b09fd6000783bfb9" tvg-name="Un gars, une fille" tvg-logo="https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/colorLogoPNG.png" group-title="法国",une fille" tvg-logo="https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/colorLogoPNG.png" group-title="France",Un gars une fille
+https://jmp2.uk/plu-62f3ece7b09fd6000783bfb9.m3u8
+#EXTINF:-1 tvg-id="ITBA33000374G" tvg-name="5-Minuti Creativi" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000374G_20241022T043949SQUARE.png" group-title="意大利",5-Minuti Creativi
+https://jmp2.uk/stvp-ITBA33000374G
+#EXTINF:-1 tvg-id="64ec5c6644fe100009d114ae" tvg-name="Affare Fatto" tvg-logo="https://images.pluto.tv/channels/64ec5c6644fe100009d114ae/colorLogoPNG.png" group-title="意大利",Affare Fatto
+https://jmp2.uk/plu-64ec5c6644fe100009d114ae.m3u8
+#EXTINF:-1 tvg-id="638f286445264d00084ec6dc" tvg-name="Autostop per il cielo" tvg-logo="https://images.pluto.tv/channels/638f286445264d00084ec6dc/colorLogoPNG.png" group-title="意大利",Autostop per il cielo
+https://jmp2.uk/plu-638f286445264d00084ec6dc.m3u8
+#EXTINF:-1 tvg-id="65cb78b83a116800079e2e35" tvg-name="Cin Cin" tvg-logo="https://images.pluto.tv/channels/65cb78b83a116800079e2e35/colorLogoPNG.png" group-title="意大利",Cin Cin
+https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
+#EXTINF:-1 tvg-id="671754d8e482950008962aaf" tvg-name="Cinema Poliziottesco" tvg-logo="https://images.pluto.tv/channels/671754d8e482950008962aaf/colorLogoPNG.png" group-title="意大利",Cinema Poliziottesco
+https://jmp2.uk/plu-671754d8e482950008962aaf.m3u8
+#EXTINF:-1 tvg-id="6661739641af6400080cd8f1" tvg-name="Extreme Makeover Home Edition" tvg-logo="https://images.pluto.tv/channels/6661739641af6400080cd8f1/colorLogoPNG.png" group-title="意大利",Extreme Makeover Home Edition
+https://jmp2.uk/plu-6661739641af6400080cd8f1.m3u8
+#EXTINF:-1 tvg-id="IT2600002F6" tvg-name="Film Top - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600002F6_20250415T022347SQUARE.png" group-title="意大利",Film Top - Rakuten TV
+https://jmp2.uk/stvp-IT2600002F6
+#EXTINF:-1 tvg-id="IT500011RG" tvg-name="Gambero Rosso" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20251216T040650SQUARE.png" group-title="意大利",Gambero Rosso
+https://jmp2.uk/stvp-IT500011RG
+#EXTINF:-1 tvg-id="IT9000081B" tvg-name="Giallo" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000081B_20250408T021446SQUARE.png" group-title="意大利",Giallo
+https://jmp2.uk/stvp-IT9000081B
+#EXTINF:-1 tvg-id="ITBD1100001B7" tvg-name="Gli immortali – Van Damme vs Lundgren" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100001B7_20250715T004408SQUARE.png" group-title="意大利",Gli immortali – Van Damme vs Lundgren
+https://jmp2.uk/stvp-ITBD1100001B7
+#EXTINF:-1 tvg-id="IT3800003GX" tvg-name="Guardia Costiera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800003GX_20251209T004728SQUARE.png" group-title="意大利",Guardia Costiera
+https://jmp2.uk/stvp-IT3800003GX
+#EXTINF:-1 tvg-id="62442f28afe626000747f195" tvg-name="I Jefferson" tvg-logo="https://images.pluto.tv/channels/62442f28afe626000747f195/colorLogoPNG-1652710570039.png" group-title="意大利",I Jefferson
+https://jmp2.uk/plu-62442f28afe626000747f195.m3u8
+#EXTINF:-1 tvg-id="60e4507a06171800072339a3" tvg-name="Il Banco dei Pugni" tvg-logo="https://images.pluto.tv/channels/60e4507a06171800072339a3/colorLogoPNG.png" group-title="意大利",Il Banco dei Pugni
+https://jmp2.uk/plu-60e4507a06171800072339a3.m3u8
+#EXTINF:-1 tvg-id="6349279ed5023700078f2bc2" tvg-name="Mai dire sì" tvg-logo="https://images.pluto.tv/channels/6349279ed5023700078f2bc2/colorLogoPNG.png" group-title="意大利",Mai dire sì
+https://jmp2.uk/plu-6349279ed5023700078f2bc2.m3u8
+#EXTINF:-1 tvg-id="OrlerTV.it@SD" tvg-logo="https://i.imgur.com/Ia7iULa.png" group-title="意大利",Orler TV (420p) [Not 24/7]
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ParolediVita.it@SD" tvg-logo="https://i.imgur.com/vkFlXbR.png" group-title="意大利",Parole di Vita (1080p)
+https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
+#EXTINF:-1 tvg-id="PeerTVAltoAdige.it@SD" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" group-title="意大利",Peer TV Alto Adige (1280p)
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 tvg-id="PeerTVSouthTyrol.it@SD" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" group-title="意大利",Peer TV South Tyrol (1280p)
+https://iptv.peer.biz/live/peertv-en.m3u8
+#EXTINF:-1 tvg-id="661f8f01801af800083d9d81" tvg-name="Pluto TV Alberto Sordi" tvg-logo="https://images.pluto.tv/channels/661f8f01801af800083d9d81/colorLogoPNG.png" group-title="意大利",Pluto TV Alberto Sordi
+https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8
+#EXTINF:-1 tvg-id="612e05b885183d0007958101" tvg-name="Pluto TV Christmas tutto l'anno" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG_1770018716998.png" group-title="意大利",Pluto TV Christmas tutto l'anno
+https://jmp2.uk/plu-612e05b885183d0007958101.m3u8
+#EXTINF:-1 tvg-id="6786235bd648bf0008c2780a" tvg-name="Pluto TV Cinema Orientale" tvg-logo="https://images.pluto.tv/channels/6786235bd648bf0008c2780a/colorLogoPNG.png" group-title="意大利",Pluto TV Cinema Orientale
+https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8
+#EXTINF:-1 tvg-id="608aa718a8ec810007d87fee" tvg-name="Pluto TV Cucina" tvg-logo="https://images.pluto.tv/channels/608aa718a8ec810007d87fee/colorLogoPNG_1774519163545.png" group-title="意大利",Pluto TV Cucina
+https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
+#EXTINF:-1 tvg-id="6875080e3484d607323641f8" tvg-name="Pluto TV Dive Italiane" tvg-logo="https://images.pluto.tv/channels/6875080e3484d607323641f8/colorLogoPNG_1755261736890.png" group-title="意大利",Pluto TV Dive Italiane
+https://jmp2.uk/plu-6875080e3484d607323641f8.m3u8
+#EXTINF:-1 tvg-id="608aa8a5709d6b0007b132fe" tvg-name="Pluto TV Documentari" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png" group-title="意大利",Pluto TV Documentari
+https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
+#EXTINF:-1 tvg-id="66335489307fa300082bd6e4" tvg-name="Pluto TV Eros" tvg-logo="https://images.pluto.tv/channels/66335489307fa300082bd6e4/colorLogoPNG.png" group-title="意大利",Pluto TV Eros
+https://jmp2.uk/plu-66335489307fa300082bd6e4.m3u8
+#EXTINF:-1 tvg-id="608aa17fb9f4490007e6419a" tvg-name="Pluto TV Film" tvg-logo="https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoPNG_1733013735186.png" group-title="意大利",Pluto TV Film
+https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
+#EXTINF:-1 tvg-id="608aa20a2e7f270007c4878d" tvg-name="Pluto TV Film Azione" tvg-logo="https://images.pluto.tv/channels/608aa20a2e7f270007c4878d/colorLogoPNG.png" group-title="意大利",Pluto TV Film Azione
+https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
+#EXTINF:-1 tvg-id="ITBC3000002WL" tvg-name="Pluto TV Film Commedia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3000002WL_20241022T051705SQUARE.png" group-title="意大利",Pluto TV Film Commedia
+https://jmp2.uk/stvp-ITBC3000002WL
+#EXTINF:-1 tvg-id="608aa4a4cc92820007b663af" tvg-name="Pluto TV Film Romantici" tvg-logo="https://images.pluto.tv/channels/608aa4a4cc92820007b663af/colorLogoPNG.png" group-title="意大利",Pluto TV Film Romantici
+https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
+#EXTINF:-1 tvg-id="68750875759366af05a151ce" tvg-name="Pluto TV Film Storici" tvg-logo="https://images.pluto.tv/channels/68750875759366af05a151ce/colorLogoPNG_1756144116606.png" group-title="意大利",Pluto TV Film Storici
+https://jmp2.uk/plu-68750875759366af05a151ce.m3u8
+#EXTINF:-1 tvg-id="608aa5e995132a00075f7005" tvg-name="Pluto TV Film Thriller" tvg-logo="https://images.pluto.tv/channels/608aa5e995132a00075f7005/colorLogoPNG.png" group-title="意大利",Pluto TV Film Thriller
+https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
+#EXTINF:-1 tvg-id="60802b37709d6b0007b0c549" tvg-name="Pluto TV Natura" tvg-logo="https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG_1773147389391.png" group-title="意大利",Pluto TV Natura
+https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
+#EXTINF:-1 tvg-id="6911c9b88caba6f046c5ca8f" tvg-name="Pluto TV Notti di Crimine" tvg-logo="https://images.pluto.tv/channels/6911c9b88caba6f046c5ca8f/colorLogoPNG_1766041133171.png" group-title="意大利",Pluto TV Notti di Crimine
+https://jmp2.uk/plu-6911c9b88caba6f046c5ca8f.m3u8
+#EXTINF:-1 tvg-id="6911c9704316999535eb21cf" tvg-name="Pluto TV Notti di Passione" tvg-logo="https://images.pluto.tv/channels/6911c9704316999535eb21cf/colorLogoPNG_1766041294522.png" group-title="意大利",Pluto TV Notti di Passione
+https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8
+#EXTINF:-1 tvg-id="6911c92b4316999535eb1e08" tvg-name="Pluto TV Notti di Sangue" tvg-logo="https://images.pluto.tv/channels/6911c92b4316999535eb1e08/colorLogoPNG_1766041125862.png" group-title="意大利",Pluto TV Notti di Sangue
+https://jmp2.uk/plu-6911c92b4316999535eb1e08.m3u8
+#EXTINF:-1 tvg-id="6911c8dd8caba6f046c5c5d5" tvg-name="Pluto TV Notti di Terrore" tvg-logo="https://images.pluto.tv/channels/6911c8dd8caba6f046c5c5d5/colorLogoPNG_1766041208757.png" group-title="意大利",Pluto TV Notti di Terrore
+https://jmp2.uk/plu-6911c8dd8caba6f046c5c5d5.m3u8
+#EXTINF:-1 tvg-id="60801976f92a750007a0699c" tvg-name="Pluto TV Real Life" tvg-logo="https://images.pluto.tv/channels/60801976f92a750007a0699c/colorLogoPNG_1775123848385.png" group-title="意大利",Pluto TV Real Life
+https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
+#EXTINF:-1 tvg-id="608aa777b907770007e5d05d" tvg-name="Pluto TV Serie Crime" tvg-logo="https://images.pluto.tv/channels/608aa777b907770007e5d05d/colorLogoPNG_1750402183051.png" group-title="意大利",Pluto TV Serie Crime
+https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
+#EXTINF:-1 tvg-id="67ed14aaf7c5d70b9089c3bf" tvg-name="Pluto TV Serie Sci-Fi" tvg-logo="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png" group-title="意大利",Pluto TV Serie Sci-Fi
+https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
+#EXTINF:-1 tvg-id="67e3b0d2443f0671bc8a1297" tvg-name="Pluto TV Shore" tvg-logo="https://images.pluto.tv/channels/67e3b0d2443f0671bc8a1297/colorLogoPNG_1747721158520.png" group-title="意大利",Pluto TV Shore
+https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8
+#EXTINF:-1 tvg-id="65253fdf3fd33c00080214a3" tvg-name="Pluto TV Storia" tvg-logo="https://images.pluto.tv/channels/65253fdf3fd33c00080214a3/colorLogoPNG_1773147329671.png" group-title="意大利",Pluto TV Storia
+https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
+#EXTINF:-1 tvg-id="65253f9881f942000833ccd5" tvg-name="Pluto TV Totò" tvg-logo="https://images.pluto.tv/channels/65253f9881f942000833ccd5/colorLogoPNG_1774617972809.png" group-title="意大利",Pluto TV Totò
+https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
+#EXTINF:-1 tvg-id="63c923944207be0007fd0887" tvg-name="Pluto TV Viaggi" tvg-logo="https://images.pluto.tv/channels/63c923944207be0007fd0887/colorLogoPNG_1774882201565.png" group-title="意大利",Pluto TV Viaggi
+https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
+#EXTINF:-1 tvg-id="PromovideoTV.it@SD" tvg-logo="https://i.imgur.com/eKpS5Ck.png" group-title="意大利",Promovideo TV (486p)
+https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioBirikinaTV.it@SD" tvg-logo="https://i.imgur.com/CFAx6m5.png" group-title="意大利",Radio Birikina TV (720p) [Not 24/7]
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioRomaTelevision.it@SD" tvg-logo="https://i.imgur.com/E2BhLK4.png" group-title="意大利",Radio Roma Television
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radioromatv.m3u8
+#EXTINF:-1 tvg-id="RaiGulp.it@HD" tvg-logo="https://i.imgur.com/irAhPJM.png" group-title="意大利",Rai Gulp HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
+#EXTINF:-1 tvg-id="RaiScuola.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png" group-title="意大利",Rai Scuola (1080p)
+http://78.130.250.2:8023/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="RaiStoria.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png" group-title="意大利",Rai Storia HD (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
+#EXTINF:-1 tvg-id="ITBD3200006F0" tvg-name="Relic Hunter" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200006F0_20250527T014845SQUARE.png" group-title="意大利",Relic Hunter
+https://jmp2.uk/stvp-ITBD3200006F0
+#EXTINF:-1 tvg-id="634926e4b51d2d00077819a2" tvg-name="Renegade" tvg-logo="https://images.pluto.tv/channels/634926e4b51d2d00077819a2/colorLogoPNG.png" group-title="意大利",Renegade
+https://jmp2.uk/plu-634926e4b51d2d00077819a2.m3u8
+#EXTINF:-1 tvg-id="Rete4.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png" group-title="意大利",Rete 4 HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
+#EXTINF:-1 tvg-id="ReteBiellaTV.it@SD" tvg-logo="https://i.imgur.com/I4OVxIb.png" group-title="意大利",Rete Biella TV (720p) [Not 24/7]
+https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+#EXTINF:-1 tvg-id="63eb57d6c111bc0008fe2658" tvg-name="Sanctuary" tvg-logo="https://images.pluto.tv/channels/63eb57d6c111bc0008fe2658/colorLogoPNG.png" group-title="意大利",Sanctuary
+https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
+#EXTINF:-1 tvg-id="SenatoTV.it@SD" tvg-logo="https://i.imgur.com/h4NyN5d.png" group-title="意大利",Senato TV (1080p)
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 tvg-id="6245d3792792150007e20634" tvg-name="Settimo Cielo" tvg-logo="https://images.pluto.tv/channels/6245d3792792150007e20634/colorLogoPNG.png" group-title="意大利",Settimo Cielo
+https://jmp2.uk/plu-6245d3792792150007e20634.m3u8
+#EXTINF:-1 tvg-id="SophiaTV.it@SD" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="意大利",Sophia TV Italy (720p)
+https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="625e6cc905e09f00073addee" tvg-name="Squadra Speciale Cobra 11" tvg-logo="https://images.pluto.tv/channels/625e6cc905e09f00073addee/colorLogoPNG_1761308604738.png" group-title="意大利",Squadra Speciale Cobra 11
+https://jmp2.uk/plu-625e6cc905e09f00073addee.m3u8
+#EXTINF:-1 tvg-id="IT1200001Q8" tvg-name="Storie Criminali" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1200001Q8_20241022T043854SQUARE.png" group-title="意大利",Storie Criminali
+https://jmp2.uk/stvp-IT1200001Q8
+#EXTINF:-1 tvg-id="66d9a98961dbf00008efb5fc" tvg-name="Sulle tracce del crimine" tvg-logo="https://images.pluto.tv/channels/66d9a98961dbf00008efb5fc/colorLogoPNG.png" group-title="意大利",Sulle tracce del crimine
+https://jmp2.uk/plu-66d9a98961dbf00008efb5fc.m3u8
+#EXTINF:-1 tvg-id="SuperTV.it@SD" tvg-logo="https://i.imgur.com/hxF3yhw.png" group-title="意大利",Super TV (720p)
+http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
+#EXTINF:-1 tvg-id="6093f7b5bb49b90007cecaad" tvg-name="Super! Pop" tvg-logo="https://images.pluto.tv/channels/6093f7b5bb49b90007cecaad/colorLogoPNG_1749451949815.png" group-title="意大利",Super! Pop
+https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8
+#EXTINF:-1 tvg-id="ITAJ380000343" tvg-name="Super! Spongebob" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ380000343_20241106T142444SQUARE.png" group-title="意大利",Super! Spongebob
+https://jmp2.uk/stvp-ITAJ380000343
+#EXTINF:-1 tvg-id="609401db8cf51c00084b592e" tvg-name="Super! iCarly" tvg-logo="https://images.pluto.tv/channels/609401db8cf51c00084b592e/colorLogoPNG_1749451591847.png" group-title="意大利",Super! iCarly
+https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8
+#EXTINF:-1 tvg-id="TVQuiModena.it@SD" tvg-logo="https://i.imgur.com/YfMVNDE.png" group-title="意大利",TV Qui (Modena) (480p)
+https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+#EXTINF:-1 tvg-id="66a8c8b3d2d50d000821fc4c" tvg-name="Tandem" tvg-logo="https://images.pluto.tv/channels/66a8c8b3d2d50d000821fc4c/colorLogoPNG.png" group-title="意大利",Tandem
+https://jmp2.uk/plu-66a8c8b3d2d50d000821fc4c.m3u8
+#EXTINF:-1 tvg-id="62619405c733e8000732d1fe" tvg-name="Teenage Mutant Ninja Turtles" tvg-logo="https://images.pluto.tv/channels/62619405c733e8000732d1fe/colorLogoPNG.png" group-title="意大利",Teenage Mutant Ninja Turtles
+https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
+#EXTINF:-1 tvg-id="Telepavia.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LOGO_telePAVIA.png" group-title="意大利",Tele Pavia (720p)
+http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleRama.it@SD" tvg-logo="https://i.imgur.com/0YTYXB9.png" group-title="意大利",TeleRama (576p)
+https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TelekanalRAI.ua@SD" tvg-logo="https://i.imgur.com/Ouv51WB.png" group-title="意大利",Telekanal RAI (480p)
+https://stream.rai.ua/rai/stream.m3u8
+#EXTINF:-1 tvg-id="Telepace3.it@SD" tvg-logo="https://i.imgur.com/hE4i2ft.png" group-title="意大利",Telepace 3 (1080p)
+https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TelepaceTrento.it@SD" tvg-logo="https://tvtvtv.ru/icons/telepace_trento.png" group-title="意大利",Telepace Trento (540p)
+https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
+#EXTINF:-1 tvg-id="69664afedcbf5c784492e422" tvg-name="The Intern" tvg-logo="https://images.pluto.tv/channels/69664afedcbf5c784492e422/colorLogoPNG_1772434734016.png" group-title="意大利",The Intern
+https://jmp2.uk/plu-69664afedcbf5c784492e422.m3u8
+#EXTINF:-1 tvg-id="64fee60130ab3300084d9157" tvg-name="The Musketeers" tvg-logo="https://images.pluto.tv/channels/64fee60130ab3300084d9157/colorLogoPNG.png" group-title="意大利",The Musketeers
+https://jmp2.uk/plu-64fee60130ab3300084d9157.m3u8
+#EXTINF:-1 tvg-id="UmbriaTV.it@SD" tvg-logo="https://i.imgur.com/olJIJ7c.png" group-title="意大利",Umbria TV (576p) [Not 24/7]
+https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
+#EXTINF:-1 tvg-id="UniNettunoUniversityTV.it@SD" tvg-logo="https://i.imgur.com/c9So8nf.png" group-title="意大利",UniNettuno University TV (720p)
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+#EXTINF:-1 tvg-id="3CatPlatsbruts.es@SD" tvg-logo="https://i.imgur.com/49ZENis.png" group-title="西班牙",3Cat Plats bruts (1080p)
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+#EXTINF:-1 tvg-id="67517fae5534bb0008187997" tvg-name="Actualidad 360" tvg-logo="https://images.pluto.tv/channels/67517fae5534bb0008187997/colorLogoPNG.png" group-title="西班牙",Actualidad 360
+https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
+#EXTINF:-1 tvg-id="AlcarriaTV.es@SD" tvg-logo="https://i.imgur.com/pzJAYan.png" group-title="西班牙",Alcarria TV (576p) [Not 24/7]
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-id="66d71f8ee5de930008016f83" tvg-name="Alice Nevers" tvg-logo="https://images.pluto.tv/channels/66d71f8ee5de930008016f83/colorLogoPNG_1730816120590.png" group-title="西班牙",Alice Nevers
+https://jmp2.uk/plu-66d71f8ee5de930008016f83.m3u8
+#EXTINF:-1 tvg-id="AnimeZoneTV.do@SD" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="西班牙",Anime Zone TV (480p)
+http://animezonetv.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="5f984f4a09e92d0007d74647" tvg-name="Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG_1763542909820.png" group-title="西班牙",Archivos Forenses
+https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
+#EXTINF:-1 tvg-id="BCNGospelTV.es@SD" tvg-logo="https://i.imgur.com/ZKAnehs.png" group-title="西班牙",BCN Gospel TV (1080p)
+https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8
+#EXTINF:-1 tvg-id="688892172928933015abe479" tvg-name="Barbie & Friends" tvg-logo="https://images.pluto.tv/channels/688892172928933015abe479/colorLogoPNG_1765806030713.png" group-title="西班牙",Barbie & Friends
+https://jmp2.uk/plu-688892172928933015abe479.m3u8
+#EXTINF:-1 tvg-id="Canal33Madrid.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_33_Madrid_2025.jpg/960px-Logo_Canal_33_Madrid_2025.jpg" group-title="西班牙",Canal 33 Madrid
+https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es@SD" tvg-logo="https://i.imgur.com/lznnA4v.png" group-title="西班牙",Canal Sur Andalucia (1080p)
+https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+#EXTINF:-1 tvg-id="60ed5fb9c4716d0007d180c5" tvg-name="Cazador de Homicidas" tvg-logo="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png" group-title="西班牙",Cazador de Homicidas
+https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8
+#EXTINF:-1 tvg-id="CetelmonTV.es@SD" tvg-logo="https://i.imgur.com/GGn7itj.png" group-title="西班牙",Cetelmón TV (404p)
+http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
+#EXTINF:-1 tvg-id="66d71c656b63480008cf0427" tvg-name="Cherif" tvg-logo="https://images.pluto.tv/channels/66d71c656b63480008cf0427/colorLogoPNG.png" group-title="西班牙",Cherif
+https://jmp2.uk/plu-66d71c656b63480008cf0427.m3u8
+#EXTINF:-1 tvg-id="ESBC2700012RP" tvg-name="Cine Feel Good – Verdi TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png" group-title="西班牙",Cine Feel Good – Verdi TV
+https://jmp2.uk/stvp-ESBC2700012RP
+#EXTINF:-1 tvg-id="68de3db35fc0afe85de0b843" tvg-name="Comedia a lo bestia de Pluto TV" tvg-logo="https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png" group-title="西班牙",Comedia a lo bestia de Pluto TV
+https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
+#EXTINF:-1 tvg-id="629a066860ef810008267b70" tvg-name="Detective Conan" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG_1771323495777.png" group-title="西班牙",Detective Conan
+https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
+#EXTINF:-1 tvg-id="685a996c7c4f2ad40cb4f276" tvg-name="Dragon Ball" tvg-logo="https://images.pluto.tv/channels/685a996c7c4f2ad40cb4f276/colorLogoPNG_1756876796024.png" group-title="西班牙",Dragon Ball
+https://jmp2.uk/plu-685a996c7c4f2ad40cb4f276.m3u8
+#EXTINF:-1 tvg-id="68e8fd7c3ede4398bc69af93" tvg-name="Dragon Ball Z" tvg-logo="https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/colorLogoPNG_1770028454770.png" group-title="西班牙",Dragon Ball Z
+https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
+#EXTINF:-1 tvg-id="690dd10a37b131228d76d5b1" tvg-name="El Mueble" tvg-logo="https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/colorLogoPNG_1764966923664.png" group-title="西班牙",El Mueble
+https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
+#EXTINF:-1 tvg-id="60218baa464ef900073168c1" tvg-name="Empeños a lo bestia" tvg-logo="https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png" group-title="西班牙",Empeños a lo bestia
+https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
+#EXTINF:-1 tvg-id="ES26000068D" tvg-name="Estilo y Vida – Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20241126T043113SQUARE.png" group-title="西班牙",Estilo y Vida – Rakuten TV
+https://jmp2.uk/stvp-ES26000068D
+#EXTINF:-1 tvg-id="ESBC3500002PW" tvg-name="Ideas en 5 Minutos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20241022T051025SQUARE.png" group-title="西班牙",Ideas en 5 Minutos
+https://jmp2.uk/stvp-ESBC3500002PW
+#EXTINF:-1 tvg-id="IntercomarcalTV.es@SD" tvg-logo="https://i.imgur.com/KLPSnAT.png" group-title="西班牙",Intercomarcal TV (576p) [Not 24/7]
+https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
+#EXTINF:-1 tvg-id="ES1600002QL" tvg-name="La Fiebre del Jade" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600002QL_20250923T011551SQUARE.png" group-title="西班牙",La Fiebre del Jade
+https://jmp2.uk/stvp-ES1600002QL
+#EXTINF:-1 tvg-id="ES4400001N3" tvg-name="Las 3 Mellizas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400001N3_20260120T031327SQUARE.png" group-title="西班牙",Las 3 Mellizas
+https://jmp2.uk/stvp-ES4400001N3
+#EXTINF:-1 tvg-id="68adc3fdd8f7693ae347a63a" tvg-name="Los Gipsy Kings" tvg-logo="https://images.pluto.tv/channels/68adc3fdd8f7693ae347a63a/colorLogoPNG_1759420523581.png" group-title="西班牙",Los Gipsy Kings
+https://jmp2.uk/plu-68adc3fdd8f7693ae347a63a.m3u8
+#EXTINF:-1 tvg-id="6682bd9b8768aa0008f25be5" tvg-name="Los misterios de Murdoch" tvg-logo="https://images.pluto.tv/channels/6682bd9b8768aa0008f25be5/colorLogoPNG_1764691773450.png" group-title="西班牙",Los misterios de Murdoch
+https://jmp2.uk/plu-6682bd9b8768aa0008f25be5.m3u8
+#EXTINF:-1 tvg-id="683457e5f59cc6a13212fce4" tvg-name="Lupin" tvg-logo="https://images.pluto.tv/channels/683457e5f59cc6a13212fce4/colorLogoPNG_1754485275244.png" group-title="西班牙",Lupin
+https://jmp2.uk/plu-683457e5f59cc6a13212fce4.m3u8
+#EXTINF:-1 tvg-id="6888928eb52fb742416673d2" tvg-name="Mattel Junior" tvg-logo="https://images.pluto.tv/channels/6888928eb52fb742416673d2/colorLogoPNG_1765806188472.png" group-title="西班牙",Mattel Junior
+https://jmp2.uk/plu-6888928eb52fb742416673d2.m3u8
+#EXTINF:-1 tvg-id="ES2800002MM" tvg-name="Mayday: Catástrofe Aérea" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800002MM_20251013T053451SQUARE.png" group-title="西班牙",Mayday: Catástrofe Aérea
+https://jmp2.uk/stvp-ES2800002MM
+#EXTINF:-1 tvg-id="6578808014fbe400086e21bc" tvg-name="Medium" tvg-logo="https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png" group-title="西班牙",Medium
+https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
+#EXTINF:-1 tvg-id="683457aebbc703dfd45a89eb" tvg-name="Merlí" tvg-logo="https://images.pluto.tv/channels/683457aebbc703dfd45a89eb/colorLogoPNG_1749718381815.png" group-title="西班牙",Merlí
+https://jmp2.uk/plu-683457aebbc703dfd45a89eb.m3u8
+#EXTINF:-1 tvg-id="MisionesCuatro.ar@SD" tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="西班牙",Misiones Cuatro
+https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
+#EXTINF:-1 tvg-id="600ae6a78d801e0007117d21" tvg-name="Pluto TV Animales" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="西班牙",Pluto TV Animales
+https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
+#EXTINF:-1 tvg-id="6995daa579545c21a10e84de" tvg-name="Pluto TV Basadas en libros" tvg-logo="https://images.pluto.tv/channels/6995daa579545c21a10e84de/colorLogoPNG_1774623953804.png" group-title="西班牙",Pluto TV Basadas en libros
+https://jmp2.uk/plu-6995daa579545c21a10e84de.m3u8
+#EXTINF:-1 tvg-id="645a309c5a0cd5000873f609" tvg-name="Pluto TV Catástrofes" tvg-logo="https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png" group-title="西班牙",Pluto TV Catástrofes
+https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
+#EXTINF:-1 tvg-id="5f1ac2591dd8880007bb7d6d" tvg-name="Pluto TV Cine Acción" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG_1733440545178.png" group-title="西班牙",Pluto TV Cine Acción
+https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
+#EXTINF:-1 tvg-id="61373bb45168fe000773eecd" tvg-name="Pluto TV Cine Clásico" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="西班牙",Pluto TV Cine Clásico
+https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
+#EXTINF:-1 tvg-id="5f1ac8099c49f600076579b2" tvg-name="Pluto TV Cine Comedia" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG_1769092378955.png" group-title="西班牙",Pluto TV Cine Comedia
+https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8
+#EXTINF:-1 tvg-id="ESAJ3800001KT" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800001KT_20241022T050403SQUARE.png" group-title="西班牙",Pluto TV Cine Estelar
+https://jmp2.uk/stvp-ESAJ3800001KT
+#EXTINF:-1 tvg-id="5f1ac9a2d3611d0007a844bb" tvg-name="Pluto TV Cine Romántico" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG_1747044085204.png" group-title="西班牙",Pluto TV Cine Romántico
+https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
+#EXTINF:-1 tvg-id="60cc807324d60a0007708dc8" tvg-name="Pluto TV Cine de autor" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="西班牙",Pluto TV Cine de autor
+https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
+#EXTINF:-1 tvg-id="5f1acdaa8ba90f0007d5e760" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="西班牙",Pluto TV Cocina
+https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
+#EXTINF:-1 tvg-id="5f1abce155a03d0007718834" tvg-name="Pluto TV Comedia made in Spain" tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" group-title="西班牙",Pluto TV Comedia made in Spain
+https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
+#EXTINF:-1 tvg-id="655b5d865812e80008843bd1" tvg-name="Pluto TV Comedias Románticas" tvg-logo="https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG_1747044085522.png" group-title="西班牙",Pluto TV Comedias Románticas
+https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
+#EXTINF:-1 tvg-id="691ddf2a3ae32cf55263476d" tvg-name="Pluto TV Forever Kids" tvg-logo="https://images.pluto.tv/channels/691ddf2a3ae32cf55263476d/colorLogoPNG_1763569071053.png" group-title="西班牙",Pluto TV Forever Kids
+https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8
+#EXTINF:-1 tvg-id="65bd0f53dc10a40008e68b96" tvg-name="Pluto TV Gasolina" tvg-logo="https://images.pluto.tv/channels/65bd0f53dc10a40008e68b96/colorLogoPNG_1747382175081.png" group-title="西班牙",Pluto TV Gasolina
+https://jmp2.uk/plu-65bd0f53dc10a40008e68b96.m3u8
+#EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-name="Pluto TV Gore & Slasher" tvg-logo="https://images.pluto.tv/channels/66b0dfa1d512590008bfa7fd/colorLogoPNG.png" group-title="西班牙",Pluto TV Gore & Slasher
+https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8
+#EXTINF:-1 tvg-id="61cd7b49543066000713b620" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="西班牙",Pluto TV Historia
+https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
+#EXTINF:-1 tvg-id="68adc697116b783a33f99e6c" tvg-name="Pluto TV Impacto" tvg-logo="https://images.pluto.tv/channels/68adc697116b783a33f99e6c/colorLogoPNG_1760448745473.png" group-title="西班牙",Pluto TV Impacto
+https://jmp2.uk/plu-68adc697116b783a33f99e6c.m3u8
+#EXTINF:-1 tvg-id="654a35ce346f420008d5c36e" tvg-name="Pluto TV Invasión Alien" tvg-logo="https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png" group-title="西班牙",Pluto TV Invasión Alien
+https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8
+#EXTINF:-1 tvg-id="6475bfec536e0c0008858e9f" tvg-name="Pluto TV K-Drama" tvg-logo="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png" group-title="西班牙",Pluto TV K-Drama
+https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
+#EXTINF:-1 tvg-id="ESAJ38000046O" tvg-name="Pluto TV Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png" group-title="西班牙",Pluto TV Kids
+https://jmp2.uk/stvp-ESAJ38000046O
+#EXTINF:-1 tvg-id="6080345ebb49b90007ce0baf" tvg-name="Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="西班牙",Pluto TV Motor
+https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
+#EXTINF:-1 tvg-id="65ce480a78df2200131c597b" tvg-name="Pluto TV Psycho" tvg-logo="https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png" group-title="西班牙",Pluto TV Psycho
+https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
+#EXTINF:-1 tvg-id="5f1ac8f49205650007bc15f1" tvg-name="Pluto TV Series" tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" group-title="西班牙",Pluto TV Series
+https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
+#EXTINF:-1 tvg-id="65ddec1ef7f0af0008be4b65" tvg-name="Pluto TV Series Sci-Fi" tvg-logo="https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png" group-title="西班牙",Pluto TV Series Sci-Fi
+https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
+#EXTINF:-1 tvg-id="65cf6ab58145cb0008129ca8" tvg-name="Pluto TV Series criminales" tvg-logo="https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/colorLogoPNG.png" group-title="西班牙",Pluto TV Series criminales
+https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8
+#EXTINF:-1 tvg-id="60b4c06717da110007ee1af6" tvg-name="Pluto TV Telenovelas" tvg-logo="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG_1733440547918.png" group-title="西班牙",Pluto TV Telenovelas
+https://jmp2.uk/plu-60b4c06717da110007ee1af6.m3u8
+#EXTINF:-1 tvg-id="662a69daa0a74e00087a1c72" tvg-name="Pluto TV Telenovelas Clásicas" tvg-logo="https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoPNG.png" group-title="西班牙",Pluto TV Telenovelas Clásicas
+https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
+#EXTINF:-1 tvg-id="6880aa28164eb4890282e803" tvg-name="Pluto TV Toons" tvg-logo="https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png" group-title="西班牙",Pluto TV Toons
+https://jmp2.uk/plu-6880aa28164eb4890282e803.m3u8
+#EXTINF:-1 tvg-id="6385e82900ab2e000768a058" tvg-name="Pluto TV Western" tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png" group-title="西班牙",Pluto TV Western
+https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
+#EXTINF:-1 tvg-id="65786888b228b7000843ad9a" tvg-name="Pluto TV Zombies" tvg-logo="https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png" group-title="西班牙",Pluto TV Zombies
+https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
+#EXTINF:-1 tvg-id="6304f530440dc90007f514d3" tvg-name="Poirot & Miss Marple" tvg-logo="https://images.pluto.tv/channels/6304f530440dc90007f514d3/colorLogoPNG.png" group-title="西班牙",Poirot & Miss Marple
+https://jmp2.uk/plu-6304f530440dc90007f514d3.m3u8
+#EXTINF:-1 tvg-id="65dded9a0d456100081417ae" tvg-name="Primeval" tvg-logo="https://images.pluto.tv/channels/65dded9a0d456100081417ae/colorLogoPNG.png" group-title="西班牙",Primeval
+https://jmp2.uk/plu-65dded9a0d456100081417ae.m3u8
+#EXTINF:-1 tvg-id="ES33000036Q" tvg-name="RTVE La Moderna" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20260310T031635SQUARE.png" group-title="西班牙",RTVE La Moderna
+https://jmp2.uk/stvp-ES33000036Q
+#EXTINF:-1 tvg-id="ES3300004P0" tvg-name="RTVE Saber y Ganar" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300004P0_20250819T033238SQUARE.png" group-title="西班牙",RTVE Saber y Ganar
+https://jmp2.uk/stvp-ES3300004P0
+#EXTINF:-1 tvg-id="ESBD2300003S5" tvg-name="Rabbids : La invasion" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20251013T053506SQUARE.png" group-title="西班牙",Rabbids : La invasion
+https://jmp2.uk/stvp-ESBD2300003S5
+#EXTINF:-1 tvg-id="ESBA33000324U" tvg-name="Rugrats" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20241022T050615SQUARE.png" group-title="西班牙",Rugrats
+https://jmp2.uk/stvp-ESBA33000324U
+#EXTINF:-1 tvg-id="ESBD80000288" tvg-name="Runtime Acción" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20251209T004318SQUARE.png" group-title="西班牙",Runtime Acción
+https://jmp2.uk/stvp-ESBD80000288
+#EXTINF:-1 tvg-id="ES2200003DA" tvg-name="Runtime Clásicos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200003DA_20250916T003539SQUARE.png" group-title="西班牙",Runtime Clásicos
+https://jmp2.uk/stvp-ES2200003DA
+#EXTINF:-1 tvg-id="ESBD8000033W" tvg-name="Runtime Comedia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20250722T005652SQUARE.png" group-title="西班牙",Runtime Comedia
+https://jmp2.uk/stvp-ESBD8000033W
+#EXTINF:-1 tvg-id="ES700004C8" tvg-name="Runtime Familia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20260127T040120SQUARE.png" group-title="西班牙",Runtime Familia
+https://jmp2.uk/stvp-ES700004C8
+#EXTINF:-1 tvg-id="676e7b4a4bd636000819c6a7" tvg-name="SensaCine TV x Pluto" tvg-logo="https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png" group-title="西班牙",SensaCine TV x Pluto
+https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
+#EXTINF:-1 tvg-id="63d7a8e5a9957100086bfc23" tvg-name="South Park Versión Original" tvg-logo="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png" group-title="西班牙",South Park Versión Original
+https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
+#EXTINF:-1 tvg-id="TBNEspana.es@SD" tvg-logo="https://i.imgur.com/oGvsUH9.png" group-title="西班牙",TBN España (576p)
+https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+#EXTINF:-1 tvg-id="ESBC4700003RJ" tvg-name="Teen Vee" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20241106T142207SQUARE.png" group-title="西班牙",Teen Vee
+https://jmp2.uk/stvp-ESBC4700003RJ
+#EXTINF:-1 tvg-id="685a995b460ac82fa504342c" tvg-name="The Good Wife" tvg-logo="https://images.pluto.tv/channels/685a995b460ac82fa504342c/colorLogoPNG_1750771214380.png" group-title="西班牙",The Good Wife
+https://jmp2.uk/plu-685a995b460ac82fa504342c.m3u8
+#EXTINF:-1 tvg-id="ESBC43000013T" tvg-name="Todo Novelas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20241106T142336SQUARE.png" group-title="西班牙",Todo Novelas
+https://jmp2.uk/stvp-ESBC43000013T
+#EXTINF:-1 tvg-id="ES900002ZD" tvg-name="Todo Pasión" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900002ZD_20250422T103210SQUARE.png" group-title="西班牙",Todo Pasión
+https://jmp2.uk/stvp-ES900002ZD
+#EXTINF:-1 tvg-id="ESBA3300042Y6" tvg-name="Trace Latina" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20241022T051129SQUARE.png" group-title="西班牙",Trace Latina
+https://jmp2.uk/stvp-ESBA3300042Y6
+#EXTINF:-1 tvg-id="5f28009b150b2500077766b8" tvg-name="Vaya semanita" tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="西班牙",Vaya semanita
+https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8
+#EXTINF:-1 tvg-id="ES300033TI" tvg-name="Viajes & Sabores" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300033TI_20250805T005128SQUARE.png" group-title="西班牙",Viajes & Sabores
+https://jmp2.uk/stvp-ES300033TI
+#EXTINF:-1 tvg-id="62568a94ed1f380007b0211f" tvg-name="Winx Club" tvg-logo="https://images.pluto.tv/channels/62568a94ed1f380007b0211f/colorLogoPNG.png" group-title="西班牙",Winx Club
+https://jmp2.uk/plu-62568a94ed1f380007b0211f.m3u8
+#EXTINF:-1 tvg-id="6812206e1b3e3be031a5c363" tvg-name="Águila Roja" tvg-logo="https://images.pluto.tv/channels/6812206e1b3e3be031a5c363/colorLogoPNG_1754647874286.png" group-title="西班牙",Águila Roja
+https://jmp2.uk/plu-6812206e1b3e3be031a5c363.m3u8
+#EXTINF:-1 tvg-id="63c69c87808b740007599fe1" tvg-name="Érase una vez..." tvg-logo="https://images.pluto.tv/channels/63c69c87808b740007599fe1/colorLogoPNG.png" group-title="西班牙",Érase una vez...
+https://jmp2.uk/plu-63c69c87808b740007599fe1.m3u8
+#EXTINF:-1 tvg-id="KempenTV.nl@SD" tvg-logo="https://i.imgur.com/ZiPL9ar.png" group-title="荷兰",KempenTV (480p)
+http://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVNoordExtra.nl@SD" tvg-logo="https://i.imgur.com/T0UvltB.png" group-title="荷兰",RTV Noord Extra (1080p) [Not 24/7]
+https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
+#EXTINF:-1 tvg-id="RTVNoordoostFriesland.nl@SD" tvg-logo="https://i.imgur.com/CpQIedo.png" group-title="荷兰",RTV Noordoost Friesland (720p) [Not 24/7]
+https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SRCTV.nl@SD" tvg-logo="https://i.imgur.com/VSSbjrM.png" group-title="荷兰",SRC TV (720p)
+http://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEllef.nl@SD" tvg-logo="https://i.imgur.com/FaCd2QY.png" group-title="荷兰",TV Ellef (1080p)
+http://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="6720bc6cdaad7f000872a6e2" tvg-name="2900 Happiness" tvg-logo="https://images.pluto.tv/channels/6720bc6cdaad7f000872a6e2/colorLogoPNG.png" group-title="北欧",2900 Happiness
+https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
+#EXTINF:-1 tvg-id="61c1db8ed6d97900076ea15c" tvg-name="Are You The One?" tvg-logo="https://images.pluto.tv/channels/61c1db8ed6d97900076ea15c/colorLogoPNG.png" group-title="北欧",Are You The One?
+https://jmp2.uk/plu-61c1db8ed6d97900076ea15c.m3u8
+#EXTINF:-1 tvg-id="675c0762f433320008707f68" tvg-name="BET25 Live+" tvg-logo="https://images.pluto.tv/channels/675c0762f433320008707f68/colorLogoPNG.png" group-title="北欧",BET25 Live+
+https://jmp2.uk/plu-675c0762f433320008707f68.m3u8
+#EXTINF:-1 tvg-id="6512d36ca765070008836eac" tvg-name="Beauty and the Beast" tvg-logo="https://images.pluto.tv/channels/6512d36ca765070008836eac/colorLogoPNG.png" group-title="北欧",Beauty and the Beast
+https://jmp2.uk/plu-6512d36ca765070008836eac.m3u8
+#EXTINF:-1 tvg-id="6486e8328e3c0a0008e5686c" tvg-name="Beavis and Butt-Head" tvg-logo="https://images.pluto.tv/channels/6486e8328e3c0a0008e5686c/colorLogoPNG.png" group-title="北欧",Beavis and Butt-Head
+https://jmp2.uk/plu-6486e8328e3c0a0008e5686c.m3u8
+#EXTINF:-1 tvg-id="65e97d41f7f0af0008da2543" tvg-name="Best of Paradise Hotel: Finalveckan" tvg-logo="https://images.pluto.tv/channels/65e97d41f7f0af0008da2543/colorLogoPNG.png" group-title="北欧",Best of Paradise Hotel: Finalveckan
+https://jmp2.uk/plu-65e97d41f7f0af0008da2543.m3u8
+#EXTINF:-1 tvg-id="65e97d760d456100082da660" tvg-name="Best of Paradise Hotel: Pandoras Ask" tvg-logo="https://images.pluto.tv/channels/65e97d760d456100082da660/colorLogoPNG.png" group-title="北欧",Best of Paradise Hotel: Pandoras Ask
+https://jmp2.uk/plu-65e97d760d456100082da660.m3u8
+#EXTINF:-1 tvg-id="61c1dc21b9587d0007e3fc15" tvg-name="Boligjakten" tvg-logo="https://images.pluto.tv/channels/61c1dc21b9587d0007e3fc15/colorLogoPNG.png" group-title="北欧",Boligjakten
+https://jmp2.uk/plu-61c1dc21b9587d0007e3fc15.m3u8
+#EXTINF:-1 tvg-id="660d6c0094db140008fe2f74" tvg-name="Breinholts" tvg-logo="https://images.pluto.tv/channels/660d6c0094db140008fe2f74/colorLogoPNG.png" group-title="北欧",Breinholts
+https://jmp2.uk/plu-660d6c0094db140008fe2f74.m3u8
+#EXTINF:-1 tvg-id="65cba778ec452d0008acbe86" tvg-name="Broad City" tvg-logo="https://images.pluto.tv/channels/65cba778ec452d0008acbe86/colorLogoPNG.png" group-title="北欧",Broad City
+https://jmp2.uk/plu-65cba778ec452d0008acbe86.m3u8
+#EXTINF:-1 tvg-id="63c6a7544faf1c0007b496d7" tvg-name="Buying Blind Denmark" tvg-logo="https://images.pluto.tv/channels/63c6a7544faf1c0007b496d7/colorLogoPNG.png" group-title="北欧",Buying Blind Denmark
+https://jmp2.uk/plu-63c6a7544faf1c0007b496d7.m3u8
+#EXTINF:-1 tvg-id="61c1dce2fb9ae40007d0ac15" tvg-name="Camp Kulinaris" tvg-logo="https://images.pluto.tv/channels/61c1dce2fb9ae40007d0ac15/colorLogoPNG.png" group-title="北欧",Camp Kulinaris
+https://jmp2.uk/plu-61c1dce2fb9ae40007d0ac15.m3u8
+#EXTINF:-1 tvg-id="65e977a618036500082ec972" tvg-name="Chappelle's Show" tvg-logo="https://images.pluto.tv/channels/65e977a618036500082ec972/colorLogoPNG.png" group-title="北欧",Chappelle's Show
+https://jmp2.uk/plu-65e977a618036500082ec972.m3u8
+#EXTINF:-1 tvg-id="61c1dda0fe470d00080f85b8" tvg-name="Charterfeber" tvg-logo="https://images.pluto.tv/channels/61c1dda0fe470d00080f85b8/colorLogoPNG.png" group-title="北欧",Charterfeber
+https://jmp2.uk/plu-61c1dda0fe470d00080f85b8.m3u8
+#EXTINF:-1 tvg-id="693ae58fc2d0f38be38df821" tvg-name="Crazy Ex-Girlfriend" tvg-logo="https://images.pluto.tv/channels/693ae58fc2d0f38be38df821/colorLogoPNG_1770039301216.png" group-title="北欧",Crazy Ex-Girlfriend
+https://jmp2.uk/plu-693ae58fc2d0f38be38df821.m3u8
+#EXTINF:-1 tvg-id="6426900ea3ade70008ffcb20" tvg-name="Crime Scene Solvers" tvg-logo="https://images.pluto.tv/channels/6426900ea3ade70008ffcb20/colorLogoPNG.png" group-title="北欧",Crime Scene Solvers
+https://jmp2.uk/plu-6426900ea3ade70008ffcb20.m3u8
+#EXTINF:-1 tvg-id="689a0ab0f4af1aaca24530ae" tvg-name="Den gode gerning" tvg-logo="https://images.pluto.tv/channels/689a0ab0f4af1aaca24530ae/colorLogoPNG-1757332399265.png" group-title="北欧",Den gode gerning
+https://jmp2.uk/plu-689a0ab0f4af1aaca24530ae.m3u8
+#EXTINF:-1 tvg-id="66b22714d512590008c3d573" tvg-name="Den gule sofa med Allan Sindberg" tvg-logo="https://images.pluto.tv/channels/66b22714d512590008c3d573/colorLogoPNG.png" group-title="北欧",Den gule sofa med Allan Sindberg
+https://jmp2.uk/plu-66b22714d512590008c3d573.m3u8
+#EXTINF:-1 tvg-id="660d6bc10cd4630008f4a25a" tvg-name="Det sene show med Christian Fuhlendorff" tvg-logo="https://images.pluto.tv/channels/660d6bc10cd4630008f4a25a/colorLogoPNG.png" group-title="北欧",Det sene show med Christian Fuhlendorff
+https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8
+#EXTINF:-1 tvg-id="68f0fb155d6fb43948165d32" tvg-name="Dynastin" tvg-logo="https://images.pluto.tv/channels/68f0fb155d6fb43948165d32/colorLogoPNG_1762758211490.png" group-title="北欧",Dynastin
+https://jmp2.uk/plu-68f0fb155d6fb43948165d32.m3u8
+#EXTINF:-1 tvg-id="Eveo.fi@SD" tvg-logo="https://i.imgur.com/fFIq7tY.png" group-title="北欧",Eveo (720p) [Not 24/7]
+https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true
+#EXTINF:-1 tvg-id="697b5a6c9567bf7b5f71a350" tvg-name="Everybody Hates Chris" tvg-logo="https://images.pluto.tv/channels/697b5a6c9567bf7b5f71a350/colorLogoPNG_1769692076899.png" group-title="北欧",Everybody Hates Chris
+https://jmp2.uk/plu-697b5a6c9567bf7b5f71a350.m3u8
+#EXTINF:-1 tvg-id="61c1d66518447e000717e4c2" tvg-name="Ex On The Beach" tvg-logo="https://images.pluto.tv/channels/61c1d66518447e000717e4c2/colorLogoPNG.png" group-title="北欧",Ex On The Beach
+https://jmp2.uk/plu-61c1d66518447e000717e4c2.m3u8
+#EXTINF:-1 tvg-id="6790d6c7bc03978b9bfbfd44" tvg-name="FBoy Island" tvg-logo="https://images.pluto.tv/channels/6790d6c7bc03978b9bfbfd44/colorLogoPNG.png" group-title="北欧",FBoy Island
+https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
+#EXTINF:-1 tvg-id="65cb8bd911ced7000820bff2" tvg-name="Fangene på Fortet" tvg-logo="https://images.pluto.tv/channels/65cb8bd911ced7000820bff2/colorLogoPNG.png" group-title="北欧",Fangene på Fortet
+https://jmp2.uk/plu-65cb8bd911ced7000820bff2.m3u8
+#EXTINF:-1 tvg-id="6272511cb389bb0007b30b09" tvg-name="For lækker til love" tvg-logo="https://images.pluto.tv/channels/6272511cb389bb0007b30b09/colorLogoPNG.png" group-title="北欧",For lækker til love
+https://jmp2.uk/plu-6272511cb389bb0007b30b09.m3u8
+#EXTINF:-1 tvg-id="671b4e47daad7f000868b840" tvg-name="Horse & Country" tvg-logo="https://images.pluto.tv/channels/671b4e47daad7f000868b840/colorLogoPNG.png" group-title="北欧",Horse & Country
+https://jmp2.uk/plu-671b4e47daad7f000868b840.m3u8
+#EXTINF:-1 tvg-id="693ae65fab5959c036fa6c1e" tvg-name="House of Lies" tvg-logo="https://images.pluto.tv/channels/693ae65fab5959c036fa6c1e/colorLogoPNG_1769415741148.png" group-title="北欧",House of Lies
+https://jmp2.uk/plu-693ae65fab5959c036fa6c1e.m3u8
+#EXTINF:-1 tvg-id="6501ad3a98020f0008503dba" tvg-name="Hundehviskeren" tvg-logo="https://images.pluto.tv/channels/6501ad3a98020f0008503dba/colorLogoPNG.png" group-title="北欧",Hundehviskeren
+https://jmp2.uk/plu-6501ad3a98020f0008503dba.m3u8
+#EXTINF:-1 tvg-id="6537abf42cf1310008441686" tvg-name="Högspänning" tvg-logo="https://images.pluto.tv/channels/6537abf42cf1310008441686/colorLogoPNG.png" group-title="北欧",Högspänning
+https://jmp2.uk/plu-6537abf42cf1310008441686.m3u8
+#EXTINF:-1 tvg-id="660d667519ca71000849a1e1" tvg-name="Koch'en på toppen" tvg-logo="https://images.pluto.tv/channels/660d667519ca71000849a1e1/colorLogoPNG.png" group-title="北欧",Koch'en på toppen
+https://jmp2.uk/plu-660d667519ca71000849a1e1.m3u8
+#EXTINF:-1 tvg-id="657c0954dfed030008d82ea1" tvg-name="Kvart i Bold" tvg-logo="https://images.pluto.tv/channels/657c0954dfed030008d82ea1/colorLogoPNG.png" group-title="北欧",Kvart i Bold
+https://jmp2.uk/plu-657c0954dfed030008d82ea1.m3u8
+#EXTINF:-1 tvg-id="61c1e060197fe600073c1ffb" tvg-name="Luksusfellen" tvg-logo="https://images.pluto.tv/channels/61c1e060197fe600073c1ffb/colorLogoPNG.png" group-title="北欧",Luksusfellen
+https://jmp2.uk/plu-61c1e060197fe600073c1ffb.m3u8
+#EXTINF:-1 tvg-id="61c19b7785706b00072d421a" tvg-name="Luksusfælden" tvg-logo="https://images.pluto.tv/channels/61c19b7785706b00072d421a/colorLogoPNG.png" group-title="北欧",Luksusfælden
+https://jmp2.uk/plu-61c19b7785706b00072d421a.m3u8
+#EXTINF:-1 tvg-id="61c18f62f5acaf0007f83135" tvg-name="Lyxfällan" tvg-logo="https://images.pluto.tv/channels/61c18f62f5acaf0007f83135/colorLogoPNG.png" group-title="北欧",Lyxfällan
+https://jmp2.uk/plu-61c18f62f5acaf0007f83135.m3u8
+#EXTINF:-1 tvg-id="61c19165decece0007e9b2f3" tvg-name="Lyxfällan Danmark" tvg-logo="https://images.pluto.tv/channels/61c19165decece0007e9b2f3/colorLogoPNG.png" group-title="北欧",Lyxfällan Danmark
+https://jmp2.uk/plu-61c19165decece0007e9b2f3.m3u8
+#EXTINF:-1 tvg-id="6501ae4998020f00085040ed" tvg-name="Mannen som talar med hundar" tvg-logo="https://images.pluto.tv/channels/6501ae4998020f00085040ed/colorLogoPNG.png" group-title="北欧",Mannen som talar med hundar
+https://jmp2.uk/plu-6501ae4998020f00085040ed.m3u8
+#EXTINF:-1 tvg-id="61c19edbf535220007075c4e" tvg-name="MasterChef Danmarks største madtalenter" tvg-logo="https://images.pluto.tv/channels/61c19edbf535220007075c4e/colorLogoPNG.png" group-title="北欧",MasterChef Danmarks største madtalenter
+https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8
+#EXTINF:-1 tvg-id="68f0f7dea362b63a8df50bd4" tvg-name="Dr. Quinn, Medicine Woman" tvg-logo="https://images.pluto.tv/channels/68f0f7dea362b63a8df50bd4/colorLogoPNG_1762757713795.png" group-title="北欧",Medicine Woman" tvg-logo="https://images.pluto.tv/channels/68f0f7dea362b63a8df50bd4/colorLogoPNG_1762757713795.png" group-title="Sweden",Dr. Quinn Medicine Woman
+https://jmp2.uk/plu-68f0f7dea362b63a8df50bd4.m3u8
+#EXTINF:-1 tvg-id="63047bd6b0726b000795341d" tvg-name="Merry Christmas from Viafree" tvg-logo="https://images.pluto.tv/channels/63047bd6b0726b000795341d/colorLogoPNG.png" group-title="北欧",Merry Christmas from Viafree
+https://jmp2.uk/plu-63047bd6b0726b000795341d.m3u8
+#EXTINF:-1 tvg-id="643814ef479f6400086ff043" tvg-name="Mit plastikmareridt" tvg-logo="https://images.pluto.tv/channels/643814ef479f6400086ff043/colorLogoPNG.png" group-title="北欧",Mit plastikmareridt
+https://jmp2.uk/plu-643814ef479f6400086ff043.m3u8
+#EXTINF:-1 tvg-id="6901d952ec12c3c759fdc7cd" tvg-name="NCIS: Det bedste med Gibbs" tvg-logo="https://images.pluto.tv/channels/6901d952ec12c3c759fdc7cd/colorLogoPNG_1763121346503.png" group-title="北欧",NCIS: Det bedste med Gibbs
+https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8
+#EXTINF:-1 tvg-id="68921b2f4fa995eff24df6c8" tvg-name="NCIS: Det bedste med Tony & Ziva" tvg-logo="https://images.pluto.tv/channels/68921b2f4fa995eff24df6c8/colorLogoPNG_1756105299557.png" group-title="北欧",NCIS: Det bedste med Tony & Ziva
+https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8
+#EXTINF:-1 tvg-id="6728d30cdaad7f000881d979" tvg-name="NonStop Kung Fu" tvg-logo="https://images.pluto.tv/channels/6728d30cdaad7f000881d979/colorLogoPNG_1732097480344.png" group-title="北欧",NonStop Kung Fu
+https://jmp2.uk/plu-6728d30cdaad7f000881d979.m3u8
+#EXTINF:-1 tvg-id="64eca23c9c1e390008524ae6" tvg-name="Nordisk krim fra Viaplay" tvg-logo="https://images.pluto.tv/channels/64eca23c9c1e390008524ae6/colorLogoPNG.png" group-title="北欧",Nordisk krim fra Viaplay
+https://jmp2.uk/plu-64eca23c9c1e390008524ae6.m3u8
+#EXTINF:-1 tvg-id="NarTV.fi@SD" tvg-logo="https://i.imgur.com/Ht5yePq.png" group-title="北欧",NärTV (360p)
+https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="OnniTV.fi@SD" tvg-logo="https://i.imgur.com/Vba4jUk.png" group-title="北欧",Onni TV (720p)
+https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
+#EXTINF:-1 tvg-id="6380c73f76e43f000721f73b" tvg-name="Paradise" tvg-logo="https://images.pluto.tv/channels/6380c73f76e43f000721f73b/colorLogoPNG.png" group-title="北欧",Paradise
+https://jmp2.uk/plu-6380c73f76e43f000721f73b.m3u8
+#EXTINF:-1 tvg-id="61c1db901346480007b7c345" tvg-name="Paradise Hotel" tvg-logo="https://images.pluto.tv/channels/61c1db901346480007b7c345/colorLogoPNG.png" group-title="北欧",Paradise Hotel
+https://jmp2.uk/plu-61c1db901346480007b7c345.m3u8
+#EXTINF:-1 tvg-id="61c1d6e1f5acaf0007f8381d" tvg-name="Pimp My Ride" tvg-logo="https://images.pluto.tv/channels/61c1d6e1f5acaf0007f8381d/colorLogoPNG.png" group-title="北欧",Pimp My Ride
+https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8
+#EXTINF:-1 tvg-id="65b91b53dc10a40008d54777" tvg-name="Pluto TV Brittisk Crime & Drama" tvg-logo="https://images.pluto.tv/channels/65b91b53dc10a40008d54777/colorLogoPNG.png" group-title="北欧",Pluto TV Brittisk Crime & Drama
+https://jmp2.uk/plu-65b91b53dc10a40008d54777.m3u8
+#EXTINF:-1 tvg-id="65b916ec3af63d00084c5841" tvg-name="Pluto TV Bud & Terence" tvg-logo="https://images.pluto.tv/channels/65b916ec3af63d00084c5841/colorLogoPNG.png" group-title="北欧",Pluto TV Bud & Terence
+https://jmp2.uk/plu-65b916ec3af63d00084c5841.m3u8
+#EXTINF:-1 tvg-id="660d5f2a635c75000828855f" tvg-name="Pluto TV Buskis" tvg-logo="https://images.pluto.tv/channels/660d5f2a635c75000828855f/colorLogoPNG.png" group-title="北欧",Pluto TV Buskis
+https://jmp2.uk/plu-660d5f2a635c75000828855f.m3u8
+#EXTINF:-1 tvg-id="62b30b0060a9ca0007d628b4" tvg-name="Pluto TV Dokumentar" tvg-logo="https://images.pluto.tv/channels/62b30b0060a9ca0007d628b4/colorLogoPNG.png" group-title="北欧",Pluto TV Dokumentar
+https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8
+#EXTINF:-1 tvg-id="62b1e2498261390007f25c98" tvg-name="Pluto TV Dokumentär" tvg-logo="https://images.pluto.tv/channels/62b1e2498261390007f25c98/colorLogoPNG.png" group-title="北欧",Pluto TV Dokumentär
+https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8
+#EXTINF:-1 tvg-id="619e1874e0d3a7000729a036" tvg-name="Pluto TV Fishing" tvg-logo="https://images.pluto.tv/channels/619e1874e0d3a7000729a036/colorLogoPNG.png" group-title="北欧",Pluto TV Fishing
+https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
+#EXTINF:-1 tvg-id="68dfa3e2cc3c6cd904052c41" tvg-name="Pluto TV Handboll Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa3e2cc3c6cd904052c41/colorLogoPNG_1761838923264.png" group-title="北欧",Pluto TV Handboll Highlights
+https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8
+#EXTINF:-1 tvg-id="686faf533ffa5e0c912688e7" tvg-name="Pluto TV Handboll Live" tvg-logo="https://images.pluto.tv/channels/686faf533ffa5e0c912688e7/colorLogoPNG_1762169254016.png" group-title="北欧",Pluto TV Handboll Live
+https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
+#EXTINF:-1 tvg-id="68c01b9a6bdcf3b9a64febcc" tvg-name="Pluto TV Harlequin" tvg-logo="https://images.pluto.tv/channels/68c01b9a6bdcf3b9a64febcc/colorLogoPNG_1770018395804.png" group-title="北欧",Pluto TV Harlequin
+https://jmp2.uk/plu-68c01b9a6bdcf3b9a64febcc.m3u8
+#EXTINF:-1 tvg-id="68dfa431cc3c6cd904053100" tvg-name="Pluto TV Håndbold Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png" group-title="北欧",Pluto TV Håndbold Highlights
+https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
+#EXTINF:-1 tvg-id="6618f54baec96800081525ec" tvg-name="Pluto TV Håndbold Live" tvg-logo="https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png" group-title="北欧",Pluto TV Håndbold Live
+https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8
+#EXTINF:-1 tvg-id="655ca99dfbc15b00081f209c" tvg-name="Pluto TV John Wayne" tvg-logo="https://images.pluto.tv/channels/655ca99dfbc15b00081f209c/colorLogoPNG.png" group-title="北欧",Pluto TV John Wayne
+https://jmp2.uk/plu-655ca99dfbc15b00081f209c.m3u8
+#EXTINF:-1 tvg-id="67f508f68ddd60c57dc44766" tvg-name="Pluto TV Klassiske tegnefilmer" tvg-logo="https://images.pluto.tv/channels/67f508f68ddd60c57dc44766/colorLogoPNG_1748955225113.png" group-title="北欧",Pluto TV Klassiske tegnefilmer
+https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8
+#EXTINF:-1 tvg-id="61c0b36d18447e000717d686" tvg-name="Pluto TV Komedi" tvg-logo="https://images.pluto.tv/channels/61c0b36d18447e000717d686/colorLogoPNG.png" group-title="北欧",Pluto TV Komedi
+https://jmp2.uk/plu-61c0b36d18447e000717d686.m3u8
+#EXTINF:-1 tvg-id="61c1e3a679a4390007c78136" tvg-name="Pluto TV Komedie" tvg-logo="https://images.pluto.tv/channels/61c1e3a679a4390007c78136/colorLogoPNG.png" group-title="北欧",Pluto TV Komedie
+https://jmp2.uk/plu-61c1e3a679a4390007c78136.m3u8
+#EXTINF:-1 tvg-id="63dbe7ed51f5d000083e9499" tvg-name="Pluto TV Kultfilm" tvg-logo="https://images.pluto.tv/channels/63dbe7ed51f5d000083e9499/colorLogoPNG.png" group-title="北欧",Pluto TV Kultfilm
+https://jmp2.uk/plu-63dbe7ed51f5d000083e9499.m3u8
+#EXTINF:-1 tvg-id="63dbe80f60bc8f0008aa7c78" tvg-name="Pluto TV Kultfilmer" tvg-logo="https://images.pluto.tv/channels/63dbe80f60bc8f0008aa7c78/colorLogoPNG.png" group-title="北欧",Pluto TV Kultfilmer
+https://jmp2.uk/plu-63dbe80f60bc8f0008aa7c78.m3u8
+#EXTINF:-1 tvg-id="61c1e74354d923000731bf7c" tvg-name="Pluto TV Overnaturlig" tvg-logo="https://images.pluto.tv/channels/61c1e74354d923000731bf7c/colorLogoPNG.png" group-title="北欧",Pluto TV Overnaturlig
+https://jmp2.uk/plu-61c1e74354d923000731bf7c.m3u8
+#EXTINF:-1 tvg-id="63a19da6847a090007f230da" tvg-name="Pluto TV Romantik" tvg-logo="https://images.pluto.tv/channels/63a19da6847a090007f230da/colorLogoPNG_1767773691782.png" group-title="北欧",Pluto TV Romantik
+https://jmp2.uk/plu-63a19da6847a090007f230da.m3u8
+#EXTINF:-1 tvg-id="63a19bb5e6914b000721b5c0" tvg-name="Pluto TV Romantikk" tvg-logo="https://images.pluto.tv/channels/63a19bb5e6914b000721b5c0/colorLogoPNG_1767773376618.png" group-title="北欧",Pluto TV Romantikk
+https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8
+#EXTINF:-1 tvg-id="67f5095a3481170e6843d95d" tvg-name="Pluto TV Tecknade klassiker" tvg-logo="https://images.pluto.tv/channels/67f5095a3481170e6843d95d/colorLogoPNG_1748955339418.png" group-title="北欧",Pluto TV Tecknade klassiker
+https://jmp2.uk/plu-67f5095a3481170e6843d95d.m3u8
+#EXTINF:-1 tvg-id="61c1e914bf8c520007a93ff1" tvg-name="Pluto TV Tegnefilm" tvg-logo="https://images.pluto.tv/channels/61c1e914bf8c520007a93ff1/colorLogoPNG_1749627563431.png" group-title="北欧",Pluto TV Tegnefilm
+https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8
+#EXTINF:-1 tvg-id="677d3a424bd63600082f7baf" tvg-name="Pluto TV Verdenskrigene" tvg-logo="https://images.pluto.tv/channels/677d3a424bd63600082f7baf/colorLogoPNG_1759400600947.png" group-title="北欧",Pluto TV Verdenskrigene
+https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8
+#EXTINF:-1 tvg-id="677d3ad04bd63600082f7c54" tvg-name="Pluto TV Världskrigen" tvg-logo="https://images.pluto.tv/channels/677d3ad04bd63600082f7c54/colorLogoPNG_1759445391825.png" group-title="北欧",Pluto TV Världskrigen
+https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
+#EXTINF:-1 tvg-id="68c01785b3900870ec7480e4" tvg-name="Pluto TV Wild West" tvg-logo="https://images.pluto.tv/channels/68c01785b3900870ec7480e4/colorLogoPNG_1761916453250.png" group-title="北欧",Pluto TV Wild West
+https://jmp2.uk/plu-68c01785b3900870ec7480e4.m3u8
+#EXTINF:-1 tvg-id="67f79fdb3481170e68c0bc38" tvg-name="PodRadio på Pluto TV" tvg-logo="https://images.pluto.tv/channels/67f79fdb3481170e68c0bc38/colorLogoPNG_1748943874109.png" group-title="北欧",PodRadio på Pluto TV
+https://jmp2.uk/plu-67f79fdb3481170e68c0bc38.m3u8
+#EXTINF:-1 tvg-id="65649791954b020008d09565" tvg-name="På Tur" tvg-logo="https://images.pluto.tv/channels/65649791954b020008d09565/colorLogoPNG.png" group-title="北欧",På Tur
+https://jmp2.uk/plu-65649791954b020008d09565.m3u8
+#EXTINF:-1 tvg-id="692ec3a76f84242a60f75f59" tvg-name="Reality Awards" tvg-logo="https://images.pluto.tv/channels/692ec3a76f84242a60f75f59/colorLogoPNG_1766133823688.png" group-title="北欧",Reality Awards
+https://jmp2.uk/plu-692ec3a76f84242a60f75f59.m3u8
+#EXTINF:-1 tvg-id="65e977874e01740008c9fb4c" tvg-name="Reno 911" tvg-logo="https://images.pluto.tv/channels/65e977874e01740008c9fb4c/colorLogoPNG.png" group-title="北欧",Reno 911
+https://jmp2.uk/plu-65e977874e01740008c9fb4c.m3u8
+#EXTINF:-1 tvg-id="68dfa1e7fae18f8db6218703" tvg-name="Ridiculousness - Nya avsnitt" tvg-logo="https://images.pluto.tv/channels/68dfa1e7fae18f8db6218703/colorLogoPNG_1762543429004.png" group-title="北欧",Ridiculousness - Nya avsnitt
+https://jmp2.uk/plu-68dfa1e7fae18f8db6218703.m3u8
+#EXTINF:-1 tvg-id="68dfa160cc3c6cd90404d798" tvg-name="Ridiculousness - Nye afsnit" tvg-logo="https://images.pluto.tv/channels/68dfa160cc3c6cd90404d798/colorLogoPNG_1762543256959.png" group-title="北欧",Ridiculousness - Nye afsnit
+https://jmp2.uk/plu-68dfa160cc3c6cd90404d798.m3u8
+#EXTINF:-1 tvg-id="68dfa1a7fae18f8db6218222" tvg-name="Ridiculousness - Nye episoder" tvg-logo="https://images.pluto.tv/channels/68dfa1a7fae18f8db6218222/colorLogoPNG_1762510989212.png" group-title="北欧",Ridiculousness - Nye episoder
+https://jmp2.uk/plu-68dfa1a7fae18f8db6218222.m3u8
+#EXTINF:-1 tvg-id="692ec3f475169f09b5c0a8b3" tvg-name="Robert Prisen" tvg-logo="https://images.pluto.tv/channels/692ec3f475169f09b5c0a8b3/colorLogoPNG_1766052484579.png" group-title="北欧",Robert Prisen
+https://jmp2.uk/plu-692ec3f475169f09b5c0a8b3.m3u8
+#EXTINF:-1 tvg-id="63a42df60cc44a0007dd47f8" tvg-name="Robinson Ekspeditionen" tvg-logo="https://images.pluto.tv/channels/63a42df60cc44a0007dd47f8/colorLogoPNG.png" group-title="北欧",Robinson Ekspeditionen
+https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8
+#EXTINF:-1 tvg-id="67334bed030a2c000805e414" tvg-name="Se og Hør – rød løber" tvg-logo="https://images.pluto.tv/channels/67334bed030a2c000805e414/colorLogoPNG.png" group-title="北欧",Se og Hør – rød løber
+https://jmp2.uk/plu-67334bed030a2c000805e414.m3u8
+#EXTINF:-1 tvg-id="688a20c69034bd35f34aaa9e" tvg-name="Simba Prisen" tvg-logo="https://images.pluto.tv/channels/688a20c69034bd35f34aaa9e/colorLogoPNG_1756968851681.png" group-title="北欧",Simba Prisen
+https://jmp2.uk/plu-688a20c69034bd35f34aaa9e.m3u8
+#EXTINF:-1 tvg-id="643810f2e8a4aa0008ccf575" tvg-name="Skjønnhetsfellen Danmark" tvg-logo="https://images.pluto.tv/channels/643810f2e8a4aa0008ccf575/colorLogoPNG.png" group-title="北欧",Skjønnhetsfellen Danmark
+https://jmp2.uk/plu-643810f2e8a4aa0008ccf575.m3u8
+#EXTINF:-1 tvg-id="64188b8483f58900083bc954" tvg-name="Skål" tvg-logo="https://images.pluto.tv/channels/64188b8483f58900083bc954/colorLogoPNG.png" group-title="北欧",Skål
+https://jmp2.uk/plu-64188b8483f58900083bc954.m3u8
+#EXTINF:-1 tvg-id="643808dce0789d00084797f6" tvg-name="Skönhetsfällan Danmark" tvg-logo="https://images.pluto.tv/channels/643808dce0789d00084797f6/colorLogoPNG.png" group-title="北欧",Skönhetsfällan Danmark
+https://jmp2.uk/plu-643808dce0789d00084797f6.m3u8
+#EXTINF:-1 tvg-id="61c19d329b8260000744331b" tvg-name="Skønne ombygninger" tvg-logo="https://images.pluto.tv/channels/61c19d329b8260000744331b/colorLogoPNG.png" group-title="北欧",Skønne ombygninger
+https://jmp2.uk/plu-61c19d329b8260000744331b.m3u8
+#EXTINF:-1 tvg-id="68adb11bf84960586ad4aae4" tvg-name="Smurfarna" tvg-logo="https://images.pluto.tv/channels/68adb11bf84960586ad4aae4/colorLogoPNG_1760363370184.png" group-title="北欧",Smurfarna
+https://jmp2.uk/plu-68adb11bf84960586ad4aae4.m3u8
+#EXTINF:-1 tvg-id="68adb0a9f84960586ad4a334" tvg-name="Smurfene" tvg-logo="https://images.pluto.tv/channels/68adb0a9f84960586ad4a334/colorLogoPNG_1760363292999.png" group-title="北欧",Smurfene
+https://jmp2.uk/plu-68adb0a9f84960586ad4a334.m3u8
+#EXTINF:-1 tvg-id="68adb066f7d7f0a9b9ff5d32" tvg-name="Smølferne" tvg-logo="https://images.pluto.tv/channels/68adb066f7d7f0a9b9ff5d32/colorLogoPNG_1760363216935.png" group-title="北欧",Smølferne
+https://jmp2.uk/plu-68adb066f7d7f0a9b9ff5d32.m3u8
+#EXTINF:-1 tvg-id="660bff5724e1d000085b7c07" tvg-name="South Park Armageddon" tvg-logo="https://images.pluto.tv/channels/660bff5724e1d000085b7c07/colorLogoPNG.png" group-title="北欧",South Park Armageddon
+https://jmp2.uk/plu-660bff5724e1d000085b7c07.m3u8
+#EXTINF:-1 tvg-id="6501c7ea9201e80008bb17b9" tvg-name="South Park Halloween" tvg-logo="https://images.pluto.tv/channels/6501c7ea9201e80008bb17b9/colorLogoPNG.png" group-title="北欧",South Park Halloween
+https://jmp2.uk/plu-6501c7ea9201e80008bb17b9.m3u8
+#EXTINF:-1 tvg-id="664f1370f78a8500092df452" tvg-name="South Park Rockin' Out" tvg-logo="https://images.pluto.tv/channels/664f1370f78a8500092df452/colorLogoPNG.png" group-title="北欧",South Park Rockin' Out
+https://jmp2.uk/plu-664f1370f78a8500092df452.m3u8
+#EXTINF:-1 tvg-id="66fcee104ca31f00080492e0" tvg-name="South Park: Holiday Collection" tvg-logo="https://images.pluto.tv/channels/66fcee104ca31f00080492e0/colorLogoPNG.png" group-title="北欧",South Park: Holiday Collection
+https://jmp2.uk/plu-66fcee104ca31f00080492e0.m3u8
+#EXTINF:-1 tvg-id="664f0ecc41af640008e37b43" tvg-name="South Park: Into the Stars" tvg-logo="https://images.pluto.tv/channels/664f0ecc41af640008e37b43/colorLogoPNG.png" group-title="北欧",South Park: Into the Stars
+https://jmp2.uk/plu-664f0ecc41af640008e37b43.m3u8
+#EXTINF:-1 tvg-id="61c18ec6ac860c0007684981" tvg-name="Stugfixarna Norge" tvg-logo="https://images.pluto.tv/channels/61c18ec6ac860c0007684981/colorLogoPNG.png" group-title="北欧",Stugfixarna Norge
+https://jmp2.uk/plu-61c18ec6ac860c0007684981.m3u8
+#EXTINF:-1 tvg-id="61c0ba0816e2fd00086cb6b1" tvg-name="SvampBob Fyrkant" tvg-logo="https://images.pluto.tv/channels/61c0ba0816e2fd00086cb6b1/colorLogoPNG.png" group-title="北欧",SvampBob Fyrkant
+https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
+#EXTINF:-1 tvg-id="61c1921610d254000727eebd" tvg-name="Svenska Hollywoodfruar" tvg-logo="https://images.pluto.tv/channels/61c1921610d254000727eebd/colorLogoPNG.png" group-title="北欧",Svenska Hollywoodfruar
+https://jmp2.uk/plu-61c1921610d254000727eebd.m3u8
+#EXTINF:-1 tvg-id="61f128f68a1dfc00086470af" tvg-name="Svenska Truckers" tvg-logo="https://images.pluto.tv/channels/61f128f68a1dfc00086470af/colorLogoPNG.png" group-title="北欧",Svenska Truckers
+https://jmp2.uk/plu-61f128f68a1dfc00086470af.m3u8
+#EXTINF:-1 tvg-id="645cc855e1979c000875ee47" tvg-name="Svenske Truckers" tvg-logo="https://images.pluto.tv/channels/645cc855e1979c000875ee47/colorLogoPNG.png" group-title="北欧",Svenske Truckers
+https://jmp2.uk/plu-645cc855e1979c000875ee47.m3u8
+#EXTINF:-1 tvg-id="TV2Bornholm.dk@SD" tvg-logo="https://i.imgur.com/cEOpXU6.png" group-title="北欧",TV 2/Bornholm (1080p) [Not 24/7]
+https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
+#EXTINF:-1 tvg-id="63c95451d3485c0007734f55" tvg-name="Tareq Taylor's Nordic Cookery" tvg-logo="https://images.pluto.tv/channels/63c95451d3485c0007734f55/colorLogoPNG.png" group-title="北欧",Tareq Taylor's Nordic Cookery
+https://jmp2.uk/plu-63c95451d3485c0007734f55.m3u8
+#EXTINF:-1 tvg-id="65c0973311ced7000808d255" tvg-name="The Daily Show" tvg-logo="https://images.pluto.tv/channels/65c0973311ced7000808d255/colorLogoPNG.png" group-title="北欧",The Daily Show
+https://jmp2.uk/plu-65c0973311ced7000808d255.m3u8
+#EXTINF:-1 tvg-id="6391df52d146a40007c265f3" tvg-name="The Nanny" tvg-logo="https://images.pluto.tv/channels/6391df52d146a40007c265f3/colorLogoPNG.png" group-title="北欧",The Nanny
+https://jmp2.uk/plu-6391df52d146a40007c265f3.m3u8
+#EXTINF:-1 tvg-id="61c1a05ef30f5d0007e562f3" tvg-name="Til Middag Hos" tvg-logo="https://images.pluto.tv/channels/61c1a05ef30f5d0007e562f3/colorLogoPNG.png" group-title="北欧",Til Middag Hos
+https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
+#EXTINF:-1 tvg-id="69256bd7db5cc2f81d8a1a08" tvg-name="Til julefrokost hos r8Dio" tvg-logo="https://images.pluto.tv/channels/69256bd7db5cc2f81d8a1a08/colorLogoPNG_1764256965972.png" group-title="北欧",Til julefrokost hos r8Dio
+https://jmp2.uk/plu-69256bd7db5cc2f81d8a1a08.m3u8
+#EXTINF:-1 tvg-id="660d64a7aec9680008f8ba77" tvg-name="Top Gear Classics" tvg-logo="https://images.pluto.tv/channels/660d64a7aec9680008f8ba77/colorLogoPNG.png" group-title="北欧",Top Gear Classics
+https://jmp2.uk/plu-660d64a7aec9680008f8ba77.m3u8
+#EXTINF:-1 tvg-id="645cb7857cb4b1000859c57c" tvg-name="True crime från Viaplay" tvg-logo="https://images.pluto.tv/channels/645cb7857cb4b1000859c57c/colorLogoPNG.png" group-title="北欧",True crime från Viaplay
+https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8
+#EXTINF:-1 tvg-id="61c1e1c445b45d0007aad03e" tvg-name="Unga Mammor" tvg-logo="https://images.pluto.tv/channels/61c1e1c445b45d0007aad03e/colorLogoPNG.png" group-title="北欧",Unga Mammor
+https://jmp2.uk/plu-61c1e1c445b45d0007aad03e.m3u8
+#EXTINF:-1 tvg-id="62beb44e3afd120007915d1b" tvg-name="Viafree Movies" tvg-logo="https://images.pluto.tv/channels/62beb44e3afd120007915d1b/colorLogoPNG.png" group-title="北欧",Viafree Movies
+https://jmp2.uk/plu-62beb44e3afd120007915d1b.m3u8
+#EXTINF:-1 tvg-id="62beb7d7fbf54600076abc7b" tvg-name="Wildfire" tvg-logo="https://images.pluto.tv/channels/62beb7d7fbf54600076abc7b/colorLogoPNG.png" group-title="北欧",Wildfire
+https://jmp2.uk/plu-62beb7d7fbf54600076abc7b.m3u8
+#EXTINF:-1 tvg-id="698ddf5a8c21a5f2d64c14a8" tvg-name="r8Dio TV" tvg-logo="https://images.pluto.tv/channels/698ddf5a8c21a5f2d64c14a8/colorLogoPNG_1774610552478.png" group-title="北欧",r8Dio TV
+https://jmp2.uk/plu-698ddf5a8c21a5f2d64c14a8.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us@Poland" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="波兰",Fail Army (720p)
+https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="PFLMMA.pl@SD" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1-width200-quality90.jpeg" group-title="波兰",PFL MMA (720p)
+https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatExploreClassic.pl@SD" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/1f51bd5f-5c9a-486d-8720-800de7f73129-width200-quality90.jpeg" group-title="波兰",Viasat Explore Classic (720p)
+https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="scifi.ru@SD" tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="俄罗斯",.sci-fi (576p)
+http://31.148.48.15/SONY_SCI_FI/index.m3u8
+#EXTINF:-1 tvg-id="365daysTV.ru@SD" tvg-logo="https://i.imgur.com/NfnAiTR.png" group-title="俄罗斯",365 Дней (576p)
+http://31.148.48.15/365_dney/index.m3u8
+#EXTINF:-1 tvg-id="Seven.ru@SD" tvg-logo="https://i.imgur.com/GpCwqUF.png" group-title="俄罗斯",7TV (576p)
+http://31.148.48.15/7TV/index.m3u8
+#EXTINF:-1 tvg-id="HDL.ru@SD" tvg-logo="https://i.imgur.com/tKgmhxh.png" group-title="俄罗斯",HDL (720p)
+http://31.148.48.15/HD_Life/index.m3u8
+#EXTINF:-1 tvg-id="jimjam" tvg-logo="https://iptvx.one/picons/jimjam.png" group-title="俄罗斯",JimJam
+http://158.160.149.81:8080/269/index.m3u8
+#EXTINF:-1 tvg-id="star-cinema" tvg-logo="https://iptvx.one/picons/star-cinema.png" group-title="俄罗斯",Star Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="俄罗斯",Viju TV1000
+http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
+#EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="俄罗斯",Viju+ comedy
+http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" group-title="俄罗斯",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Cooking",Телекафе (720p)
+https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
+#EXTINF:-1 tvg-id="Vremya.ru@SD" tvg-logo="https://i.imgur.com/jZlj3ga.png" group-title="俄罗斯",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Время (720p)
+https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
+#EXTINF:-1 tvg-id="Pobeda.ru@SD" tvg-logo="https://i.imgur.com/4KiYSln.png" group-title="俄罗斯",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Победа 720p (576p)
+https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
+#EXTINF:-1 tvg-id="TVCentrInternational.ru@SD" tvg-logo="https://i.imgur.com/tsCOnBW.png" group-title="俄罗斯",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",ТВ Центр International (720p)
+https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8
+#EXTINF:-1 tvg-id="AutoPlus.ru@SD" tvg-logo="https://i.imgur.com/sVc8cFt.png" group-title="俄罗斯",Авто Плюс (576p)
+http://31.148.48.15/Avto_Plus/index.m3u8
+#EXTINF:-1 tvg-id="BST.ru@SD" tvg-logo="https://i.imgur.com/IDotHmQ.png" group-title="俄罗斯",БСТ (Башкирское спутниковое телевидение) (576p)
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
+#EXTINF:-1 tvg-id="BelRos.ru@SD" tvg-logo="https://i.imgur.com/tUF33HD.png" group-title="俄罗斯",БелРос (576p)
+https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 tvg-id="Belgorod24.ru@SD" tvg-logo="https://i.imgur.com/EEirvyx.png" group-title="俄罗斯",Белгород 24 (1080p)
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+#EXTINF:-1 tvg-id="BigAsia.ru@SD" tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="俄罗斯",Большая Азия (720p)
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Vera24.ru@SD" tvg-logo="https://i.imgur.com/Qer5Lnh.png" group-title="俄罗斯",Вера 24
+https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
+#EXTINF:-1 tvg-id="VmesteRF.ru@SD" tvg-logo="https://i.imgur.com/KI1qZNc.png" group-title="俄罗斯",Вместе РФ
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Volga.ru@SD" tvg-logo="https://i.imgur.com/xHs1pr1.png" group-title="俄罗斯",Волга (HD)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 tvg-id="Vostok24.ru@SD" tvg-logo="https://i.imgur.com/YEXDsMn.png" group-title="俄罗斯",Восток 24 (Владивосток) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
+#EXTINF:-1 tvg-id="GuberniaSamara.ru@SD" tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="俄罗斯",Губерния (Самара) (576p)
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Dagestan.ru@SD" tvg-logo="https://i.imgur.com/jumkRvc.png" group-title="俄罗斯",Дагестан (1080p)
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurasia.ru@SD" tvg-logo="https://i.imgur.com/4JUHIVS.png" group-title="俄罗斯",Евразия (Орск) (720p)
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="俄罗斯",Еврокино
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1 tvg-id="Enisey.ru@SD" tvg-logo="https://i.imgur.com/57deE7f.png" group-title="俄罗斯",Енисей (1080p) [Not 24/7]
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="ZhivayaPlaneta.ru@SD" tvg-logo="https://i.imgur.com/onNv1tM.png" group-title="俄罗斯",Живая Планета (576p)
+http://31.148.48.15/Zhivaya_Planeta/index.m3u8
+#EXTINF:-1 tvg-id="Istoriya.ru@SD" tvg-logo="https://i.imgur.com/eEjPail.png" group-title="俄罗斯",История (576p)
+http://31.148.48.15/Istoriya/index.m3u8
+#EXTINF:-1 tvg-id="Channel16.ru@SD" tvg-logo="https://i.imgur.com/7tNDKHe.png" group-title="俄罗斯",К16 (Саров) (406p) [Not 24/7]
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF:-1 tvg-id="KVNTV.ru@SD" tvg-logo="https://i.imgur.com/Vw3LFLX.png" group-title="俄罗斯",КВН ТВ (576p)
+http://31.148.48.15/KVN_TV/index.m3u8
+#EXTINF:-1 tvg-id="Kavkaz24.ru@SD" tvg-logo="https://i.imgur.com/DyJw1Pi.png" group-title="俄罗斯",Кавказ 24 (Ставрополь) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+#EXTINF:-1 tvg-id="kino1int-tviksel" tvg-logo="https://iptvx.one/picons/kino1int-tviksel.png" group-title="俄罗斯",Кино 1 Int.
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="俄罗斯",Кино ТВ
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png" group-title="俄罗斯",Комедия
+http://176.118.197.101/Komediya/index.m3u8
+#EXTINF:-1 tvg-id="Ktoestkto.ru@SD" tvg-logo="https://i.imgur.com/PmD17UQ.png" group-title="俄罗斯",Кто есть Кто (576p)
+http://31.148.48.15/Kto_est_kto/index.m3u8
+#EXTINF:-1 tvg-id="KukhnyaTV.ru@SD" tvg-logo="https://i.imgur.com/7jxZnuS.png" group-title="俄罗斯",Кухня ТВ (576p)
+http://31.148.48.15/Kuhnya_TV/index.m3u8
+#EXTINF:-1 tvg-id="lipeck24" tvg-logo="https://iptvx.one/picons/lipeck24.png" group-title="俄罗斯",Липецк 24
+https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=PxMZcpt76COiPH4EwWL3hw&e=2070623508&scheme=https
+#EXTINF:-1 tvg-id="lipeckoe-vremia" tvg-logo="https://iptvx.one/picons/lipeckoe-vremia.png" group-title="俄罗斯",Липецкое время
+https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=IOkUTZHoPSqNn0IukRgYNw&e=2070623511&scheme=https
+#EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="俄罗斯",Любимое Кино
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 tvg-id="Mir.ru@Plus4" tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="俄罗斯",Мир (+4) (576p)
+http://31.148.48.15/Mir/index.m3u8
+#EXTINF:-1 tvg-id="MirSeriala.ru@SD" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="俄罗斯",Мир Сериала (576p)
+http://31.148.48.15/Mir_Seriala/index.m3u8
+#EXTINF:-1 tvg-id="mordovia-24" tvg-logo="https://iptvx.one/picons/mordovia-24.png" group-title="俄罗斯",Мордовия 24 HD (Саранск)
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="俄罗斯",Мосфильм. Золотая коллекция
+http://185.164.82.18:9010/ykMHqK_Fox
+#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="俄罗斯",Моя Планета
+http://vod.tuva.ru/myplanet/index.m3u8
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" tvg-logo="https://i.imgur.com/uIiAdBv.png" group-title="俄罗斯",Моя Планета (720p)
+http://31.148.48.15/Moya_Planeta_HD/index.m3u8
+#EXTINF:-1 tvg-id="muromtv" tvg-logo="https://iptvx.one/picons/muromtv.png" group-title="俄罗斯",Муром ТВ
+http://62.76.73.38/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Nauka.ru@SD" tvg-logo="https://i.imgur.com/ZZxzueO.png" group-title="俄罗斯",НАУКА (1080p)
+http://31.148.48.15/Nauka_2.0/index.m3u8
+#EXTINF:-1 tvg-id="NVKSakha.ru@SD" tvg-logo="https://i.imgur.com/LwXNUhf.png" group-title="俄罗斯",НВК Саха (1080p) [Not 24/7]
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 tvg-id="saxa" tvg-logo="https://iptvx.one/picons/saxa.png" group-title="俄罗斯",НВК Саха HD
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="俄罗斯",НСТ
+http://193.25.8.59:8000/nst
+#EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="俄罗斯",НТВ (+4) (576p)
+http://31.148.48.15/NTV/index.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@HD" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="俄罗斯",НТВ HD (1080p)
+https://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1 tvg-id="NovyVek.ru@SD" tvg-logo="https://i.imgur.com/8aYYi3r.png" group-title="俄罗斯",Новый Век
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8
+#EXTINF:-1 tvg-id="Nostalgia.ru@SD" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="俄罗斯",Ностальгия (576p)
+http://31.148.48.15/Nostalgiya/index.m3u8
+#EXTINF:-1 tvg-id="OTR.ru@SD" tvg-logo="https://i.imgur.com/VaWlnjZ.png" group-title="俄罗斯",ОТР (576p)
+http://31.148.48.15/OTR/index.m3u8
+#EXTINF:-1 tvg-id="pervouralsk-tv" tvg-logo="https://iptvx.one/picons/pervouralsk-tv.png" group-title="俄罗斯",Первоуральск ТВ
+https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=RqQza13Ro4UeKu7IwmQbHA&e=2070623502&scheme=https
+#EXTINF:-1 tvg-id="YaPervyy.ru@HD" tvg-logo="https://yarreg.ru/gallery/news/2025/03/293241/3.jpeg" group-title="俄罗斯",Первый Ярославский (1080p)
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="俄罗斯",Первый канал (1080p)
+http://31.148.48.15/Pervii_kanal_HD/index.m3u8
+#EXTINF:-1 tvg-id="pingvin-lolo" tvg-logo="https://iptvx.one/picons/pingvin-lolo.png" group-title="俄罗斯",Пингвин
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="俄罗斯",Победа
+https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
+#EXTINF:-1 tvg-id="prosveschenie" tvg-logo="https://iptvx.one/picons/prosveschenie.png" group-title="俄罗斯",Просвещение
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru@SD" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="俄罗斯",РБК (576p)
+https://uiptv.do.am/1ufc/701293058/playlist.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru@SD" tvg-logo="https://i.imgur.com/0Tu5lte.png" group-title="俄罗斯",РЕН ТВ (540p) [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="俄罗斯",Ретро
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@Plus6" tvg-logo="https://i.imgur.com/Osd2JHL.png" group-title="俄罗斯",Россия 1 (+6) (576p)
+http://31.148.48.15/Rossiya_1/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-logo="https://i.imgur.com/Osd2JHL.png" group-title="俄罗斯",Россия 1 (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD" tvg-logo="https://i.imgur.com/Osd2JHL.png" group-title="俄罗斯",Россия 1 HD (Архангельск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" group-title="俄罗斯",Россия К (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="俄罗斯",Русский роман
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="俄罗斯",СТС (+4) (576p)
+http://31.148.48.15/STS/index.m3u8
+#EXTINF:-1 tvg-id="SanktPeterburg.ru@SD" tvg-logo="https://i.imgur.com/9At4oG7.png" group-title="俄罗斯",Санкт-Петербург (576p)
+http://31.148.48.15/Sankt_Peterburg/index.m3u8
+#EXTINF:-1 tvg-id="Saphire.ru@SD" tvg-logo="https://i.imgur.com/NMOBvle.png" group-title="俄罗斯",Сапфир (720p)
+http://31.148.48.15/Sapfir_HD/index.m3u8
+#EXTINF:-1 tvg-id="Sarafan.ru@SD" tvg-logo="https://i.imgur.com/u4q1rMT.png" group-title="俄罗斯",Сарафан (576p)
+http://31.148.48.15/Sarafan/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenTV.ru@HD" tvg-logo="https://i.imgur.com/X9kACKi.png" group-title="俄罗斯",Сити Эдем ТВ Христианский [Not 24/7]
+https://cityeden.catcast.tv/content/34246/index.m3u8
+#EXTINF:-1 tvg-id="SolovyovLive.ru@SD" tvg-logo="https://i.imgur.com/v0OYe1d.png" group-title="俄罗斯",Соловьёв LIVE (576p)
+http://31.148.48.15/EuroNews/index.m3u8
+#EXTINF:-1 tvg-id="Subbota.ru@SD" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="俄罗斯",Суббота! (576p)
+http://31.148.48.15/Super/index.m3u8
+#EXTINF:-1 tvg-id="Tavriya.ru@SD" tvg-logo="https://i.imgur.com/gqung6i.png" group-title="俄罗斯",Таврия
+https://streaming.televizor-24-tochka.ru/live/24.m3u8
+#EXTINF:-1 tvg-id="tverskoy-prospekt" tvg-logo="https://iptvx.one/picons/tverskoy-prospekt.png" group-title="俄罗斯",Тверской проспект
+http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
+#EXTINF:-1 tvg-id="Teatr.ru@SD" tvg-logo="https://i.imgur.com/nc2ijCH.png" group-title="俄罗斯",Театр (576p)
+http://31.148.48.15/Sochi_HD/index.m3u8
+#EXTINF:-1 tvg-id="Teleputeshestviya.ru@SD" tvg-logo="https://i.imgur.com/eXJm1n3.png" group-title="俄罗斯",Телепутешествия (576p)
+http://31.148.48.15/Teleputeshestviya/index.m3u8
+#EXTINF:-1 tvg-id="555.ru@SD" tvg-logo="https://i.imgur.com/JQZkxeA.png" group-title="俄罗斯",Телерадиокомпания 555 (Алушта) (720p)
+http://trk555.tv:8888/live
+#EXTINF:-1 tvg-id="Tonus.ru@SD" tvg-logo="https://i.imgur.com/pGm8QCj.png" group-title="俄罗斯",Тонус (576p)
+http://31.148.48.15/Zdorovie/index.m3u8
+#EXTINF:-1 tvg-id="TochkaTV.ru@SD" tvg-logo="https://i.imgur.com/yyNR5jG.png" group-title="俄罗斯",Точка ТВ (576p)
+http://31.148.48.15/Tochka_TV/index.m3u8
+#EXTINF:-1 tvg-id="Unikum.ru@SD" tvg-logo="https://i.imgur.com/kSJZjDL.png" group-title="俄罗斯",Уникум (576p)
+http://31.148.48.15/Detskiy/index.m3u8
+#EXTINF:-1 tvg-id="Ural24.ru@SD" tvg-logo="https://i.imgur.com/eoI4KuB.png" group-title="俄罗斯",Урал 24 (Челябинск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+#EXTINF:-1 tvg-id="UgraTV.ru@SD" tvg-logo="https://i.imgur.com/561FRwI.png" group-title="俄罗斯",Югра (1080p)
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr@SD" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="土耳其",Kanal D (1080p)
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-id="QafTV.tr@SD" tvg-logo="https://i.imgur.com/hrk7Uce.png" group-title="土耳其",Qaf TV (1080p)
+https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8
+#EXTINF:-1 tvg-id="BricveSatrancTV.tr@SD" tvg-logo="https://i.imgur.com/TXDV1ty.png" group-title="土耳其",Satranç TV (480p) [Not 24/7]
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1 tvg-id="SemerkandTV.tr@SD" tvg-logo="https://i.imgur.com/UVGGrQd.png" group-title="土耳其",Semerkand TV (1080p) [Not 24/7]
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TMB.tr@SD" tvg-logo="https://i.imgur.com/28AyWHe.png" group-title="土耳其",TMB TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+#EXTINF:-1 tvg-id="OncuTV.tr@SD" tvg-logo="https://i.imgur.com/TGPNYrD.jpg" group-title="土耳其",Öncü TV (1024p) [Not 24/7]
+https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="UUTV2.tr@SD" tvg-logo="https://i.imgur.com/FjFjdY5.png" group-title="土耳其",ÜÜ TV Üsküdar Üniversitesi TV (1080p) [Not 24/7]
+https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosTV.pt@SD" tvg-logo="https://i.imgur.com/xdAW0D5.png" group-title="葡萄牙",Kuriakos TV (1080p)
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP1.pt@SD" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="葡萄牙",RTP 1 (720p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/960px-RTP_A%C3%A7ores_%282016%29.svg.png" group-title="葡萄牙",RTP Açores (720p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt@SD" tvg-logo="https://i.imgur.com/nJNWTqA.png" group-title="葡萄牙",RTP Madeira (504p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SIC.pt@SD" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="葡萄牙",SIC (1080p)
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-id="SICAltaDefinicao.pt@SD" tvg-logo="https://i.imgur.com/VdPwyQv.png" group-title="葡萄牙",SIC Alta Definição (1080p)
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+#EXTINF:-1 tvg-id="TVMana1.pt@SD" tvg-logo="https://i.imgur.com/6jNqpTP.png" group-title="葡萄牙",TV Maná 1 (1080p)
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="4E.gr@SD" tvg-logo="https://i.imgur.com/Na0UCV7.png" group-title="希腊",4E (1080p)
+http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SamiakiTV.gr@SD" tvg-logo="https://i.imgur.com/9Pf1we6.png" group-title="希腊",Samiaki TV (540p) [Not 24/7]
+http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+#EXTINF:-1 tvg-id="ArgesTV.ro@SD" tvg-logo="https://i.imgur.com/qufz6nk.png" group-title="罗马尼亚",Arges TV (720p)
+https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
+#EXTINF:-1 tvg-id="TVSE.ro@SD" tvg-logo="https://i.imgur.com/r4zKU1e.png" group-title="罗马尼亚",Exploris (576p) [Not 24/7]
+http://89.38.8.130:39419
+#EXTINF:-1 tvg-id="HelloTaste.ro@SD" tvg-logo="https://i.imgur.com/TdKO0er.png" group-title="罗马尼亚",Hello Taste (720p)
+https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
+#EXTINF:-1 tvg-id="Hunedoara1.ro@SD" tvg-logo="https://i.imgur.com/9bz15ad.png" group-title="罗马尼亚",Hunedoara 1 (480p) [Not 24/7]
+https://netstreaming.eu/hd1.m3u8
+#EXTINF:-1 tvg-id="LightChannel.ro@SD" tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="罗马尼亚",Light Channel (480p) [Not 24/7]
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-id="MISATV.ro@SD" tvg-logo="https://i.imgur.com/2RxQNm6.png" group-title="罗马尼亚",MISA TV
+https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
+#EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-logo="https://i.imgur.com/k0VO0LH.png" group-title="罗马尼亚",Mireasa (720p)
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+#EXTINF:-1 tvg-id="MoldovaTV.md@SD" tvg-logo="https://i.imgur.com/gPMlDCP.png" group-title="罗马尼亚",Moldova TV (1080p)
+https://moldovatv.ro/live-tv/live.m3u8
+#EXTINF:-1 tvg-id="NovaTVBrasov.ro@SD" tvg-logo="https://i.imgur.com/33Vn0Ij.png" group-title="罗马尼亚",Nova TV Brasov (576p) [Not 24/7]
+http://novapress.ro:2022/live/nova/playlist.m3u8
+#EXTINF:-1 tvg-id="RapsodiaTV.ro@SD" tvg-logo="https://i.imgur.com/mwMG7BB.png" group-title="罗马尼亚",Rapsodia TV (576p)
+http://92.86.248.141:8080/ram/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBuzau.ro@SD" tvg-logo="https://i.imgur.com/GhFmUVO.png" group-title="罗马尼亚",TV Buzau (576p)
+http://78.96.33.89:8080
+#EXTINF:-1 tvg-id="TVR1.ro@SD" tvg-logo="https://i.imgur.com/CcUX1gB.png" group-title="罗马尼亚",TVR 1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="TVR2.ro@SD" tvg-logo="https://i.imgur.com/mKouHIZ.png" group-title="罗马尼亚",TVR 2
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="TVRCluj.ro@SD" tvg-logo="https://i.imgur.com/RkDra93.png" group-title="罗马尼亚",TVR Cluj
+https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="TVRCraiova.ro@SD" tvg-logo="https://i.imgur.com/vxWbQiy.png" group-title="罗马尼亚",TVR Craiova
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="Avers.ua@SD" tvg-logo="https://i.imgur.com/rHHz94D.png" group-title="乌克兰",Avers (480p)
+https://avers.pp.ua/hls/efir.m3u8
+#EXTINF:-1 tvg-id="EWTNUkraine.ua@SD" group-title="乌克兰",EWTN Ukraine (1080p)
+https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IzmailTV.ua@SD" tvg-logo="https://i.imgur.com/CxsUpGz.png" group-title="乌克兰",Izmail TV (384p)
+https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
+#EXTINF:-1 tvg-id="RenomeTV.ua@SD" tvg-logo="https://i.imgur.com/qL1uNlW.png" group-title="乌克兰",Renome (576p)
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+#EXTINF:-1 tvg-id="TISTV.ua@SD" tvg-logo="https://i.imgur.com/jDaoUt5.png" group-title="乌克兰",TIS TV (720p)
+https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
+#EXTINF:-1 tvg-id="TVA.ua@SD" tvg-logo="https://i.imgur.com/PtTQ5lv.png" group-title="乌克兰",TVA (576p)
+http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
+#EXTINF:-1 tvg-id="NTKTV.ua@SD" tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" group-title="乌克兰",НТК ТВ (1080p) [Not 24/7]
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 tvg-id="SferaTV.ua@SD" tvg-logo="https://i.imgur.com/S1h1t0G.png" group-title="乌克兰",Сфера-ТВ (720p)
+https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8

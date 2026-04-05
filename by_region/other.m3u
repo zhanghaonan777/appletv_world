@@ -1,0 +1,1169 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-id="111TV.it@SD" tvg-logo="https://i.imgur.com/kVREx1Q.png" group-title="其他",111 TV (720p)
+https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
+#EXTINF:-1 tvg-name="111 Tv" tvg-logo="https://i.imgur.com/4jY8yAI.png" group-title="其他",111 Tv
+https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
+#EXTINF:-1 tvg-id="1993年春晚" tvg-name="1993年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="其他",1993年春晚
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+#EXTINF:-1 tvg-id="2002年春晚" tvg-name="2002年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="其他",2002年春晚
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+#EXTINF:-1 tvg-id="324.es" tvg-name="3/24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/3-24-es.png" group-title="其他",3/24
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-id="3030相声小品" tvg-name="3030相声小品" tvg-logo="https://tb.zbds.top/logo/3030相声小品.png" group-title="其他",3030相声小品
+https://goodiptv.club/douyu/9286868
+#EXTINF:-1 tvg-id="3sat.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png" group-title="其他",3sat HD (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
+#EXTINF:-1 group-title="其他",5 Minute Crafts Spanish (AR) Alt
+https://amg02051-soulpublishing-amg02051c18-lg-ar-551.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgar/playlist.m3u8
+#EXTINF:-1 group-title="其他",5 Minute Crafts Spanish (MX)
+https://amg02051-soulpublishing-amg02051c3-lg-mx-586.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgmx/playlist.m3u8
+#EXTINF:-1 tvg-id="6ter.fr@SD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="其他",6ter (1080p) [Geo-blocked] [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
+#EXTINF:-1 tvg-id="7RadioVisione.it@HD" tvg-logo="https://radio7note.com/img/favicon/android-icon-192x192.png" group-title="其他",7 RadioVisione (720p)
+https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel9.il" tvg-name="9 канал Ⓨ" tvg-logo="https://i.imgur.com/pttM3KQ.png" group-title="其他",9 канал Ⓨ
+https://www.youtube.com/@israel9tv/live
+#EXTINF:-1 tvg-id="AB1.fr@SD" tvg-logo="https://i.imgur.com/9C7UsOe.png" group-title="其他",AB1 (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
+#EXTINF:-1 tvg-id="AT3400006VA" tvg-name="Abschnitt 40 / GSG9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3400006VA_20251209T003959SQUARE.png" group-title="其他",Abschnitt 40 / GSG9
+https://jmp2.uk/stvp-AT3400006VA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01" tvg-name="AccuWeather NOW" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/ff4384fb627d8efc1adbd65cf13b64da.png" group-title="其他",AccuWeather NOW
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="AlArabiyaBusiness.ae" tvg-name="Al Arabiya Business" tvg-logo="https://i.imgur.com/eEV4r6J.jpg" group-title="其他",Al Arabiya Business
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Alpauno" tvg-logo="https://i.imgur.com/4QKFtUa.png" group-title="其他",Alpauno
+https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-690549d77a3fc35d95153b9e" tvg-name="America’s Funniest Home Videos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7f49eb97-4926-4302-8710-0b4e64f7560b/Americas_Funniest_Home_Video_AFHV_LogoA_Color_1500x1000.png" group-title="其他",America’s Funniest Home Videos
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-690549d77a3fc35d95153b9e/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" group-title="其他",América Ⓨ
+https://www.youtube.com/c/americaenvivo/live
+#EXTINF:-1 tvg-id="AngersTele.fr@SD" tvg-logo="https://i.imgur.com/CMKKbaP.png" group-title="其他",Angers Tele (180p)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/angerstele.m3u8
+#EXTINF:-1 tvg-id="AntennaTreNordest.it" tvg-name="Antenna 3 Veneto Nord Est" tvg-logo="https://i.imgur.com/NiVHLwp.png" group-title="其他",Antenna 3 Veneto Nord Est
+https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AraBel.fr@SD" tvg-logo="https://www.arabel.fm/wp-content/uploads/2021/10/Logo-AraBel.png" group-title="其他",AraBel (180p)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/arabel.m3u8
+#EXTINF:-1 tvg-id="AragonTV.es@SD" tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="其他",Aragon TV (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
+#EXTINF:-1 tvg-id="AristoTV.de@SD" tvg-logo="https://i.imgur.com/DLVjeno.png" group-title="其他",Aristo TV (360p)
+https://ma.anixa.tv/clips/stream/aristo/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767" tvg-name="AsianCrush" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e1e8bf91cc2064e36aaf0a596d6a641d.png" group-title="其他",AsianCrush
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-632270e3e67cf9cd9011fce1" tvg-name="At Home with Family Handyman" tvg-logo="https://provider-static.plex.tv/epg/cms/production/32fbd65b-0339-4652-989a-de219133f7ec/at-home-w-fhm_logo_dark_1500x1000.png" group-title="其他",At Home with Family Handyman
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-632270e3e67cf9cd9011fce1/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="AzzurraTV.it" tvg-name="Azzurra Tv Vco" tvg-logo="https://i.imgur.com/mSWw8uW.png" group-title="其他",Azzurra Tv Vco
+https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8
+#EXTINF:-1 tvg-id="BomChannel.it" tvg-name="BOM Channel" tvg-logo="https://i.imgur.com/hISoOK3.png" group-title="其他",BOM Channel
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+#EXTINF:-1 tvg-id="BRFernsehen.de@Sud" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_Bayerischer_Rundfunk_2024.svg/960px-Logo_Bayerischer_Rundfunk_2024.svg.png" group-title="其他",BR Fernsehen Sud (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
+#EXTINF:-1 tvg-id="BeJoyKids.it" tvg-name="BeJoy.Kids" tvg-logo="https://i.imgur.com/zuR9Go5.png" group-title="其他",BeJoy.Kids
+https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
+#EXTINF:-1 tvg-id="BeJoykids.it@HD" tvg-logo="https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png" group-title="其他",BeJoy.kids (1080p)
+https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
+#EXTINF:-1 tvg-id="AT2800001N5" tvg-name="Big Brother Classics" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2800001N5_20250923T010033SQUARE.png" group-title="其他",Big Brother Classics
+https://jmp2.uk/stvp-AT2800001N5
+#EXTINF:-1 tvg-name="Black Cinema" tvg-logo="https://i.imgur.com/Zh1QGW9.png" group-title="其他",Black Cinema
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="BomChannel.it@SD" tvg-logo="https://bomchannel.it/wp-content/uploads/2025/02/Tavola-disegno-1-768x432.png" group-title="其他",Bom Channel (720p)
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+#EXTINF:-1 tvg-id="BonDiaTV.es" tvg-name="Bon Dia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_Bon_Dia_TV.png" group-title="其他",Bon Dia
+https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63d6f6c5a9e88ee909e7ee1f" tvg-name="Brat TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9d75cf3b-be95-4785-ab5a-3cfdd4994ab7/BratTV_PlexTV_Logo_DarkBG.png" group-title="其他",Brat TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63d6f6c5a9e88ee909e7ee1f/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="CStar.fr@SD" tvg-logo="https://i.imgur.com/w4kAX1V.png" group-title="其他",C Star (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/d17/browser-dash/d17.mpd
+#EXTINF:-1 tvg-id="CMMTV.es@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/960px-CMMedia.svg.png" group-title="其他",CMM TV HD (1080p)
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
+#EXTINF:-1 tvg-id="CalabriaTV.it@SD" tvg-logo="https://i.imgur.com/noTgJJp.png" group-title="其他",Calabria TV
+https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal2000.es@SD" tvg-logo="https://i.imgur.com/9RoBASf.png" group-title="其他",Canal 2000 La Solana (720p) [Not 24/7]
+http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26 Ⓨ" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="其他",Canal 26 Ⓨ
+https://www.youtube.com/c/canal26/live
+#EXTINF:-1 tvg-id="Canal8.cr" tvg-name="Canal 8" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/5efe501c21d05a0722152f6d.png" group-title="其他",Canal 8
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="其他",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-name="Canale 2" tvg-logo="https://i.imgur.com/ETqDkS1.png" group-title="其他",Canale 2
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
+#EXTINF:-1 tvg-id="ChamberTV.lu" tvg-name="Chamber TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_of_the_Chamber_of_Deputies_of_Luxembourg.svg/2560px-Logo_of_the_Chamber_of_Deputies_of_Luxembourg.svg.png" group-title="其他",Chamber TV
+https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CHVNoticias.cl" tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" group-title="其他",Chilevisión Noticias
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
+#EXTINF:-1 group-title="其他",Chili Velvet (IT)
+https://chili-chilivelvet-1-it.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3" tvg-name="Choppertown" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/choppertown.png" group-title="其他",Choppertown
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="ClassTVModa.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Class-tv-moda.png/960px-Class-tv-moda.png" group-title="其他",Class TV Moda
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/classtvmoda.m3u8
+#EXTINF:-1 tvg-name="Classic Movies" tvg-logo="https://i.imgur.com/feWPHep.png" group-title="其他",Classic Movies
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="ClubbingTV.us@France" tvg-logo="https://i.imgur.com/MyiA92q.png" group-title="其他",Clubbing TV France
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+#EXTINF:-1 tvg-name="Company Tv" tvg-logo="https://i.imgur.com/IbabUDd.png" group-title="其他",Company Tv
+https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CongresodelosDiputados1.es@SD" tvg-logo="https://i.imgur.com/3Qxpe72.png" group-title="其他",Congreso de los Diputados 1 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
+#EXTINF:-1 tvg-id="CoolTV.mk" tvg-name="Cool TV" tvg-logo="https://i.imgur.com/2tFrjUz.png" group-title="其他",Cool TV
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+#EXTINF:-1 tvg-id="CretaTV.gr" tvg-name="Creta" tvg-logo="https://i.imgur.com/x0qK8IE.png" group-title="其他",Creta
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" group-title="其他",Crónica TV Ⓨ
+https://www.youtube.com/c/cronicatv/live
+#EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati Ⓨ" tvg-logo="https://i.imgur.com/4tfUIEo.png" group-title="其他",DD Bharati Ⓨ
+https://www.youtube.com/@ddbharati/live
+#EXTINF:-1 tvg-id="DDIndia.in" tvg-name="DD India Ⓨ" tvg-logo="https://i.imgur.com/45uptR8.png" group-title="其他",DD India Ⓨ
+https://www.youtube.com/DDIndia/live
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan Ⓨ" tvg-logo="https://i.imgur.com/x56WJEa.png" group-title="其他",DD Kisan Ⓨ
+https://www.youtube.com/@DDKisan/live
+#EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National Ⓨ" tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="其他",DD National Ⓨ
+https://www.youtube.com/doordarshan/live
+#EXTINF:-1 tvg-id="DDUrdu.in" tvg-name="DD Urdu Ⓨ" tvg-logo="https://i.imgur.com/OiQPS34.png" group-title="其他",DD Urdu Ⓨ
+https://www.youtube.com/@DDUrdu/live
+#EXTINF:-1 tvg-id="DeLuxeMusicRap.de" tvg-name="DELUXE MUSIC RAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Deluxe_Rap_Logo_2023.svg/666px-Deluxe_Rap_Logo_2023.svg.png" group-title="其他",DELUXE MUSIC RAP
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-id="DITV80.it@SD" tvg-logo="https://i.imgur.com/2AqKAMy.png" group-title="其他",DI.TV 80 (720p)
+https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
+#EXTINF:-1 group-title="其他",Defa TV (CH)
+https://wdrmediagroup-defatv-1-ch.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Deluxe 139" tvg-logo="https://i.imgur.com/kRexw3w.png" group-title="其他",Deluxe 139
+https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
+#EXTINF:-1 tvg-id="AT3400007C0" tvg-name="Deluxe Summertime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3400007C0_20260331T032253SQUARE.png" group-title="其他",Deluxe Summertime
+https://jmp2.uk/stvp-AT3400007C0
+#EXTINF:-1 tvg-name="Di.Tv 80" tvg-logo="https://i.imgur.com/kHxTsJw.png" group-title="其他",Di.Tv 80
+https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
+#EXTINF:-1 tvg-id="DijlahTV.iq" tvg-name="Dijlah TV" tvg-logo="https://i.imgur.com/FJEeYiz.png" group-title="其他",Dijlah TV
+https://ghaasiflu.online/Dijlah/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="其他",Dog Whisperer with Cesar Milan
+https://amg01201-cinedigm-amg01201c30-tclideo-na-2022.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-dogwhispererwithcesarmilan-tclideona/playlist.m3u8?device[did]=REPLACE_ME&device[dnt]=REPLACE_ME&gender=REPLACE_ME&app_bundle=REPLACE_ME&app_name=REPLACE_ME&app_store_url=REPLACE_ME&url=REPLACE_ME&genre=REPLACE_ME&ic=REPLACE_ME&us_privacy=REPLACE_ME&gdpr=REPLACE_ME&gdpr_consent=REPLACE_ME&coppa=0&schain=REPLACE_ME&ifa_type=REPLACEME&device_make=REPLACE_ME&device_model=REPLACE_ME
+#EXTINF:-1 tvg-name="E'live Brescia Tv" tvg-logo="https://i.imgur.com/bZ3B7pi.png" group-title="其他",E'live Brescia Tv
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
+#EXTINF:-1 tvg-id="EMCITV.fr@SD" group-title="其他",EMCI TV (288p)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciafrique.m3u8
+#EXTINF:-1 tvg-id="ETBEvents1.es@SD" tvg-logo="https://i.imgur.com/bVUEmx9.png" group-title="其他",ETB Events 1 (1080p)
+https://cdn1.etbon.eus/oc1/index.m3u8
+#EXTINF:-1 tvg-id="ETB1.es" tvg-name="ETB1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png" group-title="其他",ETB1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:-1 tvg-id="EWTN.de@SD" tvg-logo="https://i.imgur.com/NXeygNk.png" group-title="其他",EWTN Germany (720p)
+https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CHBC40000027S" tvg-name="Echappées belles & co [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC40000027S_20250107T031454SQUARE.png" group-title="其他",Echappées belles & co [FR]
+https://jmp2.uk/stvp-CHBC40000027S
+#EXTINF:-1 tvg-id="El33.es@Originals" tvg-logo="https://i.imgur.com/frKCBTN.png" group-title="其他",El 33 Originals (1080p) [Not 24/7]
+https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+#EXTINF:-1 tvg-id="EliveTVBrescia.it@SD" tvg-logo="https://i.imgur.com/gZxjLph.png" group-title="其他",Elive TV Brescia (720p) [Not 24/7]
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
+#EXTINF:-1 tvg-id="EntellaTV.it@SD" tvg-logo="https://i.imgur.com/pGJcMmB.png" group-title="其他",Entella TV (720p) [Not 24/7]
+https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Entella Tv" tvg-logo="https://i.imgur.com/1VPXKrW.png" group-title="其他",Entella Tv
+https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="EnterFilm.ua" tvg-name="Enter-Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Enter-FilmUA_%282013%29.png/819px-Enter-FilmUA_%282013%29.png" group-title="其他",Enter-Film
+http://212.79.122.11:5014/udp/239.255.6.31:1234
+#EXTINF:-1 tvg-id="ErzTVStollberg.de@SD" tvg-logo="https://i.imgur.com/6FHl9B1.png" group-title="其他",Erz-TV Stollberg (576p)
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EsperiaTV.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png" group-title="其他",Esperia TV (480p)
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Esperia Tv" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/esperiatv.png" group-title="其他",Esperia Tv
+https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Etna Espresso Channel" tvg-logo="https://i.imgur.com/hMUxytZ.png" group-title="其他",Etna Espresso Channel
+https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroTV.it@SD" tvg-logo="https://i.imgur.com/HFWWzKT.png" group-title="其他",Euro TV (720p) [Not 24/7]
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 tvg-name="Euro Tv" tvg-logo="https://i.imgur.com/HCl5Zbu.png" group-title="其他",Euro Tv
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 tvg-id="CHBD600003EI" tvg-name="Film Al Femminile - Wedo Movies [IT]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD600003EI_20250107T025507SQUARE.png" group-title="其他",Film Al Femminile - Wedo Movies [IT]
+https://jmp2.uk/stvp-CHBD600003EI
+#EXTINF:-1 tvg-id="AT4600002H5" tvg-name="Fluss Monsters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4600002H5_20250819T033011SQUARE.png" group-title="其他",Fluss Monsters
+https://jmp2.uk/stvp-AT4600002H5
+#EXTINF:-1 tvg-id="FolkTV.mk" tvg-name="Folk TV" tvg-logo="https://i.imgur.com/4b9aZ9P.png" group-title="其他",Folk TV
+https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+#EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk" tvg-name="Folketinget TV" tvg-logo="https://i.imgur.com/RqQDUzX.png" group-title="其他",Folketinget TV
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="FranceInter.fr@SD" tvg-logo="https://i.imgur.com/MgBeU52.png" group-title="其他",France Inter (288p)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8
+#EXTINF:-1 tvg-id="FranceInter.fr" tvg-name="France Inter Ⓨ" tvg-logo="https://i.imgur.com/d9Ncl8m.png" group-title="其他",France Inter Ⓨ
+https://www.youtube.com/c/FranceInter/live
+#EXTINF:-1 tvg-id="AT12000011L" tvg-name="Free Comedy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT12000011L_20250207T120848SQUARE.png" group-title="其他",Free Comedy
+https://jmp2.uk/stvp-AT12000011L
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913fa15130002b284197" tvg-name="FreeTV Sureño" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cc2b79be-49b6-49b0-95dc-be39ab298aca/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo__1_.png" group-title="其他",FreeTV Sureño
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6018913fa15130002b284197/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="FunRadio.fr@SD" tvg-logo="https://i.imgur.com/wgxuYsQ.png" group-title="其他",Fun Radio
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63d6f9b67c3070b6e06e0aad" tvg-name="Gardening with Monty Don" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db913c01-eb1b-4e36-9f88-f7fe25389bc4/Wurl_GWMD_ChannelAllWhite_1500x1000.png" group-title="其他",Gardening with Monty Don
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63d6f9b67c3070b6e06e0aad/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-686451cd75b26c0a7c946bcb" tvg-name="Geraldo Rivera" tvg-logo="https://provider-static.plex.tv/epg/cms/production/971bcaab-304f-493c-b22a-67e866097f83/GeraldoRivera_Logo_1500x1000_DarkBG_-_Chris_Connors.png" group-title="其他",Geraldo Rivera
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-686451cd75b26c0a7c946bcb/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc76d" tvg-name="Glewed TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6025660-0b4a-4851-a805-4c61545642f9/glewed-tv.png" group-title="其他",Glewed TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc76d/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6615360a8423b8d7e61a099b" tvg-name="Go Wild" tvg-logo="https://provider-static.plex.tv/epg/cms/production/616ccdb3-bc16-4546-bfda-3102d114be5a/Go_Wild_Tilef0c5e75034912cf50d05c24ee0530aa8RDXFINAL.png" group-title="其他",Go Wild
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6615360a8423b8d7e61a099b/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2" tvg-name="GoTraveler" tvg-logo="https://provider-static.plex.tv/epg/cms/production/25fe7ecc-9dce-41e3-baea-bb1d5cf49041/GoTraveler_logo_dark_background.png" group-title="其他",GoTraveler
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-654d5db7ff9919cc3e31e961" tvg-name="GoUSA TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2a937d36-e14d-470b-a909-746fb0744ec4/gousa-tvWHITE_RDX1500x1000.png" group-title="其他",GoUSA TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-654d5db7ff9919cc3e31e961/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" tvg-name="Gravitas Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/87658f08-b42f-4fff-b2d6-b729fd2dae71/Plex_GravitasMovies_DarkBackground.png" group-title="其他",Gravitas Movies
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64704596e536e0faaf10be9b" tvg-name="Great British Menu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c0c4e91-aeeb-473d-99b2-fbcc208bbcb9/GBM_Logo_Ashleigh_Dark_and_Light.png" group-title="其他",Great British Menu
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64704596e536e0faaf10be9b/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-689fb2c329e3c9f1368c04a3" tvg-name="Green Acres" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9e7083ff-4606-4660-985a-33f1aef8911f/GreenAcres_logo_light_-_Carl_Hoffelder_PURPLERDX.png" group-title="其他",Green Acres
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-689fb2c329e3c9f1368c04a3/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63489a771159f6a5ce819b7b" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="其他",Grjngo - Western Movies
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489a771159f6a5ce819b7b/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 group-title="其他",HNC Free (UK)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/hncAAAAAA-hncfree-lg-uk/playlist.m3u8
+#EXTINF:-1 tvg-id="HOLAPlay.es@SD" tvg-logo="https://m.media-amazon.com/images/I/5194tl8duqL.png" group-title="其他",HOLA! Play (1080p)
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
+#EXTINF:-1 tvg-id="HamaikaTelebista.es@SD" tvg-logo="https://i.imgur.com/HR3G3Ie.png" group-title="其他",Hamaika Telebista (1080p)
+https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae580c" tvg-name="Hell's Kitchen & Kitchen Nightmares" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e05a81b4-ab4d-4c29-aba8-aa8cd9c10c2c/FilmRise_HellsKitchenKitchenNightmares_Color_Logo.png" group-title="其他",Hell's Kitchen & Kitchen Nightmares
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae580c/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 group-title="其他",Her Sphere (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6616cbcc0360e123d9f3f366" tvg-name="Highway Thru Hell" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d8e643e3-b9ca-4fd8-bcd2-1321a1f91df5/HighwayThruHell_Logo_White_1500x1000_-_Harry_Marshall.png" group-title="其他",Highway Thru Hell
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6616cbcc0360e123d9f3f366/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 group-title="其他",Himmlischeskino (AT)
+https://wdr-media-group-himmlischeskino-1-at.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Himmlischeskino (DE)
+https://wdr-media-group-himmlischeskino-1-de.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="hlektra.gr" tvg-name="Hlektra" tvg-logo="https://i.imgur.com/LbogUPS.png" group-title="其他",Hlektra
+https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
+#EXTINF:-1 tvg-id="AT33000033D" tvg-name="Hochspannung" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT33000033D_20251209T004005SQUARE.png" group-title="其他",Hochspannung
+https://jmp2.uk/stvp-AT33000033D
+#EXTINF:-1 tvg-id="AT48000012I" tvg-name="Hochzeit auf den ersten Blick" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT48000012I_20260310T031250SQUARE.png" group-title="其他",Hochzeit auf den ersten Blick
+https://jmp2.uk/stvp-AT48000012I
+#EXTINF:-1 group-title="其他",Homeful (CA)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/bamcanada-bamca-homeful-us-lg/playlist.m3u8
+#EXTINF:-1 group-title="其他",Homeful (GB)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-homefulworldwide-lggb/playlist.m3u8
+#EXTINF:-1 group-title="其他",Homes under the Hammer (GB)
+https://all3media-homes-under-the-hammer-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HopeChannelGerman.de@SD" tvg-logo="https://i.imgur.com/I9BbJR0.png" group-title="其他",Hope Channel German (1080p)
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66b136d2a9ef8c41ec0841ae" tvg-name="Horror Stories" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3d71d16f-e5cb-4f46-a91e-bc8a0d37030b/HorrorStories_plex_dark_1500x1000.png" group-title="其他",Horror Stories
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b136d2a9ef8c41ec0841ae/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66f5a92352c50d2f62020f38" tvg-name="Horror by ALTER" tvg-logo="https://provider-static.plex.tv/epg/cms/production/30b777b5-603d-4ab8-b8f9-9d37da513edd/HorrorbyAlter_logo_1500x1000_-_Courtney_Cox.png" group-title="其他",Horror by ALTER
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66f5a92352c50d2f62020f38/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-67448316c583cfbd5f0e1d99" tvg-name="Hot Wheels Action" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fc2b8535-d62d-4094-a140-7d5ab37d234f/PLEX_Hot_Wheels_Action_Dark_Background_Color_LogoRDX_white_Text.png" group-title="其他",Hot Wheels Action
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67448316c583cfbd5f0e1d99/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66a1aa319101f360242499a8" tvg-name="How To" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76b7d118-e71e-4ae7-91a7-db3c1f2a9eef/HowTo_Logo_Dark_1500x1000.png" group-title="其他",How To
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a1aa319101f360242499a8/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="HudaTV.eg" tvg-name="Huda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_huda_%D8%AD%D8%AC%D9%85_%D9%83%D8%A8%D9%8A%D8%B1.gif" group-title="其他",Huda TV
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fd115b7b7ef8d002dcf1814" tvg-name="Humor Mill" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png" group-title="其他",Humor Mill
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd115b7b7ef8d002dcf1814/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66f6b6baac1a1890ef197a4b" tvg-name="Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png" group-title="其他",Hunter
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66f6b6baac1a1890ef197a4b/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="ATBA1500028F9" tvg-name="Höhenrausch" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1500028F9_20250722T005122SQUARE.png" group-title="其他",Höhenrausch
+https://jmp2.uk/stvp-ATBA1500028F9
+#EXTINF:-1 tvg-id="IB3.es" tvg-name="IB3 Global Ⓨ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/ib3-es.png" group-title="其他",IB3 Global Ⓨ
+https://www.youtube.com/c/ib3/live
+#EXTINF:-1 tvg-id="ICTVSerialy.ua" tvg-name="ICTV Serialy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/ICTV_Serialy_%282024%29.png" group-title="其他",ICTV Serialy
+http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057" tvg-name="IFC Films Picks" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/956bc5f750ddad6a83cc2411a447a984.png" group-title="其他",IFC Films Picks
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63" tvg-name="INTER 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png" group-title="其他",INTER 24/7
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" tvg-name="INWONDER" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eaa03a9e-c480-4a0a-be8b-a641aa4d7973/inwinder_logo_color_1500x1000_-_Itay_Pollak.png" group-title="其他",INWONDER
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" tvg-name="ION Plus" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45ce0f68-519a-4d15-ab5a-ba12ff802ad3/PlexOrange-Logo-1500-x-1000.png" group-title="其他",ION Plus
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="IPNoticias.ar" tvg-name="IP Noticias Ⓨ" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ar-ip-noticias-6980-300x225.jpg" group-title="其他",IP Noticias Ⓨ
+https://www.youtube.com/watch?v=IxQ2-6Y4y9w
+#EXTINF:-1 tvg-id="IcaroTV.it@SD" tvg-logo="https://i.imgur.com/nWBWzNy.png" group-title="其他",Icaro TV (720p) [Not 24/7]
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-666e1820ce73ed6023b55a11" tvg-name="Ice Pilots NWT" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2c49fafe-3ddd-443d-bdaa-c2ad358146cf/channel_logo_1500x1000_light.png.png" group-title="其他",Ice Pilots NWT
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-666e1820ce73ed6023b55a11/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 group-title="其他",Icon Film Classics (GB)
+https://iconfilmsdistribution-iconfilmchannelclassics-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Icon Film Classics (IE)
+https://iconfilmsdistribution-iconfilmchannelclassics-1-ie.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IdeaalTV.nl@SD" tvg-logo="https://i.imgur.com/JLYQFoX.png" group-title="其他",Ideaal TV (480p) [Not 24/7]
+https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6308fa9c0417b7074a4ad959" tvg-name="Impossible - Quiz Show" tvg-logo="https://provider-static.plex.tv/epg/cms/production/953d835b-1761-4106-8a1f-b8c18894009a/PLEX_IMPOSSIBLE_Logo_Light_1500X1000.png" group-title="其他",Impossible - Quiz Show
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6308fa9c0417b7074a4ad959/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6876f8e2e50e77c59c8940c0" tvg-name="In The Heat Of The Night by MGM" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5124527a-f21e-4f9a-b43a-6275fbf1aae3/ITHOTN_logo_dark_-_Carl_HoffelderRDX.png" group-title="其他",In The Heat Of The Night by MGM
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6876f8e2e50e77c59c8940c0/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="IndiaToday.in" tvg-name="India Today Ⓨ" tvg-logo="https://i.imgur.com/C7KK3Fd.png" group-title="其他",India Today Ⓨ
+https://www.youtube.com/watch?v=sYZtOFzM78M
+#EXTINF:-1 group-title="其他",Insight TV (DE)
+https://insighttv-row-lg-germany.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Insight TV Spain (US)
+https://insighttv-us-lg-spain.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Insight TV alt (DE)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/insightAA-insighttv-lifestyle-lg-germany/playlist.m3u8
+#EXTINF:-1 group-title="其他",Insight TV alt Mexico (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/insightAA-insighttv-us-lg-mexico/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6529b08ece8f0608a50194b5" tvg-name="Investigation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cb7f0e42-5129-4675-bedd-4c9875bfd127/investigation_1500x1000_light_-_Jose_Martinez.png" group-title="其他",Investigation
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6529b08ece8f0608a50194b5/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf26" tvg-name="Ion Mystery" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1247cd5fa3876d1c486559e0460b300b.png" group-title="其他",Ion Mystery
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf26/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="Italia2.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/960px-Logo_Italia2.svg.png" group-title="其他",Italia 2 (480p) [Geo-blocked]
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+#EXTINF:-1 tvg-id="Italia2TV.it@SD" tvg-logo="https://i.imgur.com/TDSgG28.png" group-title="其他",Italia 2 TV (480p) [Geo-blocked]
+http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
+#EXTINF:-1 tvg-id="IuniorTV.it@SD" tvg-logo="https://i.imgur.com/FBOJnfT.png" group-title="其他",Iunior TV (1080p)
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
+#EXTINF:-1 tvg-id="IuniorTV.it" tvg-name="Iunior Tv" tvg-logo="https://i.imgur.com/9jeNlLE.png" group-title="其他",Iunior Tv
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Jail (AU)
+https://langleyproductions-jail-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Jail (CA)
+https://langleyproductions-jail-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Jail (US)
+https://langleyproductions-jail-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JazzTV.mk" tvg-name="Jazz TV" tvg-logo="https://i.imgur.com/4U6Ju5G.png" group-title="其他",Jazz TV
+https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132da62fe160040f26b5b" tvg-name="Judge Faith" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7d32af01-5d94-4992-809c-4dd54b7099ea/judge_faith_White.png" group-title="其他",Judge Faith
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132da62fe160040f26b5b/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="ATAJ0500443A" tvg-name="Just Cooking" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500443A_20250107T021716SQUARE.png" group-title="其他",Just Cooking
+https://jmp2.uk/stvp-ATAJ0500443A
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-682dff1fdfc9c452b8f9842a" tvg-name="K-Baseball TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/023b2ee3-edc6-4096-a15d-7455ac06203d/K-Baseball_TV_logo_dark_-_Jason_Hwang.png" group-title="其他",K-Baseball TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-682dff1fdfc9c452b8f9842a/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-name="Kanizsa TV" group-title="其他",Kanizsa TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="KapitanBombaTV.pl@HD" tvg-logo="https://i.ibb.co/VKjztQj/dark-9999-png-oxoooooooo-256x256.png" group-title="其他",Kapitan Bomba TV
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc127/kapitanbombaraw/kapitanbombaraw.mpd
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-69153808ca8cd63ab14ece0d" tvg-name="Kidoodle TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4097617a-f708-4414-90f1-c46c89185383/Kidoodle.TV_Channel_Logo1500x1000rdx__1_.png" group-title="其他",Kidoodle TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-69153808ca8cd63ab14ece0d/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 group-title="其他",Kids TV (CA)
+https://jansonmedia-kidstv-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Kids TV (US)
+https://jansonmedia-kidstv-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc797" tvg-name="KidsFlix" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidsflix.png" group-title="其他",KidsFlix
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc797/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 group-title="其他",Kidspang TV (CA)
+https://newidco-kidspangtv-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Kidspang TV (US)
+https://newidco-kidspangtv-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-656fb124cb7e8e6a9bc3f36a" tvg-name="Kidz Bop TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca4eaf02-b31d-4b56-8cad-1ff4601bb17b/KB_PLEX_1500x1000_Logo-Light-BG_-_James_Stowe.png" group-title="其他",Kidz Bop TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656fb124cb7e8e6a9bc3f36a/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6707d359da81682f2d1e683c" tvg-name="Kim's Convenience" tvg-logo="https://provider-static.plex.tv/epg/cms/production/73521d5b-09c4-4652-a121-049903035635/KimsConvenience_Color_LogoRDX.png" group-title="其他",Kim's Convenience
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6707d359da81682f2d1e683c/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="AT2600009ON" tvg-name="Komödien - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2600009ON_20260324T035553SQUARE.png" group-title="其他",Komödien - Rakuten TV
+https://jmp2.uk/stvp-AT2600009ON
+#EXTINF:-1 tvg-id="LA7.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/960px-LA7_-_Logo_2011.svg.png" group-title="其他",LA7 HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="其他",LN+ Ⓨ
+https://www.youtube.com/c/LaNacionMas/live
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-645a5a1e4dc67ffc42d36558" tvg-name="LX Home Streaming" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/2f98682ef339692fe6a76040ef818cc6.png" group-title="其他",LX Home Streaming
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-645a5a1e4dc67ffc42d36558/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="La7Cinema.it" tvg-name="La7 Cinema" tvg-logo="https://i.imgur.com/khPweok.png" group-title="其他",La7 Cinema
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+#EXTINF:-1 tvg-name="Lab Tv" tvg-logo="https://i.imgur.com/OpRS6Fl.png" group-title="其他",Lab Tv
+https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8
+#EXTINF:-1 tvg-id="AT32000109U" tvg-name="Ladykracher" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT32000109U_20260324T040408SQUARE.png" group-title="其他",Ladykracher
+https://jmp2.uk/stvp-AT32000109U
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-648095b14e104622d093d902" tvg-name="Laff More" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0dcdc1c519e1f78b74fb7d5147a81707.png" group-title="其他",Laff More
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-648095b14e104622d093d902/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="LatinaTV.ve" tvg-name="Latina TV" tvg-logo="https://intervenhosting.net/imagenes/latinatv.jpg" group-title="其他",Latina TV
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+#EXTINF:-1 tvg-id="Lausitzwelle.de@SD" tvg-logo="https://i.imgur.com/4kYF4bK.png" group-title="其他",Lausitzwelle (1080p)
+https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-654a6d313713a28d9f0b917f" tvg-name="Lawless" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d175e798-302f-41f4-bde4-9ca04015f085/Lawless_Plex_Logo_Light_1500x1000.png" group-title="其他",Lawless
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-654a6d313713a28d9f0b917f/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1" tvg-name="Legacy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png" group-title="其他",Legacy
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 group-title="其他",Life Downunder (DK)
+https://wtfn-lifedownunder-2-dk.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Life Downunder (FI)
+https://wtfn-lifedownunder-2-fi.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Life Downunder (GB)
+https://wtfn-lifedownunder-2-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Life Downunder (IE)
+https://wtfn-lifedownunder-2-ie.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Life Downunder (NL)
+https://wtfn-lifedownunder-2-nl.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Life Downunder (SE)
+https://wtfn-lifedownunder-2-se.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Lifestyle Insight TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/insightAA-insighttv-lifestyle-lg-germany/playlist.m3u8
+#EXTINF:-1 group-title="其他",LocalNow - Charleston SC
+https://amg01583-localnow-amg01583c221-lg-us-1474.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowcharlestonsc-lgus/playlist.m3u8
+#EXTINF:-1 group-title="其他",LocalNow - Colorado Springs
+https://amg01583-localnow-amg01583c81-lg-us-1484.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowcoloradosprings-lgus/playlist.m3u8
+#EXTINF:-1 group-title="其他",LocalNow - Columbus GA
+https://amg01583-localnow-amg01583c223-lg-us-1506.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowcolumbusga-lgus/playlist.m3u8
+#EXTINF:-1 group-title="其他",LocalNow - Portland ME
+https://amg01583-localnow-amg01583c222-lg-us-1654.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowportlandme-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="Lombardia Tv" tvg-logo="https://i.imgur.com/aksVy9f.jpg" group-title="其他",Lombardia Tv
+https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63fe7d7eb6312779f56504d3" tvg-name="Love Pets" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2cdf51b9-c535-4795-836d-ec1e97b124e9/PlexTV_LovePets_Logos-Primary-ForDarkBG_1500x1000_-_Rashmi_Palvannan.png" group-title="其他",Love Pets
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63fe7d7eb6312779f56504d3/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="LoveTV.mk" tvg-name="Love TV" tvg-logo="https://i.imgur.com/B8iaejQ.png" group-title="其他",Love TV
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-685f0e1fa7111a932d28f1a6" tvg-name="Love Thy Neighbor" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2d4e1fc3-e339-42c3-a13f-3d5a15342fef/LoveThyNeighbor_Logo_1500x1000_DarkBG_-_Chris_Connors.png" group-title="其他",Love Thy Neighbor
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-685f0e1fa7111a932d28f1a6/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 group-title="其他",LoveNature alt
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/bamusaAAA-bamus-lovenature-lg/playlist.m3u8
+#EXTINF:-1 tvg-id="LunaTV.it@SD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/luna-tv-it.png" group-title="其他",Luna TV
+https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Líceum TV" group-title="其他",Líceum TV
+http://193.225.32.62:8890/live.m3u8
+#EXTINF:-1 tvg-id="M1.ua" tvg-name="M1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/M1_%28Ukraine%29_%282001-2021%29.svg/768px-M1_%28Ukraine%29_%282001-2021%29.svg.png" group-title="其他",M1
+http://212.79.122.11:5014/udp/239.255.6.28:1234
+#EXTINF:-1 tvg-id="M6.fr@SD" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="其他",M6 (720p) [Geo-blocked] [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#EXTINF:-1 tvg-id="MCTV.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/MC_TV_logosu.png" group-title="其他",MC TV (720p)
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="MDL.fr@SD" tvg-logo="https://i.imgur.com/REN30bx.png" group-title="其他",MDL (720p)
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6876fa82e50e77c59c8940c2" tvg-name="MGM Presents" tvg-logo="https://provider-static.plex.tv/epg/cms/production/306c74d7-5ff7-4067-b921-a1b6c86efbfa/MGMPresents_logo_dark_-_Carl_HoffelderRDX.png" group-title="其他",MGM Presents
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6876fa82e50e77c59c8940c2/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-689fb8470a486aeba3c7917e" tvg-name="MGM Presents: Westerns" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3e9a3d83-390a-4bb9-93b5-34094f6dc339/MPWesterns_logo_dark_-_Carl_HoffeldeWhite_lettersrRDX.png" group-title="其他",MGM Presents: Westerns
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-689fb8470a486aeba3c7917e/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611152a48f945c002c40021a" tvg-name="MHz Now" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/mhz_now_logo_dark.png" group-title="其他",MHz Now
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-611152a48f945c002c40021a/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-67f592e6c97eb27725c8855f" tvg-name="MI-5" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1db7ca58-f6ab-4533-b342-969a37c960b4/SpooksMI5_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="其他",MI-5
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67f592e6c97eb27725c8855f/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="MK青凌" tvg-name="MK青凌" tvg-logo="https://tb.zbds.top/logo/MK青凌.png" group-title="其他",MK青凌
+https://goodiptv.club/douyu/9488836
+#EXTINF:-1 tvg-id="ML5TV.nl@SD" tvg-logo="https://i.imgur.com/knjHdei.png" group-title="其他",ML5 TV (480p)
+https://ms7.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MTV3.fi" tvg-name="MTV3" tvg-logo="https://i.imgur.com/kNbmc8n.png" group-title="其他",MTV3
+https://live-fi.tvkaista.net/mtv3/live.m3u8?src=freetv
+#EXTINF:-1 tvg-id="MTV3.fi@SD" tvg-logo="https://i.imgur.com/C5rQbBM.png" group-title="其他",MTV3 (720p)
+https://live-fi.tvkaista.net/mtv3/live.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60db63d29ec966002c9ea6f0" tvg-name="Made In Hollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png" group-title="其他",Made In Hollywood
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60db63d29ec966002c9ea6f0/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-65b80306e5cf85050598aba4" tvg-name="Made It Myself TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png" group-title="其他",Made It Myself TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65b80306e5cf85050598aba4/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-name="Made in BO" tvg-logo="https://i.imgur.com/WFnrMS0.png" group-title="其他",Made in BO
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Made – Pluto TV" tvg-logo="https://i.imgur.com/dguQsJ7.png" group-title="其他",Made – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6304ee20112ca70007d8accc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="MaestratTV.es@SD" tvg-logo="https://i.imgur.com/9gOS1ts.png" group-title="其他",Maestrat TV (1080p)
+https://stream.maestrat.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MagicPowerRadio.nl@SD" tvg-logo="https://i.imgur.com/sWcwIte.png" group-title="其他",Magic PowerRadio (288p) [Not 24/7]
+https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8
+#EXTINF:-1 tvg-id="MaisonTravauxTV.fr@SD" tvg-logo="https://i.imgur.com/uYpc6nE.png" group-title="其他",Maison & Travaux TV (288p)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
+#EXTINF:-1 tvg-id="ManaChurchOnline.pt@SD" tvg-logo="https://i.imgur.com/FRDJSim.png" group-title="其他",Maná Church Online (1080p) [Not 24/7]
+https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaCirkevOnline.pt@SD" tvg-logo="https://i.imgur.com/tYhXeRq.png" group-title="其他",Maná Cirkev Online (1080p) [Not 24/7]
+https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaIglesiaOnline.pt@SD" tvg-logo="https://i.imgur.com/0IUvfcJ.png" group-title="其他",Maná Iglesia Online (1080p) [Not 24/7]
+https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaIgrejaOnline.pt@SD" tvg-logo="https://i.imgur.com/0IUvfcJ.png" group-title="其他",Maná Igreja Online (1080p) [Not 24/7]
+https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaTserkovOnlayn.pt@SD" tvg-logo="https://i.imgur.com/PruXLqS.png" group-title="其他",Maná Tserkov' Onlayn (1080p) [Not 24/7]
+https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaEgliseOnline.pt@SD" tvg-logo="https://i.imgur.com/xQYly8O.png" group-title="其他",Maná Église Online (1080p) [Not 24/7]
+https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4430" tvg-name="Maverick Black Cinema" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" group-title="其他",Maverick Black Cinema
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4430/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6515fd4f2ff655e77635c628" tvg-name="McLeods Daughters" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2eba068-98bd-4070-a669-7573db4224a4/McLeodsDaughters_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="其他",McLeods Daughters
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6515fd4f2ff655e77635c628/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="MedjugorjeItaliaTV.it@SD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/medjugorje_italia_tv_ba.png" group-title="其他",Medjugorje Italia TV (480p)
+https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Medjugorje Italia Tv" tvg-logo="https://i.imgur.com/hkZScXf.png" group-title="其他",Medjugorje Italia Tv
+https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Melody.fr@SD" tvg-logo="https://i.imgur.com/9GVyQ6x.png" group-title="其他",Melody (288p)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke.m3u8
+#EXTINF:-1 tvg-id="MensUPTV.fr@SD" tvg-logo="https://i.imgur.com/5BZwRFs.png" group-title="其他",Men's UP TV (288p)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8
+#EXTINF:-1 tvg-id="MerweTV.nl@SD" tvg-logo="https://i.imgur.com/JjB7U1q.png" group-title="其他",Merwe TV (720p)
+https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-68e9436dda6bb987138625c7" tvg-name="Metal.Rocks" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4171a6a6-6d73-481a-ad91-15166befee06/Channel_Logo_MetalRocks_Color_-_Ricardo_RivasRDX.png" group-title="其他",Metal.Rocks
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68e9436dda6bb987138625c7/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-666e1c83d91d13cb4c8cbb71" tvg-name="Mi Casa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fba2f51d-9bc8-418d-ae07-14e84f6e7fc8/channel_logo_1500x1000_light.png.png" group-title="其他",Mi Casa
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-666e1c83d91d13cb4c8cbb71/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="Mijas340TV.es@SD" tvg-logo="https://i.imgur.com/RH1zLLs.png" group-title="其他",Mijas 3.40TV (720p)
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-684c2379e32026b0c1f53793" tvg-name="Million Dollar Dream Home" tvg-logo="https://provider-static.plex.tv/epg/cms/production/305dc437-2a99-4e98-a872-08ae23e102f6/MDDH_WHITE_-_Principal_MediaRDX__1_.png" group-title="其他",Million Dollar Dream Home
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-684c2379e32026b0c1f53793/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-name="Minformo Tv" tvg-logo="https://i.imgur.com/VJNtnZM.jpg" group-title="其他",Minformo Tv
+https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="MiracleTV.se@SD" tvg-logo="https://i.imgur.com/rc68GZJ.png" group-title="其他",Miracle TV (1080p)
+https://live.miracleonline.org/hls/miracle1.m3u8
+#EXTINF:-1 tvg-id="ATBA15000088F" tvg-name="Moconomy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA15000088F_20250107T021737SQUARE.png" group-title="其他",Moconomy
+https://jmp2.uk/stvp-ATBA15000088F
+#EXTINF:-1 group-title="其他",Moconomy (AT)
+https://amogonetworx-moconomy-3-at.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6112a9139894c8002c6cb87f" tvg-name="More U" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png" group-title="其他",More U
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6112a9139894c8002c6cb87f/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-name="Motori Tv" tvg-logo="https://i.imgur.com/NWXQKbl.png" group-title="其他",Motori Tv
+https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
+#EXTINF:-1 tvg-id="MouvTV.fr@SD" tvg-logo="https://i.imgur.com/64nzKEu.jpg" group-title="其他",Mouv' TV (288p)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mouv.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-65d90ec99c7a6da8c3ce57eb" tvg-name="Movieitaly Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd9cec29-1cdc-4cd0-b7c2-cdd8fc377536/Color_White_MI_LOGO1_-_Simona_CampobassoRDX.png" group-title="其他",Movieitaly Channel
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65d90ec99c7a6da8c3ce57eb/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66a2e7fe94b6a49cb5054d7b" tvg-name="Mr. Bean" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2de25078-3e41-4261-8a48-c326d7541ae5/MrBean_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="其他",Mr. Bean
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a2e7fe94b6a49cb5054d7b/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-671a924b79fce6628115432c" tvg-name="Mr. Bean Live Action" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1360f1ba-3ea1-4cc1-9ab9-6e99776c1a89/MrBeanLiveAction_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="其他",Mr. Bean Live Action
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-671a924b79fce6628115432c/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-68d15e51c80ec69e0bd8965b" tvg-name="MrBeast" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f543ede1-40f6-4c84-9ac5-ab5db78d82f3/MB_LOGO_1500X1000_WHITEandCOLOR_TRANSPARENT.png" group-title="其他",MrBeast
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68d15e51c80ec69e0bd8965b/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 group-title="其他",Mtrsprt 1 (DE)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lgde/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-68dcbab5250f81dfec9091d9" tvg-name="Murdoch Mysteries" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf2436de-a3ca-4e79-a664-168e55b4fb7a/MurdochMysteries_Logo_White_1500X1000.png" group-title="其他",Murdoch Mysteries
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68dcbab5250f81dfec9091d9/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-name="Music Legends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" group-title="其他",Music Legends
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-644875d7af92c31f4a190bc2" tvg-name="MyTime Movie Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f319630c-002e-40ac-893a-5930fad0eef9/MT_PLEX_1500x1000_US_WHITE_-_Sam_Abraham.png" group-title="其他",MyTime Movie Network
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644875d7af92c31f4a190bc2/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es@SD" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="其他",MyTime movie network Spain (1080p)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MunchenTV.de@SD" tvg-logo="https://i.imgur.com/lt7xNWW.png" group-title="其他",München TV (1080p) [Not 24/7]
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-68b9f5a3d60e5dd29263c7ac" tvg-name="NEW KFOOD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6aedfb80-69ab-4b5d-a34b-8e720a753673/NEW_KFOOD_Color_Logo-Dark_Background.png" group-title="其他",NEW KFOOD
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68b9f5a3d60e5dd29263c7ac/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="NOOSTV.nl@SD" tvg-logo="https://i.imgur.com/X8xLcpT.png" group-title="其他",NOOS TV (720p)
+https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" group-title="其他",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVPassau.de@SD" tvg-logo="https://i.imgur.com/0wnFhNi.png" group-title="其他",Niederbayern TV Passau (1080p)
+https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-id="Nitro.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png" group-title="其他",Nitro HD (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
+#EXTINF:-1 tvg-id="noa4Norderstedt.de@SD" tvg-logo="https://i.imgur.com/941nrGb.png" group-title="其他",Noa 4 Norderstedt (1080p)
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62f13eeded056a1db9ef3d54" tvg-name="Nothin' But 90s" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5318898-f807-4c7f-b2b4-c4173aaae1ea/Nothin_But_90s.png" group-title="其他",Nothin' But 90s
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f13eeded056a1db9ef3d54/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6478acb5c83f56da796f166c" tvg-name="Noticias Telemundo AHORA" tvg-logo="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/a88b95413ac88f1f1147ea1d00692653.png" group-title="其他",Noticias Telemundo AHORA
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6478acb5c83f56da796f166c/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="Nova24TV.si" tvg-name="Nova 24 TV Ⓨ" tvg-logo="https://i.imgur.com/M2207Vh.png" group-title="其他",Nova 24 TV Ⓨ
+https://www.youtube.com/@Nova24TVSlovenija/live
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-68e03ae418c739b4d91a6a57" tvg-name="Novelas de Siempre" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4104a44f-21ec-4ee6-8eca-7d151cfbd85d/Novelas_de_Siempre_Channel-Icon_ColorRDX.png" group-title="其他",Novelas de Siempre
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68e03ae418c739b4d91a6a57/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 group-title="其他",Oan
+https://oan-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OberpfalzTV.de@SD" tvg-logo="https://i.imgur.com/ISI5KDd.png" group-title="其他",Oberpfalz TV (1080p)
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepCentraalTV.nl@SD" tvg-logo="https://i.imgur.com/YNUPWbL.png" group-title="其他",Omroep Centraal TV (480p) [Not 24/7]
+https://ms2.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepFlevolandTV.nl" tvg-name="Omroep Flevoland Ⓢ" tvg-logo="https://i.imgur.com/d1CmTcI.png" group-title="其他",Omroep Flevoland Ⓢ
+https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
+#EXTINF:-1 tvg-id="OmroepHulst.nl@SD" tvg-logo="https://i.imgur.com/RrQnqId.png" group-title="其他",Omroep Hulst TV (720p) [Not 24/7]
+https://ms7.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepWest.nl@HD" tvg-logo="https://i.imgur.com/5IDb9fk.png" group-title="其他",Omroep West (1080p) [Not 24/7]
+https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8
+#EXTINF:-1 tvg-name="Onda Web Radio" tvg-logo="https://i.imgur.com/3hTvrC8.jpg" group-title="其他",Onda Web Radio
+http://178.33.224.197:1935/ondaradioweb/ondaradioweb/playlist.m3u8
+#EXTINF:-1 tvg-id="OPENRotterdamTV.nl@SD" tvg-logo="https://i.imgur.com/nWahRAb.png" group-title="其他",Open Rotterdam (480p) [Not 24/7]
+https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa" tvg-name="Oro TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ecf0c463-9ff8-4d9d-b756-0e9913c8ed60/Oro_TV_1500x1000-_For_dark_backgrounds.png" group-title="其他",Oro TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="OroszlanyiVarosiTelevizio.hu" tvg-name="Oroszlányi Városi Televízió" tvg-logo="https://i.imgur.com/P0fxUH5.png" group-title="其他",Oroszlányi Városi Televízió
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="OttoChannel.it@SD" tvg-logo="https://i.imgur.com/zxdwM4f.png" group-title="其他",Otto Channel (480p)
+https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-641496bf238e21f260e7844a" tvg-name="OuterSphere by Lionsgate" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png" group-title="其他",OuterSphere by Lionsgate
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-641496bf238e21f260e7844a/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" tvg-name="Outlaw" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6f6cffee3da24432269d9614379a6b1e.png" group-title="其他",Outlaw
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-629e522ed1bc5f1b16c6b98d" tvg-name="Outside" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e0d4f5b6-5127-441d-8b30-f547cc0b4ed5/Outside_Logo_light_1500x1000.png" group-title="其他",Outside
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-629e522ed1bc5f1b16c6b98d/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62a388865440744efae8e243" tvg-name="Overtime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9601711e-66df-4bdb-ae7a-611b8673b90a/Light_Logo_LGrdx.png" group-title="其他",Overtime
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62a388865440744efae8e243/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" tvg-name="Pac-12 Insider" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png" group-title="其他",Pac-12 Insider
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="PaciContemporaryChannel.it@SD" tvg-logo="https://i.imgur.com/RtOvD2M.png" group-title="其他",Paci Contemporary Channel (720p)
+https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
+#EXTINF:-1 tvg-id="PadrePioTV.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Padre_Pio_TV.jpg" group-title="其他",Padre Pio TV (1080p)
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka Ⓨ Ⓖ" tvg-logo="https://i.imgur.com/Q4zaCuM.png" group-title="其他",Pakapaka Ⓨ Ⓖ
+https://www.youtube.com/user/CanalPakapaka/live
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-678819cadb8f0c5dc195cf50" tvg-name="Pam Grier's Soul Flix" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e5edb46c630a8a5a90867289950f841e.png" group-title="其他",Pam Grier's Soul Flix
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-678819cadb8f0c5dc195cf50/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="Pershyi.ua" tvg-name="Pershyi" tvg-logo="https://i.imgur.com/osTQLED.png" group-title="其他",Pershyi
+https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759" tvg-name="PickleTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6b1c4bff-1077-4ba0-a8d6-f4c39365f126/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png" group-title="其他",PickleTV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" tvg-name="PickleballTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5c3ddbf2-e5f5-4764-92eb-8276e6a54e38/pbtv_1_1500_x_1000___Logo_Dark_BG_1__-_Ari_Brock.png" group-title="其他",PickleballTV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-639ba57d3f4612cc150a5723" tvg-name="Pitufo TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png" group-title="其他",Pitufo TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-639ba57d3f4612cc150a5723/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64b7139c8ec13d5dcb7e6bb2" tvg-name="Places & Spaces" tvg-logo="https://provider-static.plex.tv/epg/cms/production/93b7eade-14c9-434b-822b-f86ed372481f/PLEX_P_S_LOGOFORDARKBKG_1500X1500_REV_-_Patty_Gopez.png" group-title="其他",Places & Spaces
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64b7139c8ec13d5dcb7e6bb2/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="PlanetePlus.fr@SD" tvg-logo="https://i.imgur.com/RMbMGMg.png" group-title="其他",Planete+ (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66180428e06c9878b6d9d76c" tvg-name="Plex24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dffc8d37-e5af-41e1-ade1-b36379ec773c/Plex24-forDarkRDX.png" group-title="其他",Plex24
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66180428e06c9878b6d9d76c/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="ATAJ70000741" tvg-name="Pluto TV Serie" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ70000741_20250107T021843SQUARE.png" group-title="其他",Pluto TV Serie
+https://jmp2.uk/stvp-ATAJ70000741
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60afc726623f2f002c5bb49f" tvg-name="Poker Night TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e081c886-d798-4438-855b-2f1fb10c50ee/poker-night-tv.png" group-title="其他",Poker Night TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60afc726623f2f002c5bb49f/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="Polonia1.pl@SD" tvg-logo="https://i.imgur.com/4TVDMGD.png" group-title="其他",Polonia 1
+http://78.130.250.2:8023/play/a05t/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" tvg-name="Popular Science" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png" group-title="其他",Popular Science
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="PrimAntennaTV.it@SD" tvg-logo="https://i.imgur.com/4Bx2321.png" group-title="其他",PrimAntenna TV (720p)
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaTV.it@SD" tvg-logo="https://i.imgur.com/HE9c8Sk.png" group-title="其他",Prima TV Sicilia (720p)
+https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Prima Tv Sicilia" tvg-logo="https://i.imgur.com/br45JER.png" group-title="其他",Prima Tv Sicilia
+https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaFree.it@SD" tvg-logo="https://irp.cdn-website.com/184bfd6a/MOBILE/jpg/477.jpg" group-title="其他",PrimaFree
+https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
+#EXTINF:-1 tvg-name="Primantenna Torino" tvg-logo="https://i.imgur.com/sqEcPFs.gif" group-title="其他",Primantenna Torino
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6674b780f04cf4bb9233c918" tvg-name="Prime Suspect" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b5f799b0-c898-42ad-b8d6-d7053640991d/FilmRise_PrimeSuspect_Logo_WhiteRDX.png" group-title="其他",Prime Suspect
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6674b780f04cf4bb9233c918/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="RAN1.de@SD" tvg-logo="https://i.imgur.com/zRg2BEa.png" group-title="其他",RAN1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RBC.br" tvg-name="RBC Ⓨ" tvg-logo="https://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" group-title="其他",RBC Ⓨ
+https://www.youtube.com/watch?v=oUdd3CsxYaE
+#EXTINF:-1 tvg-id="RBW.de@SD" tvg-logo="https://i.imgur.com/A0UKdix.png" group-title="其他",RBW (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13" tvg-name="RCN Más" tvg-logo="https://provider-static.plex.tv/epg/cms/production/114ff770-db66-459b-bc19-3ef4bfffe712/rcn-mas.png" group-title="其他",RCN Más
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="RDSSocialTV.it" tvg-name="RDS Social TV" tvg-logo="https://i.imgur.com/TY6FhqI.png" group-title="其他",RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+#EXTINF:-1 tvg-id="RDSSocialTV.it@SD" tvg-logo="https://i.imgur.com/bxGvE8C.png" group-title="其他",RDS Social TV (720p)
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+#EXTINF:-1 tvg-id="RFH.de@SD" tvg-logo="https://i.imgur.com/8DZa7in.png" group-title="其他",RFH (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RFO.de@SD" tvg-logo="https://i.imgur.com/902BHGL.png" group-title="其他",RFO (1080p)
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RFPtv.pt@SD" tvg-logo="https://i.imgur.com/I60nQuR.png" group-title="其他",RFPtv (360p)
+https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
+#EXTINF:-1 tvg-id="RIKSat.cy" tvg-name="RIK Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_RIK_Sat_2017.svg/640px-Logo_RIK_Sat_2017.svg.png" group-title="其他",RIK Sat
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="RMCLife.fr@SD" tvg-logo="https://img1.dc2.oqee.net/channel_pictures/3606/w512" group-title="其他",RMC Life (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
+#EXTINF:-1 tvg-id="RMCStory.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png" group-title="其他",RMC Story (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
+#EXTINF:-1 tvg-id="RNEparatodos.es@SD" tvg-logo="https://i.ibb.co/dsgrWTP8/fast-rneaudioparatodos-nac.png" group-title="其他",RNE para todos (720p)
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
+#EXTINF:-1 tvg-id="RNF.de@SD" tvg-logo="https://i.imgur.com/CRk9usN.png" group-title="其他",RNF (1080p)
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio 1 Ⓨ" group-title="其他",Radio 1 Ⓨ
+https://www.youtube.com/watch?v=I8dnZoF1nOE
+#EXTINF:-1 tvg-id="Radio538.nl@SD" tvg-logo="https://i.imgur.com/sd7BX9H.png" group-title="其他",Radio 538 (270p)
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
+#EXTINF:-1 tvg-id="RadioCarnavalTV.es@SD" tvg-logo="https://i.imgur.com/cdpbkSo.png" group-title="其他",Radio Carnaval TV (720p) [Not 24/7]
+https://eu1.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 tvg-name="Radio Colonna Tv Ⓨ" tvg-logo="https://i.imgur.com/EcQvDfq.png" group-title="其他",Radio Colonna Tv Ⓨ
+https://www.youtube.com/radiocolonna/live
+#EXTINF:-1 tvg-id="RadioFrontieres.fr@SD" tvg-logo="https://www.frontieresmedia.fr/img/logo.svg" group-title="其他",Radio Frontieres
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiofrontieres.m3u8
+#EXTINF:-1 tvg-name="Radio Immagine Tv" tvg-logo="https://i.imgur.com/iQlXRAB.png" group-title="其他",Radio Immagine Tv
+https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="Radio Italia Cina Tv" tvg-logo="https://i.imgur.com/QGkyrO3.png" group-title="其他",Radio Italia Cina Tv
+https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioToppers.nl@SD" tvg-logo="https://i.imgur.com/9OMsUd7.png" group-title="其他",RadioToppers (720p)
+https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai1.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" group-title="其他",Rai 1 (720p)
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai1.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" group-title="其他",Rai 1 HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+#EXTINF:-1 tvg-id="RaiScuola.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png" group-title="其他",Rai Scuola HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
+#EXTINF:-1 tvg-id="RaiYoyo.it@SD" tvg-logo="https://i.imgur.com/9gCxiDy.png" group-title="其他",Rai Yoyo (1080p)
+http://78.130.250.2:8023/play/a04d/index.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Spain" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="其他",Rakuten TV Comedy Movies Spain (1080p)
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@Germany" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="其他",Rakuten TV Top Movies Germany (1080p)
+https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+#EXTINF:-1 tvg-name="Reggio Tv" tvg-logo="https://i.imgur.com/merrg2C.png" group-title="其他",Reggio Tv
+https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Regio90TV.nl@SD" tvg-logo="https://i.imgur.com/UGnm1jd.png" group-title="其他",Regio90 TV (720p)
+https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Rei Tv" tvg-logo="https://i.imgur.com/YNRWFOo.png" group-title="其他",Rei Tv
+https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
+#EXTINF:-1 tvg-id="RepublicBharat.in" tvg-name="Republic Bharat Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/500px-Republic_Bharat_logo.svg.png" group-title="其他",Republic Bharat Ⓨ
+https://www.youtube.com/watch?v=3DbTO_AMhhc
+#EXTINF:-1 tvg-name="Rete Mia" tvg-logo="https://i.imgur.com/kCJ621Q.png" group-title="其他",Rete Mia
+https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-68c87052da79d98d977dc90e" tvg-name="Revry Latinx" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4a423ae5-506e-4a10-b148-1f5dc2787db4/RevryLatinX_Logo_Plex_1500x1000_dark-backgrounds_-_Joshua_Pettway-Hinton.png" group-title="其他",Revry Latinx
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68c87052da79d98d977dc90e/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Ⓨ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="其他",SBT Ⓨ
+https://www.youtube.com/watch?v=ABVQXgr2LW4
+#EXTINF:-1 tvg-name="ST Europe Channel" tvg-logo="https://i.imgur.com/QpPgSfr.png" group-title="其他",ST Europe Channel
+https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
+#EXTINF:-1 tvg-id="STEuropeChannel.it@SD" tvg-logo="https://i.imgur.com/M5j7y2N.png" group-title="其他",ST Europe Channel (720p)
+https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
+#EXTINF:-1 tvg-id="Samen1TV.nl@SD" tvg-logo="https://i.imgur.com/3ivlnLO.png" group-title="其他",Samen1 TV (720p)
+https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
+#EXTINF:-1 tvg-id="AT3700005NP" tvg-name="Saving Hope" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3700005NP_20251111T013653SQUARE.png" group-title="其他",Saving Hope
+https://jmp2.uk/stvp-AT3700005NP
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66a1ae9e77649467da169f0e" tvg-name="Say Yes to the Dress" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9298385b-b248-4e3b-87ee-fba261db99f9/SYTTD_Logo_Dark_1500x1000.png" group-title="其他",Say Yes to the Dress
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a1ae9e77649467da169f0e/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="AT4400004GQ" tvg-name="Schlosshotel Orth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4400004GQ_20251209T004012SQUARE.png" group-title="其他",Schlosshotel Orth
+https://jmp2.uk/stvp-AT4400004GQ
+#EXTINF:-1 tvg-id="AT4400006FA" tvg-name="Schnell ermittelt & Cop stories" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4400006FA_20251209T004018SQUARE.png" group-title="其他",Schnell ermittelt & Cop stories
+https://jmp2.uk/stvp-AT4400006FA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-641db53c2f7a0fca29488c99" tvg-name="Screambox TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9bcf51d4-22a5-4271-9445-21f38e29cf57/scream_box_tv_rdx.png" group-title="其他",Screambox TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-641db53c2f7a0fca29488c99/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 group-title="其他",Serially (IT)
+https://ixmediasrl-serially-1-it.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Set Tv Cilento" tvg-logo="https://i.imgur.com/qN5D1jD.png" group-title="其他",Set Tv Cilento
+https://stream1.aswifi.it/settv/live/index.m3u8
+#EXTINF:-1 tvg-name="Sicilia 24 Tv" tvg-logo="https://i.imgur.com/GhQX36O.png" group-title="其他",Sicilia 24 Tv
+https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62ee784852f7d73061eec493" tvg-name="Smooth Jazz" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42ab39da-78b9-443f-9ba6-d6767a4db372/smooth_jazz.png" group-title="其他",Smooth Jazz
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee784852f7d73061eec493/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6041643175c115002dc5125d" tvg-name="So Yummy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/SoYummy_logo_Dark.png" group-title="其他",So Yummy
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6041643175c115002dc5125d/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-661d6a8db518ef381a85ed60" tvg-name="Spark TV Luz y Amor" tvg-logo="https://provider-static.plex.tv/epg/cms/production/332040a1-861c-4db8-b4fa-56cdcf686cb4/Plex_SparkTV_key-art_Spanish-RDX.png" group-title="其他",Spark TV Luz y Amor
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661d6a8db518ef381a85ed60/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f6142d2fc6ce20041ec3c92" tvg-name="Stadium" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5264e0e3-9dea-4613-9ba5-29198c40cdee/stadium_dark_background_-_Janet_Feng.png" group-title="其他",Stadium
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f6142d2fc6ce20041ec3c92/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-686ece9798f4de63d27483b9" tvg-name="Stargate by MGM" tvg-logo="https://provider-static.plex.tv/epg/cms/production/02ebeb10-ab05-461f-b571-dbb297023b64/Stargate_logo_dark_-_Carl_HoffeldeRDXr.png" group-title="其他",Stargate by MGM
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-686ece9798f4de63d27483b9/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="Stereo5TV.it@SD" tvg-logo="https://i.imgur.com/sCDcYFW.png" group-title="其他",Stereo 5 TV (720p)
+https://stream1.aswifi.it/stereo5/live/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325" tvg-name="Stingray Greatest Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png" group-title="其他",Stingray Greatest Hits
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-654eb862dde2222e8ba551f1" tvg-name="Stingray Holidayscapes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png" group-title="其他",Stingray Holidayscapes
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-654eb862dde2222e8ba551f1/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aa9e73784a2161d3caf7f9" tvg-name="Stingray Hot Country" tvg-logo="https://provider-static.plex.tv/epg/cms/production/21cb88d9-8ca5-4a3c-b8dc-ca5b42ed351d/13212_SM_Plex_Logos_Hot-Country_1500x1000_V01-white_-_Olivia_bronfman.png" group-title="其他",Stingray Hot Country
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61aa9e73784a2161d3caf7f9/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801" tvg-name="Stingray Soul Storm" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45da3b94-2c9d-453d-ab75-692b36245244/13212_SM_Plex_Logos_Soul-Storm_1500x1000_V01-white_-_Olivia_bronfman.png" group-title="其他",Stingray Soul Storm
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="Studio040TV.nl@SD" tvg-logo="https://i.imgur.com/NBludRL.png" group-title="其他",Studio040 TV (720p)
+https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8
+#EXTINF:-1 tvg-id="SundomTV.fi" tvg-name="Sundom TV Ⓨ" tvg-logo="https://i.imgur.com/WgwR7nJ.png" group-title="其他",Sundom TV Ⓨ
+https://www.youtube.com/@SundomTV/live
+#EXTINF:-1 tvg-id="SuperSix.it" tvg-name="Super Six" tvg-logo="https://i.imgur.com/kHSuyub.png" group-title="其他",Super Six
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperSix.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/SuperSix_TV_Logo.png" group-title="其他",SuperSix Lombardia (720p)
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66a1acc577649467da169f0c" tvg-name="Sweet Escapes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9dd98df-f895-4fbd-94c6-ca6496426043/SweetEscapes_Logo_Dark_1500x1000.png" group-title="其他",Sweet Escapes
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a1acc577649467da169f0c/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="SzlagierTV.pl@SD" tvg-logo="https://i.imgur.com/VQk19Ng.png" group-title="其他",Szlagier TV
+http://78.130.250.2:8023/play/a03t/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62ab5aabbb869dd0df6a3487" tvg-name="TED" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acb498f4-49a7-4221-b2a7-646302b670d7/ted.png" group-title="其他",TED
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ab5aabbb869dd0df6a3487/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="TFX.fr@SD" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="其他",TFX (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+#EXTINF:-1 tvg-name="TLT Molise" tvg-logo="https://i.imgur.com/wgwD7gh.png" group-title="其他",TLT Molise
+https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
+#EXTINF:-1 tvg-id="TLTMolise.it@SD" tvg-logo="https://i.imgur.com/4G8fqtn.png" group-title="其他",TLT Molise (1080p)
+https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63e2ca44203bafbef831a152" tvg-name="TMZ" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ef7959ed-fb76-43fb-b96f-6e06110a25a0/thetmzchannel_logo_darkbackgrounds.png" group-title="其他",TMZ
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63e2ca44203bafbef831a152/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-name="TN Live" tvg-logo="https://i.imgur.com/9P7ZyFu.png" group-title="其他",TN Live
+https://sktv.plainrock127.xyz/get.php?x=NovaTNLive
+#EXTINF:-1 tvg-id="TodoNoticias.ar" tvg-name="TN Todo Noticias Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/200px-TN_todo_noticias_logo.svg.png" group-title="其他",TN Todo Noticias Ⓨ
+https://www.youtube.com/c/todonoticias/live
+#EXTINF:-1 tvg-id="TOPBarca.pl@SD" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg" group-title="其他",TOP Barca (1080p)
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-name="TRL Tele Radio Leo" tvg-logo="https://i.imgur.com/qAagkJT.png" group-title="其他",TRL Tele Radio Leo
+https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
+#EXTINF:-1 tvg-id="TRMh24.it" tvg-name="TRM h24 Ⓨ" tvg-logo="https://i.imgur.com/d47CdYU.png" group-title="其他",TRM h24 Ⓨ
+https://www.youtube.com/user/trmh24/live
+#EXTINF:-1 tvg-id="TVCampane1.it@SD" tvg-logo="https://i.imgur.com/GsdVpll.png" group-title="其他",TV Campane 1 (720p)
+https://eu1.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1 tvg-id="TVMainfranken.de@SD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png" group-title="其他",TV Mainfranken (1080p) [Not 24/7]
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPrato.it@SD" tvg-logo="https://i.imgur.com/72mAJtf.png" group-title="其他",TV Prato (1080p)
+https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8
+#EXTINF:-1 tvg-id="TVTorun.pl@SD" tvg-logo="https://i.imgur.com/ZJ0yDWI.png" group-title="其他",TV Toruń (1080p) [Not 24/7]
+http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVToya.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_TOYA_Nowe_Logo_od_2014.svg/960px-TV_TOYA_Nowe_Logo_od_2014.svg.png" group-title="其他",TV Toya (1080p)
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc130/toyatvraw/toyatvraw.m3u8
+#EXTINF:-1 tvg-id="TVTrwam.pl@SD" tvg-logo="https://i.imgur.com/yq10wS5.png" group-title="其他",TV Trwam (1080p)
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc117/tvrwamraw/tvrwamraw.mpd
+#EXTINF:-1 tvg-id="TVOstfold.no@SD" tvg-logo="https://i.ibb.co/HHxGQGD/TVO-kanalbanner-page-0002-1-removebg-preview-300x94.png" group-title="其他",TV Østfold (1080p)
+https://streamnorge.com:8088/hls/tvo.m3u8
+#EXTINF:-1 tvg-id="TV1.bg" tvg-name="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Tv1-new.png" group-title="其他",TV1
+https://tv1.cloudcdn.bg/temp/livestream.m3u8
+#EXTINF:-1 tvg-id="TV38SudostNiedersachen.de@SD" tvg-logo="https://i.imgur.com/ob9JJPU.png" group-title="其他",TV38 Südost-Niedersachen (1080p)
+https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="TV3CAT.es@Originals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/960px-TV3CAT.svg.png" group-title="其他",TV3CAT Originals (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
+#EXTINF:-1 tvg-id="TV3CAT.es" tvg-name="TV3Cat Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="其他",TV3Cat Ⓖ
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
+#EXTINF:-1 tvg-id="TV3V.fr@SD" tvg-logo="https://i.ibb.co/X2yd0zL/logo-tv3v.jpg" group-title="其他",TV3V (720p)
+https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
+#EXTINF:-1 tvg-id="TV5.fi" tvg-name="TV5 Finland" tvg-logo="https://i.imgur.com/MoukyGs.png" group-title="其他",TV5 Finland
+https://live-fi.tvkaista.net/tv5/live.m3u8?src=freetv
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@HD" tvg-logo="https://i.imgur.com/WmRbudc.png" group-title="其他",TV5Monde France Belgium Switzerland Monaco HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr@SD" tvg-logo="https://i.imgur.com/cwC7Q2V.png" group-title="其他",TV5Monde Style (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 tvg-id="TV7Benevento.it@SD" tvg-logo="https://i.imgur.com/VBhVaKB.png" group-title="其他",TV7 Benevento (288p) [Not 24/7]
+http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="TV7 Békéscsaba" tvg-logo="https://i.imgur.com/G9Ib5K3.png" group-title="其他",TV7 Békéscsaba
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1 tvg-id="TV7Colmar.fr@SD" tvg-logo="https://i.imgur.com/kSdGi43.png" group-title="其他",TV7 Colmar (576p)
+https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV9Bharatvarsh.in" tvg-name="TV9 Bharatvarsh Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/TV9_Bharatvarsh.svg/500px-TV9_Bharatvarsh.svg.png" group-title="其他",TV9 Bharatvarsh Ⓨ
+https://www.youtube.com/watch?v=nSpwwcHVp80
+#EXTINF:-1 tvg-id="TVA.ua" tvg-name="TVA" tvg-logo="https://i.imgur.com/PtTQ5lv.png" group-title="其他",TVA
+https://hls.cdn.ua/tva.ua_live/livestream/chunklist_.m3u8
+#EXTINF:-1 tvg-id="TVA.de@SD" tvg-logo="https://i.imgur.com/Gg6d4Jb.png" group-title="其他",TVA (1080p) [Not 24/7]
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAVicenza.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/TVA_Vicenza_-_Logo_2018.svg/512px-TVA_Vicenza_-_Logo_2018.svg.png" group-title="其他",TVA (Vicenza) (720p)
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVC.pl@SD" tvg-logo="https://i.imgur.com/1Wmib2f.png" group-title="其他",TVC (1080p)
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc118/tvchdraw/tvchdraw.m3u8
+#EXTINF:-1 tvg-id="TVCSuper.pl@SD" tvg-logo="https://radiopolska.pl/files/thumb/32049b3594ccdd5/300" group-title="其他",TVC Super
+http://78.130.250.2:8023/play/a03w/index.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="其他",TVE Internacional America (1080p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+#EXTINF:-1 tvg-id="TVEStar.es@SD" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="其他",TVE Star (576p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
+#EXTINF:-1 tvg-id="TVEStar.es@HD" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="其他",TVE Star HD (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt@SD" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="其他",TVI Ficção (720p)
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIReality.pt@SD" tvg-logo="https://i.imgur.com/C9rxqA5.png" group-title="其他",TVI Reality (720p) [Not 24/7]
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMarineret.dk@SD" tvg-logo="https://i.imgur.com/r1Caske.jpg" group-title="其他",TVMarineret (1080p)
+http://sdream.info:8080/hls/livestream/index.m3u8
+#EXTINF:-1 tvg-id="TVOJesus.es@SD" tvg-logo="https://tvomix.com/Logos/Tvojesus.png" group-title="其他",TVO Jesus (720p)
+https://cloud.tvomix.com/TVOJESUS/index.m3u8
+#EXTINF:-1 tvg-id="TVOMIX.es@HD" tvg-logo="https://ugc.production.linktr.ee/7ef61237-c46d-456b-afe3-a42ef49a979e_Mejorado2.png" group-title="其他",TVOMIX (1080p)
+https://cloud.tvomix.com/TVOMIX/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Lodz.pl@SD" tvg-logo="https://i.imgur.com/r5wxdkB.jpg" group-title="其他",TVP 3 Lodz (1080p)
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc030/tvp3warszawaraw/tvp3warszawaraw.m3u8
+#EXTINF:-1 tvg-id="TVPInfo.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVP_info_%282024%29.png" group-title="其他",TVP Info (1080p)
+http://78.130.250.2:8023/play/a03b/index.m3u8
+#EXTINF:-1 tvg-id="TVPPolonia.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/960px-TVP_Polonia_Logo_2020.svg.png" group-title="其他",TVP Polonia (1080p)
+https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8
+#EXTINF:-1 tvg-id="TVP1.pl@SD" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="其他",TVP1 (1080p)
+https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+#EXTINF:-1 tvg-id="TVP2.pl@SD" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="其他",TVP2 (1080p)
+https://estreams.tv.nej.cz/dash/CH_TVP2_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-id="TVReus.es@SD" tvg-logo="https://i.imgur.com/Ee0C8UH.jpg" group-title="其他",TVReus (720p) [Not 24/7]
+https://eu1.servers10.com:8081/8166/index.m3u8
+#EXTINF:-1 tvg-id="TVS.pl@SD" tvg-logo="https://i.imgur.com/RHwlp35.png" group-title="其他",TVS (1080p)
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc018/tvsraw/tvsraw.m3u8
+#EXTINF:-1 tvg-id="TVT.pl@SD" tvg-logo="https://i.imgur.com/oZyeUzG.png" group-title="其他",TVT (1080p)
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc117/tvtraw/tvtraw.m3u8
+#EXTINF:-1 tvg-id="TVTZgorzelec.pl@SD" tvg-logo="https://i.imgur.com/zhzVpgf.jpg" group-title="其他",TVT Zgorzelec (576p) [Not 24/7]
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de@SD" tvg-logo="https://i.imgur.com/LH0Gctv.png" group-title="其他",Tagesschau 24 (720p)
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="Tagesschau24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/640px-Tagesschau24-2012.svg.png" group-title="其他",Tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="TaivasTV7.fi" tvg-name="Taivas TV7" tvg-logo="https://i.imgur.com/a4iNVXA.png" group-title="其他",Taivas TV7
+https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TaivasTV7.fi@SD" tvg-logo="https://i.imgur.com/JyJNiXy.png" group-title="其他",Taivas TV7 (720p)
+https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Eveo.fi" tvg-name="TapahtumaTV Eveo" tvg-logo="https://i.imgur.com/sR8nA8w.png" group-title="其他",TapahtumaTV Eveo
+https://live-fi.tvkaista.net/tapahtumatv-eveo/live.m3u8?src=freetv
+#EXTINF:-1 tvg-id="Taroteame.es@SD" group-title="其他",Tarotéame (576p)
+https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
+#EXTINF:-1 tvg-id="TaurianovaTV.it@HD" tvg-logo="https://www.taurianovatv.it/wp-content/uploads/2024/04/cropped-FotoJet-2-HD15.jpg" group-title="其他",Taurianova TV (720p)
+https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tcf Tv" tvg-logo="https://i.imgur.com/fiylFs2.jpg" group-title="其他",Tcf Tv
+https://stream10.xdevel.com/video1s977294-1864/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6874409e46d1d8d8348e6b7e" tvg-name="Teen Wolf by MGM" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0f4395c4-94b6-48e0-8c24-2a61850211d2/TeenWolf_logo_Attribution_-_Carl_HoffelderRdx.png" group-title="其他",Teen Wolf by MGM
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6874409e46d1d8d8348e6b7e/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="TeleAbruzzo.it@SD" tvg-logo="https://i.imgur.com/XymK2PR.png" group-title="其他",Tele Abruzzo (384p)
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Abruzzo Tv" tvg-logo="https://i.imgur.com/koB8J4b.jpg" group-title="其他",Tele Abruzzo Tv
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Acras" tvg-logo="https://i.imgur.com/90Lsv8q.png" group-title="其他",Tele Acras
+https://5db313b643fd8.streamlock.net/teleacras/teleacras/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Bari" tvg-logo="https://i.imgur.com/HYSz4rx.png" group-title="其他",Tele Bari
+https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Boario" tvg-logo="https://i.imgur.com/LlLD3L6.png" group-title="其他",Tele Boario
+https://stream7.xdevel.com/video0s976425-1244/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Tele Bruzzano" tvg-logo="https://i.imgur.com/7TWbCDt.jpg" group-title="其他",Tele Bruzzano
+https://playerssl.telemia.tv/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8
+#EXTINF:-1 tvg-name="Tele Chiara" tvg-logo="https://i.imgur.com/Q5XpnXR.png" group-title="其他",Tele Chiara
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleElx.es@SD" tvg-logo="https://i.imgur.com/w5NTWpl.png" group-title="其他",Tele Elx (1080p)
+https://tvdirecto.teleelx.es/stream/teleelx.m3u8
+#EXTINF:-1 tvg-name="Tele Foggia" tvg-logo="https://i.imgur.com/M7tqBu9.jpg" group-title="其他",Tele Foggia
+https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Ischia" tvg-logo="https://i.imgur.com/vihHVQn.jpg" group-title="其他",Tele Ischia
+https://rst.saiuzwebnetwork.it:8081/teleischia/index.m3u8
+#EXTINF:-1 tvg-name="Tele Jonio" tvg-logo="https://i.imgur.com/qJeDV8R.png" group-title="其他",Tele Jonio
+http://59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Liguria Sud" tvg-logo="https://i.imgur.com/BeLAYJ6.jpg" group-title="其他",Tele Liguria Sud
+https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleLiguriaSud.it@SD" tvg-logo="https://i.imgur.com/OxgSGUW.png" group-title="其他",Tele Liguria Sud (576p)
+https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Mantova" tvg-logo="https://i.imgur.com/bkSPcs4.png" group-title="其他",Tele Mantova
+https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Mia" tvg-logo="https://i.imgur.com/SdXpCwL.png" group-title="其他",Tele Mia
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
+#EXTINF:-1 tvg-name="Tele Mia Extra" tvg-logo="https://i.imgur.com/upzBG32.png" group-title="其他",Tele Mia Extra
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
+#EXTINF:-1 tvg-name="Tele Mistretta" tvg-logo="https://i.imgur.com/OJ3zUS0.png" group-title="其他",Tele Mistretta
+https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Molise" tvg-logo="https://i.imgur.com/u5VD0x9.png" group-title="其他",Tele Molise
+http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Nord Genova" tvg-logo="https://i.imgur.com/I6yegEK.png" group-title="其他",Tele Nord Genova
+https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele One" tvg-logo="https://i.imgur.com/9trB6mj.png" group-title="其他",Tele One
+https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleOne16.it@SD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele-one-16-it.png" group-title="其他",Tele One 16
+https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Piadena" tvg-logo="https://i.imgur.com/VqaPuQN.png" group-title="其他",Tele Piadena
+https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="TeleAmbiente" tvg-logo="https://i.imgur.com/jxZcQhU.png" group-title="其他",TeleAmbiente
+https://5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleArena.it@SD" tvg-logo="https://i.imgur.com/cTmsGJD.png" group-title="其他",TeleArena (480p)
+https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleMia.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png" group-title="其他",TeleMia (576p)
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
+#EXTINF:-1 tvg-id="TeleMistretta.it@SD" tvg-logo="https://i.imgur.com/BLhvyEi.png" group-title="其他",TeleMistretta (1080p)
+https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleChiara.it@SD" tvg-logo="https://i.imgur.com/LpXeY4v.png" group-title="其他",Telechiara (720p)
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+#EXTINF:-1 tvg-name="Telecity Lombardia" tvg-logo="https://i.imgur.com/ECvJ3ZD.jpeg" group-title="其他",Telecity Lombardia
+https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
+#EXTINF:-1 tvg-name="Telecity Piemonte" tvg-logo="https://i.imgur.com/CrlzHjv.jpeg" group-title="其他",Telecity Piemonte
+https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8
+#EXTINF:-1 tvg-name="Teleiblea" tvg-logo="https://i.imgur.com/n1THygZ.png" group-title="其他",Teleiblea
+https://5f22d76e220e1.streamlock.net/teleiblea/teleiblea/playlist.m3u8
+#EXTINF:-1 tvg-name="Teleleonessa" tvg-logo="https://i.imgur.com/jq3etlV.png" group-title="其他",Teleleonessa
+http://wms.shared.streamshow.it:1935/teleleonessa/teleleonessa/live.m3u8
+#EXTINF:-1 tvg-id="Telemantova.it@SD" tvg-logo="https://i.imgur.com/WYXiov6.png" group-title="其他",Telemantova (1080p)
+https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemolise.it@SD" tvg-logo="https://i.imgur.com/aTs88Es.png" group-title="其他",Telemolise (1080p)
+http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6478acb5c83f56da796f1670" tvg-name="Telemundo Acción" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f2bcd48e7f98134abe3ce52550a31bd7.png" group-title="其他",Telemundo Acción
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6478acb5c83f56da796f1670/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="Telenantes.fr@SD" tvg-logo="https://i.imgur.com/G1SCqNI.png" group-title="其他",Telenantes (180p)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telenantes.m3u8
+#EXTINF:-1 tvg-id="Telenova.it" tvg-name="Telenova" tvg-logo="https://i.imgur.com/x41IkJK.png" group-title="其他",Telenova
+https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenova.it@SD" tvg-logo="https://i.imgur.com/lo9OiWg.png" group-title="其他",Telenova (720p)
+https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-688cf47e324d7b6bc116198d" tvg-name="Teleonce America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/af7d82cf-f17f-40b5-b086-ed6a61c17d2e/logo_Teleonce_AmericaRDX_COLOR.png" group-title="其他",Teleonce America
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-688cf47e324d7b6bc116198d/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="TeleSUR.ve" tvg-name="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png" group-title="其他",Telesur
+https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/ve/telesur.m3u8
+#EXTINF:-1 tvg-id="Teletricolore.it@SD" tvg-logo="https://i.imgur.com/GajzIN6.png" group-title="其他",Teletricolore (480p) [Not 24/7]
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCanaria.es" tvg-name="Televisión Canaria Ⓨ" tvg-logo="https://i.imgur.com/68LNS8e.png" group-title="其他",Televisión Canaria Ⓨ
+https://www.youtube.com/user/TelevisionCanaria/live
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="Televisión Pública Ⓨ" tvg-logo="https://i.imgur.com/4hYYpiu.png" group-title="其他",Televisión Pública Ⓨ
+https://www.youtube.com/user/TVPublicaArgentina/live
+#EXTINF:-1 tvg-id="Televizija5.ba" tvg-name="Televizija 5" tvg-logo="https://i.imgur.com/znpvJys.png" group-title="其他",Televizija 5
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 tvg-id="ATAJ0500456A" tvg-name="Tempora" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500456A_20250107T021932SQUARE.png" group-title="其他",Tempora
+https://jmp2.uk/stvp-ATAJ0500456A
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-68e03664c63d8255360a2cd7" tvg-name="That Girl" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6b38aaa6-5232-47c9-b139-da66586aee88/ThatGirl_Logo_ColorRDX.png" group-title="其他",That Girl
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68e03664c63d8255360a2cd7/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-65282d2615c307b5dfda8bc4" tvg-name="The Black Effect" tvg-logo="https://provider-static.plex.tv/epg/cms/production/82ad066a-3748-4b64-8e20-d8f976d1c604/dark-mode_-_Brielle_Urssery.png" group-title="其他",The Black Effect
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65282d2615c307b5dfda8bc4/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141125" tvg-name="The Carol Burnett Show" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/carolburnett_logo_dark.png" group-title="其他",The Carol Burnett Show
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141125/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6720271c727d52d7a0e0b495" tvg-name="The Doctors" tvg-logo="https://provider-static.plex.tv/epg/cms/production/104e6194-484e-4e84-823d-9b1e7936361e/xDoctors_Plex_Channel_Logo_v01_John_LopezRDX.png" group-title="其他",The Doctors
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6720271c727d52d7a0e0b495/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-640205c68ecb41f2d89d5814" tvg-name="The Ed Sullivan Show" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0d7687fcfd8b218d2c4f0a9337b7a68f.png" group-title="其他",The Ed Sullivan Show
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-640205c68ecb41f2d89d5814/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b" tvg-name="The FBI Files" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7c8f08bd-78d1-45e6-a447-ad9c0142963d/FilmRise_FBIFilesThe_Logo_Color.png" group-title="其他",The FBI Files
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-698a78e0d77c25ac0d681bbb" tvg-name="The Great British Competition Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24555a3f-c2b7-45f2-9ff7-3e4c0e62662e/GBCC_Logo-White-PLEX-test2RDX.png" group-title="其他",The Great British Competition Channel
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-698a78e0d77c25ac0d681bbb/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62f11395586633e88e3a3274" tvg-name="The Spa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59eb2e05-e614-4880-a463-5cb254800db9/SPA.png" group-title="其他",The Spa
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f11395586633e88e3a3274/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-68e0371d8bbd79d66c631ab2" tvg-name="The Wiggles" tvg-logo="https://provider-static.plex.tv/epg/cms/production/38d8759c-fb94-4154-ba4d-8450e99662cd/FilmRiseLogo_WigglesClassic_Color_Logo.png" group-title="其他",The Wiggles
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-68e0371d8bbd79d66c631ab2/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66ad6b4fcb5d3b7fb5011c2f" tvg-name="The World Poker Tour" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b9255584-5d8d-4ccf-bd10-e7cf61170bb7/wpt_logo_ATTRIBUTION__1_.png" group-title="其他",The World Poker Tour
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ad6b4fcb5d3b7fb5011c2f/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="ThrakiNetTV.gr" tvg-name="Thraki Net TV" tvg-logo="https://i.imgur.com/DV0I0ed.png" group-title="其他",Thraki Net TV
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-666e236ace73ed6023b55a17" tvg-name="Todo Crimen" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1861c959-0e05-4dd7-83c2-91966163cc95/TODO_CRIMEN_white__1_.png" group-title="其他",Todo Crimen
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-666e236ace73ed6023b55a17/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d60b898490041b49359" tvg-name="Toon Goggles" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1a85f23b-2648-4636-af3d-1d69b3721200/toongoggles_logo_light_1500x1000.png" group-title="其他",Toon Goggles
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170d60b898490041b49359/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="AT260000326" tvg-name="Top Filme - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT260000326_20260324T035557SQUARE.png" group-title="其他",Top Filme - Rakuten TV
+https://jmp2.uk/stvp-AT260000326
+#EXTINF:-1 group-title="其他",Trace Brazuca alt (AT)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-brazuca-lg-at/playlist.m3u8
+#EXTINF:-1 group-title="其他",Trace Brazuca alt (MX)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-brazuca-lg-mx/playlist.m3u8
+#EXTINF:-1 group-title="其他",Trace Latina (MX)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-latina-lg-mx/playlist.m3u8
+#EXTINF:-1 tvg-id="CHBC800003LH" tvg-name="Trace Latina [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC800003LH_20250107T031536SQUARE.png" group-title="其他",Trace Latina [FR]
+https://jmp2.uk/stvp-CHBC800003LH
+#EXTINF:-1 group-title="其他",Trace Latina alt (AT)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-latina-lg-at/playlist.m3u8
+#EXTINF:-1 group-title="其他",Trace Latina alt (DE)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-latina-lg-de/playlist.m3u8
+#EXTINF:-1 group-title="其他",Trace Latina alt (IT)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-latina-lg-it/playlist.m3u8
+#EXTINF:-1 tvg-id="Trek.fr@HD" tvg-logo="https://i.imgur.com/TcF53W4.png" group-title="其他",Trek HD (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
+#EXTINF:-1 tvg-name="Tv 12" tvg-logo="https://i.imgur.com/oxv08pJ.png" group-title="其他",Tv 12
+https://59d7d6f47d7fc.streamlock.net/tv12/tv12/playlist.m3u8
+#EXTINF:-1 tvg-name="Tv Prato" tvg-logo="https://i.imgur.com/zDeVpZd.png" group-title="其他",Tv Prato
+https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/mono.m3u8
+#EXTINF:-1 tvg-name="Tva Vicenza" tvg-logo="https://i.imgur.com/FtFuPCC.png" group-title="其他",Tva Vicenza
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+#EXTINF:-1 tvg-id="utv.cz" tvg-name="UTV (Czech Republic)" tvg-logo="https://imgur.com/ulfeIwM.png" group-title="其他",UTV (Czech Republic)
+https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
+#EXTINF:-1 tvg-name="Uno4 Tv" tvg-logo="https://i.imgur.com/wfPPpBA.png" group-title="其他",Uno4 Tv
+https://cdn.uno4.it/index.m3u8
+#EXTINF:-1 tvg-id="VPlusTVI.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="其他",V+ TVI (720p)
+https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="VechtdalTV.nl@SD" tvg-logo="https://i.imgur.com/MhcKEwr.png" group-title="其他",Vechtdal TV (480p)
+https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VisualRadio.it@SD" tvg-logo="https://i.imgur.com/ah14ah0.png" group-title="其他",Visual Radio (576p) [Not 24/7]
+http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
+#EXTINF:-1 tvg-id="W9.fr@SD" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="其他",W9 (720p) [Geo-blocked] [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Aachen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/960px-WDR_Fernsehen_Logo_2018.svg.png" group-title="其他",WDR Fernsehen Aachen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Bielefeld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/960px-WDR_Fernsehen_Logo_2018.svg.png" group-title="其他",WDR Fernsehen Bielefeld (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/640px-Wdr_fernsehen_logo_2016.svg.png" group-title="其他",WDR Ⓖ
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1 tvg-name="WLTV" tvg-logo="https://i.imgur.com/aL8jKtU.png" group-title="其他",WLTV
+https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
+#EXTINF:-1 tvg-id="WOS.nl@SD" tvg-logo="https://i.imgur.com/L7MUBIo.png" group-title="其他",WOS TV (1080p)
+https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff266d71dcb00449ec030" tvg-name="WeatherSpy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b058b7e-f61e-4257-ae0c-894dd648565f/jukin_weatherspy_2_white.png" group-title="其他",WeatherSpy
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff266d71dcb00449ec030/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
+#EXTINF:-1 tvg-id="AT2200004OF" tvg-name="Welt Television" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2200004OF_20260324T040421SQUARE.png" group-title="其他",Welt Television
+https://jmp2.uk/stvp-AT2200004OF
+#EXTINF:-1 group-title="其他",Xite Hits alt (UK)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/xiteAAAAA-xite-hitsuk-lg/playlist.m3u8
+#EXTINF:-1 group-title="其他",Xite alt (DE)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/xiteAAAAA-xite-lg-de/playlist.m3u8
+#EXTINF:-1 tvg-id="YleTV1.fi@SD" tvg-logo="https://i.imgur.com/6yXZwUL.png" group-title="其他",YLE TV 1 (1080p) [Not 24/7]
+https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
+#EXTINF:-1 group-title="其他",Young Hollywood (AU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-yunghollywd-lgau/playlist.m3u8
+#EXTINF:-1 tvg-name="Zerouno Tv Music" tvg-logo="https://i.imgur.com/r74lqW8.png" group-title="其他",Zerouno Tv Music
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="EmotionL.fr@SD" tvg-logo="https://i.imgur.com/MP34aaj.png" group-title="其他",Zylo Emotion' L (1080p)
+https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="emsTVLingen.de@SD" tvg-logo="https://i.imgur.com/Yo1GMku.png" group-title="其他",ems TV Lingen (720p)
+https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="franceinfo: Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/640px-Franceinfo.svg.png" group-title="其他",franceinfo: Ⓨ
+https://www.youtube.com/c/franceinfo/live
+#EXTINF:-1 tvg-id="iciElsass.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/69/Ici_Elsass.svg" group-title="其他",ici Elsass (180p)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/icielsass.m3u8
+#EXTINF:-1 tvg-id="phoenix.de@HD" tvg-logo="https://i.imgur.com/T1532t9.png" group-title="其他",phoenix (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-dash/phoenixhd.mpd
+#EXTINF:-1 tvg-id="teltOwkanal.de@SD" tvg-logo="https://i.imgur.com/G0cImlU.png" group-title="其他",teltOwkanal (1080p)
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoExpres.cz" tvg-name="Óčko Expres Ⓢ" tvg-logo="https://i.imgur.com/e731JNS.png" group-title="其他",Óčko Expres Ⓢ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoStar.cz" tvg-name="Óčko Star Ⓢ" tvg-logo="https://i.imgur.com/tGzQFWw.png" group-title="其他",Óčko Star Ⓢ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1 tvg-id="Ocko.cz" tvg-name="Óčko Ⓢ" tvg-logo="https://i.imgur.com/iPmpsnN.png" group-title="其他",Óčko Ⓢ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:-1 tvg-id="Arkhyz24.ru" tvg-name="Архыз 24" tvg-logo="https://i.imgur.com/mve0sSS.png" group-title="其他",Архыз 24
+https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="Astrakhan24.ru" tvg-name="Астрахан 24" tvg-logo="https://i.imgur.com/9WcnjQN.png" group-title="其他",Астрахан 24
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+#EXTINF:-1 tvg-id="Belgorod24.ru" tvg-name="Белгород 24" tvg-logo="https://i.imgur.com/EEirvyx.png" group-title="其他",Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1 tvg-id="Vetta24.ru" tvg-name="Ветта 24" tvg-logo="https://i.imgur.com/zKH1b5k.png" group-title="其他",Ветта 24
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 tvg-id="Volgograd24.ru" tvg-name="Волгоград 24 Ⓢ" tvg-logo="https://i.imgur.com/gFMnaU5.png" group-title="其他",Волгоград 24 Ⓢ
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="DniproTV.ua" tvg-name="Дніпро TV" tvg-logo="https://i.imgur.com/mbPTVh1.png" group-title="其他",Дніпро TV
+http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MirBelogorya.ru" tvg-name="Мир Белогорья" tvg-logo="https://i.imgur.com/CCNAg7R.png" group-title="其他",Мир Белогорья
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 tvg-id="Sever.ru" tvg-name="Север" tvg-logo="https://i.imgur.com/sTOQLYl.png" group-title="其他",Север
+https://live.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1 tvg-name="Смотрим: Честный Детектив" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/r/444/241/8.png" group-title="其他",Смотрим: Честный Детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SuspilneChernihiv.ua" tvg-name="Суспільне Чернігів" tvg-logo="https://i.imgur.com/WBChVXj.png" group-title="其他",Суспільне Чернігів
+http://cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4791/stream.m3u8
+#EXTINF:-1 tvg-id="东丰" tvg-name="东丰" tvg-logo="https://tb.zbds.top/logo/东丰.png" group-title="其他",东丰
+http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="其他",东辽综合
+http://stream5.jlntv.cn/dl/sd/live.m3u8
+#EXTINF:-1 group-title="其他",临洮综合频道
+https://play.kankanlive.com/live/1638428318510977.m3u8
+#EXTINF:-1 group-title="其他",临潭综合频道
+http://pili-live-hls.hfmt.net/gntv/lttv.m3u8
+#EXTINF:-1 tvg-id="丽江古城万古楼遥望玉龙雪山" tvg-name="丽江古城万古楼遥望玉龙雪山" tvg-logo="https://tb.zbds.top/logo/丽江古城万古楼遥望玉龙雪山.png" group-title="其他",丽江古城万古楼遥望玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
+#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Zhejiang8.png" group-title="其他",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="五彩池" tvg-name="五彩池" tvg-logo="https://tb.zbds.top/logo/五彩池.png" group-title="其他",五彩池
+https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+#EXTINF:-1 group-title="其他",余杭未来E频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+#EXTINF:-1 group-title="其他",余杭综合频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+#EXTINF:-1 tvg-id="倩女幽魂妖魔道" tvg-name="倩女幽魂妖魔道" tvg-logo="https://tb.zbds.top/logo/倩女幽魂妖魔道.png" group-title="其他",倩女幽魂妖魔道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+#EXTINF:-1 tvg-id="八里沟风景区天界山玻璃栈道" tvg-name="八里沟风景区天界山玻璃栈道" tvg-logo="https://tb.zbds.top/logo/八里沟风景区天界山玻璃栈道.png" group-title="其他",八里沟风景区天界山玻璃栈道
+https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
+#EXTINF:-1 tvg-id="兵团五师双河影" tvg-name="兵团五师双河影" tvg-logo="https://tb.zbds.top/logo/兵团五师双河影.png" group-title="其他",兵团五师双河影
+https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
+#EXTINF:-1 group-title="其他",卓尼综合频道
+http://pili-live-hls.hfmt.net/gntv/zntv.m3u8
+#EXTINF:-1 tvg-id="双辽" tvg-name="双辽" tvg-logo="https://tb.zbds.top/logo/双辽.png" group-title="其他",双辽
+http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="其他",古浪综合频道
+https://play.kankanlive.com/live/1619400940821967.m3u8
+#EXTINF:-1 group-title="其他",吉木萨尔综合
+http://218.31.201.189:9000/api/material/local/mnt/shiping1/prog_index.m3u8
+#EXTINF:-1 tvg-id="夏河" tvg-name="夏河" tvg-logo="https://tb.zbds.top/logo/夏河.png" group-title="其他",夏河
+http://pili-live-hls.hfmt.net/gntv/xhtv.m3u8?zgand
+#EXTINF:-1 group-title="其他",夏河综合频道
+http://pili-live-hls.hfmt.net/gntv/xhtv.m3u8
+#EXTINF:-1 tvg-id="天涯石" tvg-name="天涯石" tvg-logo="https://tb.zbds.top/logo/天涯石.png" group-title="其他",天涯石
+https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
+#EXTINF:-1 group-title="其他",奎屯汉语综合
+http://218.84.12.186:8001/hls/main/playlist.m3u8
+#EXTINF:-1 tvg-id="安小闫说电影x" tvg-name="安小闫说电影x" tvg-logo="https://tb.zbds.top/logo/安小闫说电影x.png" group-title="其他",安小闫说电影x
+https://goodiptv.club/douyu/1842621
+#EXTINF:-1 group-title="其他",定西公共频道
+https://play.kankanlive.com/live/1645680054929933.m3u8
+#EXTINF:-1 tvg-id="小青放映社" tvg-name="小青放映社" tvg-logo="https://tb.zbds.top/logo/小青放映社.png" group-title="其他",小青放映社
+https://goodiptv.club/douyu/9314689
+#EXTINF:-1 group-title="其他",岷县综合频道
+http://play.kankanlive.com/live/1614311581479927.m3u8
+#EXTINF:-1 group-title="其他",平川综合频道
+https://play.kankanlive.com/live/1621842376245934.m3u8
+#EXTINF:-1 group-title="其他",广安公共频道
+http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
+#EXTINF:-1 group-title="其他",庆元综合频道
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+#EXTINF:-1 tvg-id="开心麻花经典小品" tvg-name="开心麻花经典小品" tvg-logo="https://tb.zbds.top/logo/开心麻花经典小品.png" group-title="其他",开心麻花经典小品
+https://goodiptv.club/douyu/10153463
+#EXTINF:-1 tvg-id="张掖七彩丹霞" tvg-name="张掖七彩丹霞" tvg-logo="https://tb.zbds.top/logo/张掖七彩丹霞.png" group-title="其他",张掖七彩丹霞
+https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+#EXTINF:-1 tvg-id="快看张不止" tvg-name="快看张不止" tvg-logo="https://tb.zbds.top/logo/快看张不止.png" group-title="其他",快看张不止
+https://goodiptv.club/douyu/8413226
+#EXTINF:-1 tvg-id="怠惰守夜" tvg-name="怠惰守夜" tvg-logo="https://tb.zbds.top/logo/怠惰守夜.png" group-title="其他",怠惰守夜
+https://goodiptv.club/douyu/8842108
+#EXTINF:-1 tvg-id="恒山悬空寺全景" tvg-name="恒山悬空寺全景" tvg-logo="https://tb.zbds.top/logo/恒山悬空寺全景.png" group-title="其他",恒山悬空寺全景
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
+#EXTINF:-1 tvg-id="普陀山" tvg-name="普陀山" tvg-logo="https://tb.zbds.top/logo/普陀山.png" group-title="其他",普陀山
+https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
+#EXTINF:-1 tvg-id="月牙泉" tvg-name="月牙泉" tvg-logo="https://tb.zbds.top/logo/月牙泉.png" group-title="其他",月牙泉
+https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
+#EXTINF:-1 tvg-id="望乡台" tvg-name="望乡台" tvg-logo="https://tb.zbds.top/logo/望乡台.png" group-title="其他",望乡台
+https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
+#EXTINF:-1 group-title="其他",江源综合频道
+http://stream10.jlntv.cn/jiangyuantv/sd/live.m3u8
+#EXTINF:-1 group-title="其他",沐川综合频道
+http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8
+#EXTINF:-1 tvg-id="泰山主峰" tvg-name="泰山主峰" tvg-logo="https://tb.zbds.top/logo/泰山主峰.png" group-title="其他",泰山主峰
+https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
+#EXTINF:-1 tvg-id="泰山十八盘" tvg-name="泰山十八盘" tvg-logo="https://tb.zbds.top/logo/泰山十八盘.png" group-title="其他",泰山十八盘
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
+#EXTINF:-1 tvg-id="泰山南天门" tvg-name="泰山南天门" tvg-logo="https://tb.zbds.top/logo/泰山南天门.png" group-title="其他",泰山南天门
+https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
+#EXTINF:-1 tvg-id="泰山大观峰" tvg-name="泰山大观峰" tvg-logo="https://tb.zbds.top/logo/泰山大观峰.png" group-title="其他",泰山大观峰
+https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
+#EXTINF:-1 tvg-id="狮子山鸟瞰丽江古城" tvg-name="狮子山鸟瞰丽江古城" tvg-logo="https://tb.zbds.top/logo/狮子山鸟瞰丽江古城.png" group-title="其他",狮子山鸟瞰丽江古城
+https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
+#EXTINF:-1 group-title="其他",甘南综合频道
+http://pili-live-hls.hfmt.net/gntv/gnhytv.m3u8
+#EXTINF:-1 tvg-id="碌曲" tvg-name="碌曲" tvg-logo="https://tb.zbds.top/logo/碌曲.png" group-title="其他",碌曲
+http://pili-live-hls.hfmt.net/gntv/lqtv.m3u8?zgand
+#EXTINF:-1 tvg-id="磐石" tvg-name="磐石" tvg-logo="https://tb.zbds.top/logo/磐石.png" group-title="其他",磐石
+http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="其他",秦安综合频道
+http://play.kankanlive.com/live/1620829433464975.m3u8
+#EXTINF:-1 group-title="其他",绍兴公共频道
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 tvg-name="莆田综合" tvg-logo="https://live.fanmingming.cn/tv/莆田综合.png" group-title="其他",莆田综合
+http://8.138.7.223/tv/fjtv1.php?id=pt1
+#EXTINF:-1 tvg-id="通化县" tvg-name="通化县" tvg-logo="https://tb.zbds.top/logo/通化县.png" group-title="其他",通化县
+http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="其他",遂昌综合频道
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+#EXTINF:-1 tvg-id="都江堰鱼嘴" tvg-name="都江堰鱼嘴" tvg-logo="https://tb.zbds.top/logo/都江堰鱼嘴.png" group-title="其他",都江堰鱼嘴
+https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+#EXTINF:-1 group-title="其他",陇西综合频道
+http://play.kankanlive.com/live/1641010321462941.m3u8
+#EXTINF:-1 tvg-id="雪乡大石碑" tvg-name="雪乡大石碑" tvg-logo="https://tb.zbds.top/logo/雪乡大石碑.png" group-title="其他",雪乡大石碑
+https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
+#EXTINF:-1 tvg-id="鸣沙山" tvg-name="鸣沙山" tvg-logo="https://tb.zbds.top/logo/鸣沙山.png" group-title="其他",鸣沙山
+https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
+#EXTINF:-1 tvg-id="黄果树六角亭瀑布" tvg-name="黄果树六角亭瀑布" tvg-logo="https://tb.zbds.top/logo/黄果树六角亭瀑布.png" group-title="其他",黄果树六角亭瀑布
+https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
+#EXTINF:-1 tvg-id="龙井" tvg-name="龙井" tvg-logo="https://tb.zbds.top/logo/龙井.png" group-title="其他",龙井
+http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
