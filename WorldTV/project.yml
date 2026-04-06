@@ -1,0 +1,52 @@
+name: WorldTV
+options:
+  bundleIdPrefix: com.worldtv
+  deploymentTarget:
+    tvOS: "17.0"
+  xcodeVersion: "16.2"
+
+settings:
+  base:
+    SWIFT_VERSION: "5.9"
+    DEVELOPMENT_TEAM: "A69262QKPZ"
+
+targets:
+  WorldTV:
+    type: application
+    platform: tvOS
+    sources:
+      - path: WorldTV
+        excludes:
+          - "**/.DS_Store"
+      - path: Models/WhisperTiny/openai_whisper-tiny.en
+        type: folder
+        buildPhase: resources
+    settings:
+      base:
+        INFOPLIST_GENERATION_MODE: GeneratedFile
+        PRODUCT_BUNDLE_IDENTIFIER: com.worldtv.app
+        MARKETING_VERSION: "1.0.0"
+        CURRENT_PROJECT_VERSION: 1
+        GENERATE_INFOPLIST_FILE: YES
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        INFOPLIST_KEY_UIUserInterfaceStyle: Dark
+        ASSETCATALOG_COMPILER_APPICON_NAME: "App Icon"
+        SWIFT_EMIT_LOC_STRINGS: YES
+        ENABLE_PREVIEWS: YES
+
+  WorldTVTests:
+    type: bundle.unit-test
+    platform: tvOS
+    sources:
+      - path: WorldTVTests
+        excludes:
+          - "TestResources/**"
+      - path: WorldTVTests/TestResources
+        type: folder
+        buildPhase: resources
+    dependencies:
+      - target: WorldTV
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.worldtv.app.tests
+        GENERATE_INFOPLIST_FILE: YES

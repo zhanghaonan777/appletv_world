@@ -1,0 +1,624 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AA0000000000000000000004 /* LlamaSwift in Frameworks */ = {isa = PBXBuildFile; productRef = AA0000000000000000000002 /* LlamaSwift */; };
+		AA0000000000000000000007 /* LlamaSwift in Frameworks */ = {isa = PBXBuildFile; productRef = AA0000000000000000000006 /* LlamaSwift */; };
+		0063BA15E14D782FEADC65CD /* ChannelListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD4E6F8D8CA23AFEBAC1373 /* ChannelListView.swift */; };
+		03B77E5311704DBD098A32D6 /* ChannelCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 163BE6CB6B2A86F1BA7AD569 /* ChannelCardView.swift */; };
+		0CFAAF8325479D1466F70D48 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025B979AAE6E717FE95AACCA /* ContentView.swift */; };
+		1A3265BAAAD280A5321051EC /* WhisperSpeechTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D9DBF938199FADFA7D4772F /* WhisperSpeechTests.swift */; };
+		27058B655420FCF612798348 /* PlaylistManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C6C11E350A2A4BD3C4BFD56 /* PlaylistManager.swift */; };
+		3BEC6367DA808958D2A2AA7A /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD50D90A07AFBE5822BE0791 /* ColorExtension.swift */; };
+		3E2EEB6E6D3A950B7B379D25 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A853E9F7C5BC1A7218A0CC7 /* SettingsView.swift */; };
+		516D31844807D1A23C2D0EA5 /* openai_whisper-tiny.en in Resources */ = {isa = PBXBuildFile; fileRef = EAE9B970040BCCF7B3D1E33F /* openai_whisper-tiny.en */; };
+		5901E1A941FCEC803F6A0B42 /* WorldTVTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70B2608F8A54070C5DA1A213 /* WorldTVTests.swift */; };
+		5E53D1851EAEBDD14A1F06FE /* TestResources in Resources */ = {isa = PBXBuildFile; fileRef = A1B0335274811D64233F7458 /* TestResources */; };
+		6262F70922295C4D8E1B1F27 /* WorldTVApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66AE995E736DFE727CFB25CF /* WorldTVApp.swift */; };
+		734D421A5214CA7E6731C656 /* TranslationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3AA98B4607822C32350C93D /* TranslationTests.swift */; };
+		887A266ED57E27B93FB864D8 /* AudioExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5EA9BCDD92ECCD81F51E31D /* AudioExtractor.swift */; };
+		9372705DB469F2F50DC19F99 /* TranslationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68962F39F1A6E1D6783EBDDA /* TranslationService.swift */; };
+		AC5E10441C3496D7D0CF0A53 /* PlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B03419F9F8C643119919086 /* PlayerView.swift */; };
+		AFE4EAB5FBD218664B0CF7E0 /* WhisperPipelineTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2140498430ADCDC76A3721C1 /* WhisperPipelineTests.swift */; };
+		B113ED336CF6E9FC835AF2B4 /* M3UParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = F609E4BC8D17646040287F19 /* M3UParser.swift */; };
+		BE5E150231E81860EC06D7F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 194F6E0E425D5EA972190660 /* Assets.xcassets */; };
+		BFCD997990D05499C05EED76 /* SubtitleEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D9208D36FF35AA2B052FD0 /* SubtitleEngine.swift */; };
+		C3C7CA30FE4A030C84C7CC53 /* Channel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C34681475552D399F7ECF1 /* Channel.swift */; };
+		D5478595226B086A914AB90F /* WhisperService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1426EF3DA0625ADF7DA13547 /* WhisperService.swift */; };
+		EC88B7259350300209FF6142 /* WhisperDiagnostic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28CC3B284C2074DE658108C2 /* WhisperDiagnostic.swift */; };
+		F904D7633FB4D09ABDB6D0A5 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677B03D09877CF24FE0D1245 /* Theme.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A430DC778E7FD7A160213E9C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 35A6A39A376BAB9ED5481A03 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 13EB7BF5926E10408FF9D29D;
+			remoteInfo = WorldTV;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		025B979AAE6E717FE95AACCA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		1426EF3DA0625ADF7DA13547 /* WhisperService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhisperService.swift; sourceTree = "<group>"; };
+		163BE6CB6B2A86F1BA7AD569 /* ChannelCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelCardView.swift; sourceTree = "<group>"; };
+		194F6E0E425D5EA972190660 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		2140498430ADCDC76A3721C1 /* WhisperPipelineTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhisperPipelineTests.swift; sourceTree = "<group>"; };
+		28CC3B284C2074DE658108C2 /* WhisperDiagnostic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhisperDiagnostic.swift; sourceTree = "<group>"; };
+		2DD4E6F8D8CA23AFEBAC1373 /* ChannelListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelListView.swift; sourceTree = "<group>"; };
+		2FC983A80DA60579E7192BB8 /* WorldTVTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = WorldTVTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4D9DBF938199FADFA7D4772F /* WhisperSpeechTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhisperSpeechTests.swift; sourceTree = "<group>"; };
+		66138FED946D74EFBE78024F /* WorldTV.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = WorldTV.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		66AE995E736DFE727CFB25CF /* WorldTVApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldTVApp.swift; sourceTree = "<group>"; };
+		677B03D09877CF24FE0D1245 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
+		68962F39F1A6E1D6783EBDDA /* TranslationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranslationService.swift; sourceTree = "<group>"; };
+		6C6C11E350A2A4BD3C4BFD56 /* PlaylistManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistManager.swift; sourceTree = "<group>"; };
+		70B2608F8A54070C5DA1A213 /* WorldTVTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldTVTests.swift; sourceTree = "<group>"; };
+		74C34681475552D399F7ECF1 /* Channel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Channel.swift; sourceTree = "<group>"; };
+		7A853E9F7C5BC1A7218A0CC7 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		8B03419F9F8C643119919086 /* PlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerView.swift; sourceTree = "<group>"; };
+		A1B0335274811D64233F7458 /* TestResources */ = {isa = PBXFileReference; lastKnownFileType = folder; name = TestResources; path = WorldTVTests/TestResources; sourceTree = SOURCE_ROOT; };
+		A3AA98B4607822C32350C93D /* TranslationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranslationTests.swift; sourceTree = "<group>"; };
+		D9D9208D36FF35AA2B052FD0 /* SubtitleEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtitleEngine.swift; sourceTree = "<group>"; };
+		DD50D90A07AFBE5822BE0791 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
+		E5EA9BCDD92ECCD81F51E31D /* AudioExtractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioExtractor.swift; sourceTree = "<group>"; };
+		EAE9B970040BCCF7B3D1E33F /* openai_whisper-tiny.en */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "openai_whisper-tiny.en"; path = "Models/WhisperTiny/openai_whisper-tiny.en"; sourceTree = SOURCE_ROOT; };
+		F609E4BC8D17646040287F19 /* M3UParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = M3UParser.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		0E23E9AC4762400144C65284 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				66138FED946D74EFBE78024F /* WorldTV.app */,
+				2FC983A80DA60579E7192BB8 /* WorldTVTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		34F85B5BC6654C879176ECBA = {
+			isa = PBXGroup;
+			children = (
+				EAE9B970040BCCF7B3D1E33F /* openai_whisper-tiny.en */,
+				A1B0335274811D64233F7458 /* TestResources */,
+				F1129FCAD6022C93241E4B14 /* WorldTV */,
+				6963A4E3D89865D721B19833 /* WorldTVTests */,
+				0E23E9AC4762400144C65284 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4361A846AB30CCE1130792EA /* Player */ = {
+			isa = PBXGroup;
+			children = (
+				8B03419F9F8C643119919086 /* PlayerView.swift */,
+			);
+			path = Player;
+			sourceTree = "<group>";
+		};
+		4C692FE6324965BE7C020F3C /* ChannelList */ = {
+			isa = PBXGroup;
+			children = (
+				163BE6CB6B2A86F1BA7AD569 /* ChannelCardView.swift */,
+				2DD4E6F8D8CA23AFEBAC1373 /* ChannelListView.swift */,
+			);
+			path = ChannelList;
+			sourceTree = "<group>";
+		};
+		6963A4E3D89865D721B19833 /* WorldTVTests */ = {
+			isa = PBXGroup;
+			children = (
+				A3AA98B4607822C32350C93D /* TranslationTests.swift */,
+				2140498430ADCDC76A3721C1 /* WhisperPipelineTests.swift */,
+				4D9DBF938199FADFA7D4772F /* WhisperSpeechTests.swift */,
+				70B2608F8A54070C5DA1A213 /* WorldTVTests.swift */,
+			);
+			path = WorldTVTests;
+			sourceTree = "<group>";
+		};
+		A0F6E2A781BEB92005996560 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				DD50D90A07AFBE5822BE0791 /* ColorExtension.swift */,
+				677B03D09877CF24FE0D1245 /* Theme.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		AD8982F68B01CE181AA8687A /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				E5EA9BCDD92ECCD81F51E31D /* AudioExtractor.swift */,
+				F609E4BC8D17646040287F19 /* M3UParser.swift */,
+				6C6C11E350A2A4BD3C4BFD56 /* PlaylistManager.swift */,
+				D9D9208D36FF35AA2B052FD0 /* SubtitleEngine.swift */,
+				68962F39F1A6E1D6783EBDDA /* TranslationService.swift */,
+				28CC3B284C2074DE658108C2 /* WhisperDiagnostic.swift */,
+				1426EF3DA0625ADF7DA13547 /* WhisperService.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		D4BB1966E521BD018A1C7C08 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				74C34681475552D399F7ECF1 /* Channel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		DC22247514E7C090366A85E8 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				7A853E9F7C5BC1A7218A0CC7 /* SettingsView.swift */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		F1129FCAD6022C93241E4B14 /* WorldTV */ = {
+			isa = PBXGroup;
+			children = (
+				194F6E0E425D5EA972190660 /* Assets.xcassets */,
+				025B979AAE6E717FE95AACCA /* ContentView.swift */,
+				66AE995E736DFE727CFB25CF /* WorldTVApp.swift */,
+				D4BB1966E521BD018A1C7C08 /* Models */,
+				AD8982F68B01CE181AA8687A /* Services */,
+				A0F6E2A781BEB92005996560 /* Utils */,
+				F326EC0DAB5C6DBE5DE21BCB /* Views */,
+			);
+			path = WorldTV;
+			sourceTree = "<group>";
+		};
+		F326EC0DAB5C6DBE5DE21BCB /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				4C692FE6324965BE7C020F3C /* ChannelList */,
+				4361A846AB30CCE1130792EA /* Player */,
+				DC22247514E7C090366A85E8 /* Settings */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		13EB7BF5926E10408FF9D29D /* WorldTV */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B8DA357041C6557269C4E825 /* Build configuration list for PBXNativeTarget "WorldTV" */;
+			buildPhases = (
+				0C7ADAC6400BD8999EBCF628 /* Sources */,
+				AA0000000000000000000003 /* Frameworks */,
+				4BE1CDEBDF6F6F06F3B47D31 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = WorldTV;
+			packageProductDependencies = (
+				AA0000000000000000000002 /* LlamaSwift */,
+			);
+			productName = WorldTV;
+			productReference = 66138FED946D74EFBE78024F /* WorldTV.app */;
+			productType = "com.apple.product-type.application";
+		};
+		824B91CB907FF75EEA73B505 /* WorldTVTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 65A67033C8F134193B1295D3 /* Build configuration list for PBXNativeTarget "WorldTVTests" */;
+			buildPhases = (
+				A3C4A3AD0F42A23C1CCF3F87 /* Sources */,
+				AA0000000000000000000005 /* Frameworks */,
+				FD866B9940573D2AAC1E3A4F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1F300FF3E87C7F3F089B165D /* PBXTargetDependency */,
+			);
+			name = WorldTVTests;
+			packageProductDependencies = (
+				AA0000000000000000000006 /* LlamaSwift */,
+			);
+			productName = WorldTVTests;
+			productReference = 2FC983A80DA60579E7192BB8 /* WorldTVTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		35A6A39A376BAB9ED5481A03 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					13EB7BF5926E10408FF9D29D = {
+						DevelopmentTeam = A69262QKPZ;
+					};
+					824B91CB907FF75EEA73B505 = {
+						DevelopmentTeam = A69262QKPZ;
+					};
+				};
+			};
+			buildConfigurationList = D608206A0FA558777D6F2913 /* Build configuration list for PBXProject "WorldTV" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = 34F85B5BC6654C879176ECBA;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 0E23E9AC4762400144C65284 /* Products */;
+			packageReferences = (
+				AA0000000000000000000001 /* XCRemoteSwiftPackageReference "llama.swift" */,
+			);
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				13EB7BF5926E10408FF9D29D /* WorldTV */,
+				824B91CB907FF75EEA73B505 /* WorldTVTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		AA0000000000000000000001 /* XCRemoteSwiftPackageReference "llama.swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/mattt/llama.swift";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		AA0000000000000000000002 /* LlamaSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = AA0000000000000000000001 /* XCRemoteSwiftPackageReference "llama.swift" */;
+			productName = LlamaSwift;
+		};
+		AA0000000000000000000006 /* LlamaSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = AA0000000000000000000001 /* XCRemoteSwiftPackageReference "llama.swift" */;
+			productName = LlamaSwift;
+		};
+/* End XCSwiftPackageProductDependency section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AA0000000000000000000003 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AA0000000000000000000004 /* LlamaSwift in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AA0000000000000000000005 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AA0000000000000000000007 /* LlamaSwift in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4BE1CDEBDF6F6F06F3B47D31 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BE5E150231E81860EC06D7F2 /* Assets.xcassets in Resources */,
+				516D31844807D1A23C2D0EA5 /* openai_whisper-tiny.en in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FD866B9940573D2AAC1E3A4F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5E53D1851EAEBDD14A1F06FE /* TestResources in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0C7ADAC6400BD8999EBCF628 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				887A266ED57E27B93FB864D8 /* AudioExtractor.swift in Sources */,
+				C3C7CA30FE4A030C84C7CC53 /* Channel.swift in Sources */,
+				03B77E5311704DBD098A32D6 /* ChannelCardView.swift in Sources */,
+				0063BA15E14D782FEADC65CD /* ChannelListView.swift in Sources */,
+				3BEC6367DA808958D2A2AA7A /* ColorExtension.swift in Sources */,
+				0CFAAF8325479D1466F70D48 /* ContentView.swift in Sources */,
+				B113ED336CF6E9FC835AF2B4 /* M3UParser.swift in Sources */,
+				AC5E10441C3496D7D0CF0A53 /* PlayerView.swift in Sources */,
+				27058B655420FCF612798348 /* PlaylistManager.swift in Sources */,
+				3E2EEB6E6D3A950B7B379D25 /* SettingsView.swift in Sources */,
+				BFCD997990D05499C05EED76 /* SubtitleEngine.swift in Sources */,
+				F904D7633FB4D09ABDB6D0A5 /* Theme.swift in Sources */,
+				9372705DB469F2F50DC19F99 /* TranslationService.swift in Sources */,
+				EC88B7259350300209FF6142 /* WhisperDiagnostic.swift in Sources */,
+				D5478595226B086A914AB90F /* WhisperService.swift in Sources */,
+				6262F70922295C4D8E1B1F27 /* WorldTVApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3C4A3AD0F42A23C1CCF3F87 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				734D421A5214CA7E6731C656 /* TranslationTests.swift in Sources */,
+				AFE4EAB5FBD218664B0CF7E0 /* WhisperPipelineTests.swift in Sources */,
+				1A3265BAAAD280A5321051EC /* WhisperSpeechTests.swift in Sources */,
+				5901E1A941FCEC803F6A0B42 /* WorldTVTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		1F300FF3E87C7F3F089B165D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 13EB7BF5926E10408FF9D29D /* WorldTV */;
+			targetProxy = A430DC778E7FD7A160213E9C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		013BF6E5C4CE0F8B4A517D9F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-framework",
+					llama,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.worldtv.app.tests;
+				SDKROOT = appletvos;
+				TARGETED_DEVICE_FAMILY = 3;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WorldTV.app/WorldTV";
+			};
+			name = Debug;
+		};
+		1662A03BF1D0EAE374E54E6F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_GENERATION_MODE = GeneratedFile;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Dark;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-framework",
+					llama,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.worldtv.app;
+				SDKROOT = appletvos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = 3;
+			};
+			name = Debug;
+		};
+		4490575745FC6AF67565F145 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.worldtv.app.tests;
+				SDKROOT = appletvos;
+				TARGETED_DEVICE_FAMILY = 3;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WorldTV.app/WorldTV";
+			};
+			name = Release;
+		};
+		749E83D2D6DFF36A70B3A52A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = A69262QKPZ;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = appletvos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.9;
+				TVOS_DEPLOYMENT_TARGET = 17.0;
+			};
+			name = Debug;
+		};
+		A9D5E3A36B6A77DB34737B5A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = A69262QKPZ;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = appletvos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.9;
+				TVOS_DEPLOYMENT_TARGET = 17.0;
+			};
+			name = Release;
+		};
+		D8E78FA6D831D03CBA84CD4A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_GENERATION_MODE = GeneratedFile;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Dark;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.worldtv.app;
+				SDKROOT = appletvos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = 3;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		65A67033C8F134193B1295D3 /* Build configuration list for PBXNativeTarget "WorldTVTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				013BF6E5C4CE0F8B4A517D9F /* Debug */,
+				4490575745FC6AF67565F145 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		B8DA357041C6557269C4E825 /* Build configuration list for PBXNativeTarget "WorldTV" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1662A03BF1D0EAE374E54E6F /* Debug */,
+				D8E78FA6D831D03CBA84CD4A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		D608206A0FA558777D6F2913 /* Build configuration list for PBXProject "WorldTV" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				749E83D2D6DFF36A70B3A52A /* Debug */,
+				A9D5E3A36B6A77DB34737B5A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 35A6A39A376BAB9ED5481A03 /* Project object */;
+}

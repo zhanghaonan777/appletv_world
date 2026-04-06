@@ -1,0 +1,26 @@
+# Models (too large for git)
+Models/Qwen35/*.gguf
+Models/Qwen35/tokenizer/
+Models/SMaLL100/*.mlpackage
+Models/SMaLL100/tokenizer/
+*.gguf
+*.mlpackage
+*.mlmodelc
+*.bin
+
+# Whisper model cache
+WorldTV/Models/WhisperTiny/.cache/
+
+# Xcode
+WorldTV/build/
+*.xcuserdata
+DerivedData/
+*.xcworkspace
+
+# Python
+__pycache__/
+*.pyc
+.cache/
+
+# OS
+.DS_Store
