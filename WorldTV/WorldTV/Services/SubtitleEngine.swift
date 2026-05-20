@@ -24,21 +24,24 @@ class SubtitleEngine: ObservableObject {
     @Published var isActive: Bool = false
     @Published var sourceLanguage: String = "en"
     @Published var targetLanguage: String = "zh"
+    @Published var pipelineStatus: String = "等待启动"
     @Published var displayMode: SubtitleDisplayMode = .both
 
     // MARK: - Private
 
     private var audioExtractor: AudioExtractor?
-    private var audioBufferQueue: [[Float]] = []
     private var processingTask: Task<Void, Never>?
     private var whisperService: WhisperService?
-    private var translationService: Any? // TranslationService (type-erased for availability)
+    private var translationService: TranslationService?
 
-    private let minSamplesForProcessing: Int = 32000 // ~2s at 16kHz
+    private let windowSize: Int = 48000  // 3 seconds sliding window at 16kHz
+    private var slidingBuffer: [Float] = []
+    private var lastProcessTime: Date = .distantPast
+    private var lastEmittedText: String = ""
 
     // MARK: - Public
 
-    func start(streamURL: URL) {
+    func start(player: AVPlayer) {
         stop()
         isActive = true
 
@@ -46,46 +49,49 @@ class SubtitleEngine: ObservableObject {
         self.audioExtractor = extractor
 
         processingTask = Task { [weak self] in
-            print("[SubtitleEngine] Task started")
+            guard let self else { return }
+            await MainActor.run { self.pipelineStatus = "加载 Whisper..." }
 
             // Load Whisper
-            if self?.whisperService == nil {
-                print("[SubtitleEngine] Loading Whisper...")
+            if self.whisperService == nil {
                 let service = WhisperService()
                 do {
                     try await service.loadModels()
-                    await MainActor.run { self?.whisperService = service }
-                    print("[SubtitleEngine] Whisper loaded OK")
+                    await MainActor.run {
+                        self.whisperService = service
+                        self.pipelineStatus = "Whisper OK"
+                    }
                 } catch {
-                    print("[SubtitleEngine] Whisper FAILED: \(error)")
+                    await MainActor.run {
+                        self.pipelineStatus = "Whisper 失败: \(error.localizedDescription)"
+                    }
+                    return
                 }
             }
 
-            // Load Translation
-            if self?.translationService == nil {
-                print("[SubtitleEngine] Loading Translation...")
+            // Load translation model in the background — transcription can run without it.
+            if self.translationService == nil {
                 let ts = TranslationService()
                 await ts.prepare()
-                await MainActor.run { self?.translationService = ts }
-                print("[SubtitleEngine] Translation loaded OK")
+                await MainActor.run { self.translationService = ts }
             }
 
-            print("[SubtitleEngine] Setting up audio callback...")
+            // Set up audio callback
             extractor.setAudioCallback { [weak self] buffer in
-                print("[SubtitleEngine] Got \(buffer.count) audio samples!")
                 Task { @MainActor [weak self] in
                     self?.enqueueAudio(buffer)
                 }
             }
+            extractor.start(player: player)
+            await MainActor.run { self.pipelineStatus = "等待音频..." }
 
-            print("[SubtitleEngine] Starting extractor for \(streamURL)")
-            extractor.start(url: streamURL)
-            print("[SubtitleEngine] Extractor started, entering monitor loop")
-
-            // Monitor extractor status
+            // Monitor extractor health
             while !Task.isCancelled {
-                try? await Task.sleep(nanoseconds: 3_000_000_000)
-                print("[SubtitleEngine] extractor status: \(extractor.lastError)")
+                try? await Task.sleep(nanoseconds: 5_000_000_000)
+                let err = extractor.lastError
+                if err.hasPrefix("无") || err.hasPrefix("Tap 创建失败") || err.hasPrefix("轨道") {
+                    await MainActor.run { self.pipelineStatus = err }
+                }
             }
         }
     }
@@ -95,63 +101,75 @@ class SubtitleEngine: ObservableObject {
         processingTask = nil
         audioExtractor?.stop()
         audioExtractor = nil
-        audioBufferQueue.removeAll()
+        slidingBuffer.removeAll()
+        lastEmittedText = ""
         isActive = false
         currentOriginalText = ""
         currentTranslatedText = ""
+        pipelineStatus = "等待启动"
     }
 
-    // MARK: - Audio Processing
+    // MARK: - Sliding Window Audio Processing
 
     private func enqueueAudio(_ buffer: [Float]) {
-        audioBufferQueue.append(buffer)
-
-        let totalSamples = audioBufferQueue.reduce(0) { $0 + $1.count }
-        if totalSamples >= minSamplesForProcessing {
-            let combined = audioBufferQueue.flatMap { $0 }
-            audioBufferQueue.removeAll()
-            processAudio(combined)
+        slidingBuffer.append(contentsOf: buffer)
+        if slidingBuffer.count > windowSize {
+            slidingBuffer.removeFirst(slidingBuffer.count - windowSize)
         }
-    }
 
-    private func processAudio(_ buffer: [Float]) {
+        let now = Date()
+        guard now.timeIntervalSince(lastProcessTime) >= 1.0 else { return }
+        guard slidingBuffer.count >= 16000 else { return }
         guard let whisper = whisperService else {
-            currentOriginalText = ""
-            currentTranslatedText = ""
+            pipelineStatus = "Whisper 未就绪"
             return
         }
 
+        lastProcessTime = now
+        let snapshot = Array(slidingBuffer)
+
         Task {
-            // 1. Transcribe
-            let text = await whisper.transcribe(audioSamples: buffer)
+            pipelineStatus = "识别中..."
+            let start = CFAbsoluteTimeGetCurrent()
+            let text = await whisper.transcribe(audioSamples: snapshot)
+            let elapsed = CFAbsoluteTimeGetCurrent() - start
+            let cleaned = Self.cleanTranscription(text)
 
-            // 2. Translate
-            var translated = ""
-            if !text.isEmpty, let ts = self.translationService as? TranslationService {
-                translated = await ts.translate(text) ?? ""
+            guard !cleaned.isEmpty else {
+                pipelineStatus = String(format: "静音 %.1fs", elapsed)
+                return
             }
+            // Skip if the sliding window produced the same text again.
+            guard cleaned != lastEmittedText else {
+                pipelineStatus = String(format: "✓ %.1fs", elapsed)
+                return
+            }
+            lastEmittedText = cleaned
 
-            // 3. Update UI
-            await MainActor.run { [weak self] in
-                // Filter out filler tokens like repeated "..."
-                let cleaned = Self.cleanTranscription(text)
-                self?.currentOriginalText = cleaned
-                self?.currentTranslatedText = translated
+            currentOriginalText = cleaned
+            pipelineStatus = String(format: "✓ %.1fs", elapsed)
+
+            // Translate async
+            if let ts = translationService {
+                Task {
+                    if let result = await ts.translate(cleaned), !result.isEmpty {
+                        await MainActor.run { [weak self] in
+                            guard self?.lastEmittedText == cleaned else { return }
+                            self?.currentTranslatedText = result
+                        }
+                    }
+                }
             }
         }
     }
 
     // MARK: - Text Cleaning
 
-    /// Remove Whisper filler patterns (repeated "...", single dots, etc.)
     private static func cleanTranscription(_ text: String) -> String {
         let trimmed = text.trimmingCharacters(in: .whitespacesAndNewlines)
-
-        // If it's all dots/periods/spaces, treat as silence
         let stripped = trimmed.replacingOccurrences(of: ".", with: "")
                               .replacingOccurrences(of: " ", with: "")
         if stripped.isEmpty { return "" }
-
         return trimmed
     }
 }

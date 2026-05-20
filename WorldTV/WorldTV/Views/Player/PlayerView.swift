@@ -75,7 +75,7 @@ struct SystemPlayerView: UIViewControllerRepresentable {
             let actions = SubtitleDisplayMode.allCases.map { mode in
                 UIAction(
                     title: mode.rawValue,
-                    state: currentMode == mode ? .on : .off
+                    image: currentMode == mode ? UIImage(systemName: "checkmark") : nil
                 ) { _ in
                     Task { @MainActor in
                         engine.displayMode = mode
@@ -83,7 +83,28 @@ struct SystemPlayerView: UIViewControllerRepresentable {
                 }
             }
 
-            let menu = UIMenu(title: "字幕", children: actions)
+            let menu = UIMenu(title: "AI 字幕", image: UIImage(systemName: "sparkles"), children: actions)
+
+            // Use customInfoViewControllers to add a visible button
+            let menuVC = UIViewController()
+            let button = UIButton(type: .system)
+            button.setTitle(" AI 字幕 ", for: .normal)
+            button.setImage(UIImage(systemName: "sparkles"), for: .normal)
+            button.tintColor = UIColor(red: 236/255, green: 72/255, blue: 153/255, alpha: 1) // Pink
+            button.titleLabel?.font = .boldSystemFont(ofSize: 16)
+            button.menu = menu
+            button.showsMenuAsPrimaryAction = true
+            button.translatesAutoresizingMaskIntoConstraints = false
+            menuVC.view.addSubview(button)
+            NSLayoutConstraint.activate([
+                button.centerXAnchor.constraint(equalTo: menuVC.view.centerXAnchor),
+                button.centerYAnchor.constraint(equalTo: menuVC.view.centerYAnchor),
+            ])
+            menuVC.preferredContentSize = CGSize(width: 160, height: 44)
+
+            vc.customInfoViewControllers = [menuVC]
+
+            // Also keep in transport bar
             vc.transportBarCustomMenuItems = [menu]
         }
     }
@@ -96,6 +117,23 @@ struct SubtitleOverlayView: View {
 
     var body: some View {
         VStack {
+            #if DEBUG
+            // Pipeline status indicator (debug builds only)
+            HStack(spacing: 8) {
+                Image(systemName: "sparkles")
+                    .foregroundColor(.pink)
+                Text(engine.pipelineStatus)
+                    .font(.system(size: 14, weight: .medium))
+                    .foregroundColor(.white)
+                    .lineLimit(1)
+            }
+            .padding(.horizontal, 16)
+            .padding(.vertical, 8)
+            .background(Color.pink.opacity(0.6))
+            .cornerRadius(20)
+            .padding(.top, 40)
+            #endif
+
             Spacer()
 
             if engine.displayMode != .off, hasText {
@@ -103,18 +141,21 @@ struct SubtitleOverlayView: View {
                     if showOriginal, !engine.currentOriginalText.isEmpty {
                         Text(engine.currentOriginalText)
                             .font(.system(size: 18))
-                            .foregroundColor(Theme.textSecondary)
+                            .foregroundColor(.white.opacity(0.85))
                     }
                     if showTranslation, !engine.currentTranslatedText.isEmpty {
                         Text(engine.currentTranslatedText)
                             .font(.system(size: 24, weight: .bold))
-                            .foregroundColor(Theme.textPrimary)
+                            .foregroundColor(.white)
                     }
                 }
                 .multilineTextAlignment(.center)
                 .padding(.horizontal, 28)
                 .padding(.vertical, 14)
-                .background(Color.black.opacity(0.7))
+                .background(
+                    Color(red: 236/255, green: 72/255, blue: 153/255)
+                        .opacity(0.55)
+                )
                 .cornerRadius(Theme.cornerRadius)
                 .padding(.bottom, 120)
             }
@@ -241,7 +282,7 @@ struct PlayerView: View {
         newPlayer.play()
 
         if subtitleEngine.displayMode != .off {
-            subtitleEngine.start(streamURL: url)
+            subtitleEngine.start(player: newPlayer)
         }
     }
 
@@ -254,13 +295,13 @@ struct PlayerView: View {
         currentChannelName = ch.name
         currentGroupTitle = ch.groupTitle
 
-        guard let url = URL(string: ch.streamURL) else { return }
-        player?.replaceCurrentItem(with: AVPlayerItem(url: url))
-        player?.play()
+        guard let url = URL(string: ch.streamURL), let player = player else { return }
+        player.replaceCurrentItem(with: AVPlayerItem(url: url))
+        player.play()
 
         subtitleEngine.stop()
         if subtitleEngine.displayMode != .off {
-            subtitleEngine.start(streamURL: url)
+            subtitleEngine.start(player: player)
         }
 
         showToast()
@@ -284,13 +325,10 @@ struct PlayerView: View {
     }
 
     private func handleDisplayModeChange(_ mode: SubtitleDisplayMode) {
-        guard let ch = currentIndex < allChannels.count ? allChannels[currentIndex] : channel,
-              let url = URL(string: ch.streamURL) else { return }
-
         if mode == .off {
             subtitleEngine.stop()
-        } else if !subtitleEngine.isActive {
-            subtitleEngine.start(streamURL: url)
+        } else if !subtitleEngine.isActive, let player = player {
+            subtitleEngine.start(player: player)
         }
     }
 }
