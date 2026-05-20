@@ -5,7 +5,7 @@ import SwiftData
 struct WorldTVApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()
         }
         .modelContainer(for: [Playlist.self, Channel.self])
     }

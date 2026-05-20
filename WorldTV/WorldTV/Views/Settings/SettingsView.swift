@@ -11,11 +11,7 @@ struct SettingsView: View {
     @State private var isRefreshing = false
     @State private var errorMessage: String?
 
-    // Subtitle settings state
-    @State private var realtimeSubtitlesEnabled = true
-    @State private var displayMode = 0 // 0: 仅翻译, 1: 原文+翻译, 2: 仅原文
-    @State private var subtitleSize = 1 // 0: Small, 1: Medium, 2: Large
-    @State private var backgroundOpacity = 1 // 0: 低, 1: 中, 2: 高
+    @AppStorage("aiSubtitlesEnabled") private var aiSubtitlesEnabled = false
 
     var body: some View {
         NavigationStack {
@@ -86,154 +82,24 @@ struct SettingsView: View {
                         }
                     }
 
-                    // Subtitle Settings
-                    settingsSection(title: "字幕与翻译", icon: "captions.bubble") {
-                        VStack(spacing: 12) {
-                            // Real-time subtitles toggle
-                            HStack {
-                                VStack(alignment: .leading, spacing: 4) {
-                                    Text("实时字幕")
-                                        .foregroundColor(Theme.textPrimary)
-                                    Text("自动识别并翻译字幕内容")
-                                        .font(.caption)
-                                        .foregroundColor(Theme.textSecondary)
-                                }
-                                Spacer()
-                                Toggle("", isOn: $realtimeSubtitlesEnabled)
-                                    .labelsHidden()
-                                    .tint(Theme.accent)
-                            }
-                            .padding()
-                            .background(Theme.card)
-                            .cornerRadius(Theme.cornerRadius)
-
-                            // Source language
-                            infoRow(label: "源语言", value: "自动检测")
-                            // Target language
-                            infoRow(label: "目标语言", value: "中文")
-
-                            // Display mode
-                            VStack(alignment: .leading, spacing: 8) {
-                                Text("显示模式")
+                    // AI subtitles (off by default — feature in development)
+                    settingsSection(title: "AI 字幕", icon: "captions.bubble") {
+                        HStack {
+                            VStack(alignment: .leading, spacing: 4) {
+                                Text("实时 AI 字幕")
+                                    .foregroundColor(Theme.textPrimary)
+                                Text("语音识别 + 翻译,功能开发中,默认关闭")
+                                    .font(.caption)
                                     .foregroundColor(Theme.textSecondary)
-                                    .padding(.horizontal)
-                                HStack(spacing: 8) {
-                                    ForEach(Array(["仅翻译", "原文+翻译", "仅原文"].enumerated()), id: \.offset) { index, title in
-                                        Button {
-                                            displayMode = index
-                                        } label: {
-                                            Text(title)
-                                                .font(.caption)
-                                                .foregroundColor(displayMode == index ? .white : Theme.textSecondary)
-                                                .padding(.horizontal, 16)
-                                                .padding(.vertical, 8)
-                                                .background(displayMode == index ? Theme.accent : Theme.card)
-                                                .cornerRadius(8)
-                                        }
-                                        .buttonStyle(.plain)
-                                    }
-                                }
-                                .padding(.horizontal)
                             }
-                            .padding(.vertical, 8)
-
-                            // Subtitle size
-                            VStack(alignment: .leading, spacing: 8) {
-                                Text("字幕大小")
-                                    .foregroundColor(Theme.textSecondary)
-                                    .padding(.horizontal)
-                                HStack(spacing: 8) {
-                                    ForEach(Array(["小", "中", "大"].enumerated()), id: \.offset) { index, title in
-                                        Button {
-                                            subtitleSize = index
-                                        } label: {
-                                            Text(title)
-                                                .font(.caption)
-                                                .foregroundColor(subtitleSize == index ? .white : Theme.textSecondary)
-                                                .padding(.horizontal, 16)
-                                                .padding(.vertical, 8)
-                                                .background(subtitleSize == index ? Theme.accent : Theme.card)
-                                                .cornerRadius(8)
-                                        }
-                                        .buttonStyle(.plain)
-                                    }
-                                }
-                                .padding(.horizontal)
-                            }
-                            .padding(.vertical, 8)
-
-                            // Background opacity
-                            VStack(alignment: .leading, spacing: 8) {
-                                Text("背景透明度")
-                                    .foregroundColor(Theme.textSecondary)
-                                    .padding(.horizontal)
-                                HStack(spacing: 8) {
-                                    ForEach(Array(["低", "中", "高"].enumerated()), id: \.offset) { index, title in
-                                        Button {
-                                            backgroundOpacity = index
-                                        } label: {
-                                            Text(title)
-                                                .font(.caption)
-                                                .foregroundColor(backgroundOpacity == index ? .white : Theme.textSecondary)
-                                                .padding(.horizontal, 16)
-                                                .padding(.vertical, 8)
-                                                .background(backgroundOpacity == index ? Theme.accent : Theme.card)
-                                                .cornerRadius(8)
-                                        }
-                                        .buttonStyle(.plain)
-                                    }
-                                }
-                                .padding(.horizontal)
-                            }
-                            .padding(.vertical, 8)
+                            Spacer()
+                            Toggle("", isOn: $aiSubtitlesEnabled)
+                                .labelsHidden()
+                                .tint(Theme.accent)
                         }
-                    }
-
-                    // Translation Model
-                    settingsSection(title: "翻译模型", icon: "globe") {
-                        VStack(spacing: 12) {
-                            infoRow(label: "模型", value: "SMaLL-100")
-                            infoRow(label: "模型大小", value: "300MB")
-                            infoRow(label: "支持语言", value: "100种语言")
-                            // Status with green indicator
-                            HStack {
-                                Text("状态")
-                                    .foregroundColor(Theme.textSecondary)
-                                Spacer()
-                                HStack(spacing: 8) {
-                                    Circle()
-                                        .fill(Color.green)
-                                        .frame(width: 8, height: 8)
-                                    Text("已加载")
-                                        .foregroundColor(.green)
-                                }
-                            }
-                            .padding(.horizontal)
-                            .padding(.vertical, 8)
-
-                            // Progress bar showing loaded status
-                            GeometryReader { geometry in
-                                ZStack(alignment: .leading) {
-                                    RoundedRectangle(cornerRadius: 4)
-                                        .fill(Theme.card)
-                                        .frame(height: 8)
-                                    RoundedRectangle(cornerRadius: 4)
-                                        .fill(Color.green)
-                                        .frame(width: geometry.size.width, height: 8)
-                                }
-                            }
-                            .frame(height: 8)
-                            .padding(.horizontal)
-                        }
-                    }
-
-                    // AI Features
-                    settingsSection(title: "AI 功能", icon: "brain") {
-                        VStack(spacing: 12) {
-                            aiFeatureRow(title: "语音助手", icon: "lock.fill")
-                            aiFeatureRow(title: "智能推荐", icon: "lock.fill")
-                            aiFeatureRow(title: "内容总结", icon: "lock.fill")
-                        }
+                        .padding()
+                        .background(Theme.card)
+                        .cornerRadius(Theme.cornerRadius)
                     }
 
                     // About
@@ -346,24 +212,6 @@ struct SettingsView: View {
             RoundedRectangle(cornerRadius: Theme.cornerRadius)
                 .stroke(Theme.border.opacity(0.3), lineWidth: 1)
         )
-    }
-
-    private func aiFeatureRow(title: String, icon: String) -> some View {
-        HStack {
-            VStack(alignment: .leading, spacing: 4) {
-                Text(title)
-                    .foregroundColor(Theme.textSecondary.opacity(0.5))
-                Text("即将推出")
-                    .font(.caption)
-                    .foregroundColor(Theme.accent)
-            }
-            Spacer()
-            Image(systemName: icon)
-                .foregroundColor(Theme.textSecondary.opacity(0.3))
-        }
-        .padding()
-        .background(Theme.card.opacity(0.5))
-        .cornerRadius(Theme.cornerRadius)
     }
 
     private func infoRow(label: String, value: String) -> some View {

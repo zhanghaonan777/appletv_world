@@ -12,11 +12,8 @@
 		AA0000000000000000000011 /* Qwen3.5-0.8B-Q4_K_M.gguf in Resources */ = {isa = PBXBuildFile; fileRef = AA0000000000000000000010 /* Qwen3.5-0.8B-Q4_K_M.gguf */; };
 		AA0000000000000000000032 /* whisper in Frameworks */ = {isa = PBXBuildFile; productRef = AA0000000000000000000031 /* whisper */; };
 		AA0000000000000000000034 /* ggml-tiny.bin in Resources */ = {isa = PBXBuildFile; fileRef = AA0000000000000000000033 /* ggml-tiny.bin */; };
-		AA0000000000000000000021 /* openai_whisper-tiny in Resources */ = {isa = PBXBuildFile; fileRef = AA0000000000000000000020 /* openai_whisper-tiny */; };
-		0063BA15E14D782FEADC65CD /* ChannelListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD4E6F8D8CA23AFEBAC1373 /* ChannelListView.swift */; };
-		03B77E5311704DBD098A32D6 /* ChannelCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 163BE6CB6B2A86F1BA7AD569 /* ChannelCardView.swift */; };
-		0CFAAF8325479D1466F70D48 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025B979AAE6E717FE95AACCA /* ContentView.swift */; };
-		1A3265BAAAD280A5321051EC /* WhisperSpeechTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D9DBF938199FADFA7D4772F /* WhisperSpeechTests.swift */; };
+		AA0000000000000000000021 /* openai_whisper-tiny in Resources */ = {isa = PBXBuildFile; fileRef = AA0000000000000000000020 /* openai_whisper-tiny */; };		5BB7170B3B1A0BAF11E0000D /* ChannelGuideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7170B3B1A0BAF11E0000E /* ChannelGuideView.swift */; };
+		03B77E5311704DBD098A32D6 /* ChannelCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 163BE6CB6B2A86F1BA7AD569 /* ChannelCardView.swift */; };		1A3265BAAAD280A5321051EC /* WhisperSpeechTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D9DBF938199FADFA7D4772F /* WhisperSpeechTests.swift */; };
 		27058B655420FCF612798348 /* PlaylistManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C6C11E350A2A4BD3C4BFD56 /* PlaylistManager.swift */; };
 		3BEC6367DA808958D2A2AA7A /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD50D90A07AFBE5822BE0791 /* ColorExtension.swift */; };
 		3E2EEB6E6D3A950B7B379D25 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A853E9F7C5BC1A7218A0CC7 /* SettingsView.swift */; };
@@ -24,11 +21,16 @@
 		5901E1A941FCEC803F6A0B42 /* WorldTVTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70B2608F8A54070C5DA1A213 /* WorldTVTests.swift */; };
 		5E53D1851EAEBDD14A1F06FE /* TestResources in Resources */ = {isa = PBXBuildFile; fileRef = A1B0335274811D64233F7458 /* TestResources */; };
 		6262F70922295C4D8E1B1F27 /* WorldTVApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66AE995E736DFE727CFB25CF /* WorldTVApp.swift */; };
+		5BB7170B3B1A0BAF11E0000F /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7170B3B1A0BAF11E00010 /* RootView.swift */; };
 		734D421A5214CA7E6731C656 /* TranslationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3AA98B4607822C32350C93D /* TranslationTests.swift */; };
 		AA0000000000000000000041 /* LiveSubtitleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA0000000000000000000040 /* LiveSubtitleTests.swift */; };
 		887A266ED57E27B93FB864D8 /* AudioExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5EA9BCDD92ECCD81F51E31D /* AudioExtractor.swift */; };
-		9372705DB469F2F50DC19F99 /* TranslationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68962F39F1A6E1D6783EBDDA /* TranslationService.swift */; };
-		AC5E10441C3496D7D0CF0A53 /* PlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B03419F9F8C643119919086 /* PlayerView.swift */; };
+		5BB7170B3B1A0BAF11E00003 /* ChannelBrowser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7170B3B1A0BAF11E00004 /* ChannelBrowser.swift */; };
+		5BB7170B3B1A0BAF11E00005 /* ChannelBrowserTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7170B3B1A0BAF11E00006 /* ChannelBrowserTests.swift */; };
+		9372705DB469F2F50DC19F99 /* TranslationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68962F39F1A6E1D6783EBDDA /* TranslationService.swift */; };		5BB7170B3B1A0BAF11E00001 /* SubtitleOverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7170B3B1A0BAF11E00002 /* SubtitleOverlayView.swift */; };
+		5BB7170B3B1A0BAF11E00007 /* PlayerLayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7170B3B1A0BAF11E00008 /* PlayerLayerView.swift */; };
+		5BB7170B3B1A0BAF11E00009 /* LivePlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7170B3B1A0BAF11E0000A /* LivePlayerView.swift */; };
+		5BB7170B3B1A0BAF11E0000B /* MiniGuideBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7170B3B1A0BAF11E0000C /* MiniGuideBar.swift */; };
 		AFE4EAB5FBD218664B0CF7E0 /* WhisperPipelineTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2140498430ADCDC76A3721C1 /* WhisperPipelineTests.swift */; };
 		B113ED336CF6E9FC835AF2B4 /* M3UParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = F609E4BC8D17646040287F19 /* M3UParser.swift */; };
 		BE5E150231E81860EC06D7F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 194F6E0E425D5EA972190660 /* Assets.xcassets */; };
@@ -49,31 +51,33 @@
 		};
 /* End PBXContainerItemProxy section */
 
-/* Begin PBXFileReference section */
-		025B979AAE6E717FE95AACCA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		1426EF3DA0625ADF7DA13547 /* WhisperService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhisperService.swift; sourceTree = "<group>"; };
+/* Begin PBXFileReference section */		1426EF3DA0625ADF7DA13547 /* WhisperService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhisperService.swift; sourceTree = "<group>"; };
 		163BE6CB6B2A86F1BA7AD569 /* ChannelCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelCardView.swift; sourceTree = "<group>"; };
 		194F6E0E425D5EA972190660 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2140498430ADCDC76A3721C1 /* WhisperPipelineTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhisperPipelineTests.swift; sourceTree = "<group>"; };
-		28CC3B284C2074DE658108C2 /* WhisperDiagnostic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhisperDiagnostic.swift; sourceTree = "<group>"; };
-		2DD4E6F8D8CA23AFEBAC1373 /* ChannelListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelListView.swift; sourceTree = "<group>"; };
+		28CC3B284C2074DE658108C2 /* WhisperDiagnostic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhisperDiagnostic.swift; sourceTree = "<group>"; };		5BB7170B3B1A0BAF11E0000E /* ChannelGuideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelGuideView.swift; sourceTree = "<group>"; };
 		2FC983A80DA60579E7192BB8 /* WorldTVTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = WorldTVTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D9DBF938199FADFA7D4772F /* WhisperSpeechTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhisperSpeechTests.swift; sourceTree = "<group>"; };
 		66138FED946D74EFBE78024F /* WorldTV.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = WorldTV.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		66AE995E736DFE727CFB25CF /* WorldTVApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldTVApp.swift; sourceTree = "<group>"; };
+		5BB7170B3B1A0BAF11E00010 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
 		677B03D09877CF24FE0D1245 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		68962F39F1A6E1D6783EBDDA /* TranslationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranslationService.swift; sourceTree = "<group>"; };
 		6C6C11E350A2A4BD3C4BFD56 /* PlaylistManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistManager.swift; sourceTree = "<group>"; };
 		70B2608F8A54070C5DA1A213 /* WorldTVTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldTVTests.swift; sourceTree = "<group>"; };
 		AA0000000000000000000040 /* LiveSubtitleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveSubtitleTests.swift; sourceTree = "<group>"; };
 		74C34681475552D399F7ECF1 /* Channel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Channel.swift; sourceTree = "<group>"; };
-		7A853E9F7C5BC1A7218A0CC7 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
-		8B03419F9F8C643119919086 /* PlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerView.swift; sourceTree = "<group>"; };
+		7A853E9F7C5BC1A7218A0CC7 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };		5BB7170B3B1A0BAF11E00002 /* SubtitleOverlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtitleOverlayView.swift; sourceTree = "<group>"; };
+		5BB7170B3B1A0BAF11E00008 /* PlayerLayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerLayerView.swift; sourceTree = "<group>"; };
+		5BB7170B3B1A0BAF11E0000A /* LivePlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LivePlayerView.swift; sourceTree = "<group>"; };
+		5BB7170B3B1A0BAF11E0000C /* MiniGuideBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniGuideBar.swift; sourceTree = "<group>"; };
 		A1B0335274811D64233F7458 /* TestResources */ = {isa = PBXFileReference; lastKnownFileType = folder; name = TestResources; path = WorldTVTests/TestResources; sourceTree = SOURCE_ROOT; };
 		A3AA98B4607822C32350C93D /* TranslationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranslationTests.swift; sourceTree = "<group>"; };
 		D9D9208D36FF35AA2B052FD0 /* SubtitleEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtitleEngine.swift; sourceTree = "<group>"; };
 		DD50D90A07AFBE5822BE0791 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
 		E5EA9BCDD92ECCD81F51E31D /* AudioExtractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioExtractor.swift; sourceTree = "<group>"; };
+		5BB7170B3B1A0BAF11E00004 /* ChannelBrowser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelBrowser.swift; sourceTree = "<group>"; };
+		5BB7170B3B1A0BAF11E00006 /* ChannelBrowserTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelBrowserTests.swift; sourceTree = "<group>"; };
 		AA0000000000000000000010 /* Qwen3.5-0.8B-Q4_K_M.gguf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Qwen3.5-0.8B-Q4_K_M.gguf"; path = "../Models/Qwen35/Qwen3.5-0.8B-Q4_K_M.gguf"; sourceTree = SOURCE_ROOT; };
 		AA0000000000000000000033 /* ggml-tiny.bin */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ggml-tiny.bin"; path = "../Models/WhisperTiny/ggml-tiny.bin"; sourceTree = SOURCE_ROOT; };
 		AA0000000000000000000020 /* openai_whisper-tiny */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "openai_whisper-tiny"; path = "Models/WhisperTiny/openai_whisper-tiny"; sourceTree = SOURCE_ROOT; };
@@ -108,7 +112,10 @@
 		4361A846AB30CCE1130792EA /* Player */ = {
 			isa = PBXGroup;
 			children = (
-				8B03419F9F8C643119919086 /* PlayerView.swift */,
+				5BB7170B3B1A0BAF11E00002 /* SubtitleOverlayView.swift */,
+				5BB7170B3B1A0BAF11E00008 /* PlayerLayerView.swift */,
+				5BB7170B3B1A0BAF11E0000A /* LivePlayerView.swift */,
+				5BB7170B3B1A0BAF11E0000C /* MiniGuideBar.swift */,
 			);
 			path = Player;
 			sourceTree = "<group>";
@@ -117,7 +124,7 @@
 			isa = PBXGroup;
 			children = (
 				163BE6CB6B2A86F1BA7AD569 /* ChannelCardView.swift */,
-				2DD4E6F8D8CA23AFEBAC1373 /* ChannelListView.swift */,
+				5BB7170B3B1A0BAF11E0000E /* ChannelGuideView.swift */,
 			);
 			path = ChannelList;
 			sourceTree = "<group>";
@@ -126,6 +133,7 @@
 			isa = PBXGroup;
 			children = (
 				AA0000000000000000000040 /* LiveSubtitleTests.swift */,
+				5BB7170B3B1A0BAF11E00006 /* ChannelBrowserTests.swift */,
 				A3AA98B4607822C32350C93D /* TranslationTests.swift */,
 				2140498430ADCDC76A3721C1 /* WhisperPipelineTests.swift */,
 				4D9DBF938199FADFA7D4772F /* WhisperSpeechTests.swift */,
@@ -147,6 +155,7 @@
 			isa = PBXGroup;
 			children = (
 				E5EA9BCDD92ECCD81F51E31D /* AudioExtractor.swift */,
+				5BB7170B3B1A0BAF11E00004 /* ChannelBrowser.swift */,
 				F609E4BC8D17646040287F19 /* M3UParser.swift */,
 				6C6C11E350A2A4BD3C4BFD56 /* PlaylistManager.swift */,
 				D9D9208D36FF35AA2B052FD0 /* SubtitleEngine.swift */,
@@ -177,8 +186,8 @@
 			isa = PBXGroup;
 			children = (
 				194F6E0E425D5EA972190660 /* Assets.xcassets */,
-				025B979AAE6E717FE95AACCA /* ContentView.swift */,
 				66AE995E736DFE727CFB25CF /* WorldTVApp.swift */,
+				5BB7170B3B1A0BAF11E00010 /* RootView.swift */,
 				D4BB1966E521BD018A1C7C08 /* Models */,
 				AD8982F68B01CE181AA8687A /* Services */,
 				A0F6E2A781BEB92005996560 /* Utils */,
@@ -369,13 +378,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				887A266ED57E27B93FB864D8 /* AudioExtractor.swift in Sources */,
+				5BB7170B3B1A0BAF11E00003 /* ChannelBrowser.swift in Sources */,
 				C3C7CA30FE4A030C84C7CC53 /* Channel.swift in Sources */,
-				03B77E5311704DBD098A32D6 /* ChannelCardView.swift in Sources */,
-				0063BA15E14D782FEADC65CD /* ChannelListView.swift in Sources */,
-				3BEC6367DA808958D2A2AA7A /* ColorExtension.swift in Sources */,
-				0CFAAF8325479D1466F70D48 /* ContentView.swift in Sources */,
-				B113ED336CF6E9FC835AF2B4 /* M3UParser.swift in Sources */,
-				AC5E10441C3496D7D0CF0A53 /* PlayerView.swift in Sources */,
+				03B77E5311704DBD098A32D6 /* ChannelCardView.swift in Sources */,				5BB7170B3B1A0BAF11E0000D /* ChannelGuideView.swift in Sources */,
+				3BEC6367DA808958D2A2AA7A /* ColorExtension.swift in Sources */,				B113ED336CF6E9FC835AF2B4 /* M3UParser.swift in Sources */,				5BB7170B3B1A0BAF11E00001 /* SubtitleOverlayView.swift in Sources */,
+				5BB7170B3B1A0BAF11E00007 /* PlayerLayerView.swift in Sources */,
+				5BB7170B3B1A0BAF11E00009 /* LivePlayerView.swift in Sources */,
+				5BB7170B3B1A0BAF11E0000B /* MiniGuideBar.swift in Sources */,
 				27058B655420FCF612798348 /* PlaylistManager.swift in Sources */,
 				3E2EEB6E6D3A950B7B379D25 /* SettingsView.swift in Sources */,
 				BFCD997990D05499C05EED76 /* SubtitleEngine.swift in Sources */,
@@ -384,6 +393,7 @@
 				EC88B7259350300209FF6142 /* WhisperDiagnostic.swift in Sources */,
 				D5478595226B086A914AB90F /* WhisperService.swift in Sources */,
 				6262F70922295C4D8E1B1F27 /* WorldTVApp.swift in Sources */,
+				5BB7170B3B1A0BAF11E0000F /* RootView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -392,6 +402,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AA0000000000000000000041 /* LiveSubtitleTests.swift in Sources */,
+				5BB7170B3B1A0BAF11E00005 /* ChannelBrowserTests.swift in Sources */,
 				734D421A5214CA7E6731C656 /* TranslationTests.swift in Sources */,
 				AFE4EAB5FBD218664B0CF7E0 /* WhisperPipelineTests.swift in Sources */,
 				1A3265BAAAD280A5321051EC /* WhisperSpeechTests.swift in Sources */,
