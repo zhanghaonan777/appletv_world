@@ -90,9 +90,9 @@ struct ChannelGuideView: View {
                 .buttonStyle(GuidePlainButtonStyle())
             }
         }
-        .padding(.horizontal, 56)
-        .padding(.top, 32)
-        .padding(.bottom, 24)
+        .padding(.horizontal, 24)
+        .padding(.top, 10)
+        .padding(.bottom, 20)
     }
 
     private var searchBar: some View {
@@ -119,7 +119,7 @@ struct ChannelGuideView: View {
             RoundedRectangle(cornerRadius: 16)
                 .fill(Color.white.opacity(0.06))
         )
-        .padding(.horizontal, 56)
+        .padding(.horizontal, 24)
         .padding(.bottom, 16)
     }
 
@@ -142,8 +142,9 @@ struct ChannelGuideView: View {
                     .buttonStyle(GuidePlainButtonStyle())
                 }
             }
-            .padding(.horizontal, 24)
-            .padding(.vertical, 16)
+            .padding(.horizontal, 16)
+            .padding(.top, 4)
+            .padding(.bottom, 16)
         }
         .frame(width: 440)
         .background(
