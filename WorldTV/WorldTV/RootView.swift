@@ -79,6 +79,9 @@ struct RootView: View {
         .onAppear {
             playlistHolder.configure(modelContext: modelContext)
             Task { await playlistHolder.manager?.ensureDefaultPlaylist() }
+            // Channels may already be loaded synchronously on a warm launch,
+            // in which case .onChange below never fires — decide here too.
+            decideInitialStateIfNeeded()
         }
         .onChange(of: playlists.count) { _, _ in
             decideInitialStateIfNeeded()

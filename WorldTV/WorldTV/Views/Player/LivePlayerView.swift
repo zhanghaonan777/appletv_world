@@ -18,6 +18,7 @@ final class LivePlayerModel: ObservableObject {
     let player = AVPlayer()
 
     private var statusObservation: NSKeyValueObservation?
+    private var loadTimeout: Task<Void, Never>?
 
     func play(_ channel: Channel) {
         guard let url = URL(string: channel.streamURL) else {
@@ -29,11 +30,23 @@ final class LivePlayerModel: ObservableObject {
         statusObservation = item.observe(\.status, options: [.new]) { [weak self] item, _ in
             Task { @MainActor in
                 switch item.status {
-                case .readyToPlay: self?.state = .playing
-                case .failed:      self?.state = .failed
-                default:           self?.state = .loading
+                case .readyToPlay:
+                    self?.loadTimeout?.cancel()
+                    self?.state = .playing
+                case .failed:
+                    self?.loadTimeout?.cancel()
+                    self?.state = .failed
+                default:
+                    self?.state = .loading
                 }
             }
+        }
+        // A dead IPTV source can stall in .loading forever — fail it after 15s.
+        loadTimeout?.cancel()
+        loadTimeout = Task { [weak self] in
+            try? await Task.sleep(nanoseconds: 15_000_000_000)
+            guard !Task.isCancelled else { return }
+            if self?.state == .loading { self?.state = .failed }
         }
         player.replaceCurrentItem(with: item)
         player.play()
@@ -43,6 +56,8 @@ final class LivePlayerModel: ObservableObject {
         player.pause()
         player.replaceCurrentItem(with: nil)
         statusObservation = nil
+        loadTimeout?.cancel()
+        loadTimeout = nil
     }
 }
 

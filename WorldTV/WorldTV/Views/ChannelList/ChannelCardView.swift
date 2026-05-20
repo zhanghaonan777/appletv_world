@@ -6,56 +6,36 @@ struct ChannelCardView: View {
 
     var body: some View {
         VStack(spacing: 14) {
-            // Logo area
+            // Logo plate
             ZStack(alignment: .topTrailing) {
                 ZStack {
-                    RoundedRectangle(cornerRadius: 10)
-                        .fill(Theme.muted)
-                        .frame(height: 130)
+                    RoundedRectangle(cornerRadius: 12)
+                        .fill(isFocused ? Color.white.opacity(0.08) : Theme.muted)
+                        .frame(height: 140)
 
-                    if let logoURLString = channel.logoURL,
-                       let logoURL = URL(string: logoURLString) {
-                        AsyncImage(url: logoURL) { phase in
-                            switch phase {
-                            case .success(let image):
-                                image
-                                    .resizable()
-                                    .aspectRatio(contentMode: .fit)
-                                    .frame(height: 80)
-                            case .failure:
-                                initialsView
-                            case .empty:
-                                ProgressView()
-                                    .tint(Theme.textSecondary)
-                            @unknown default:
-                                initialsView
-                            }
-                        }
-                    } else {
-                        initialsView
-                    }
+                    logoContent
                 }
 
-                // Live indicator - static green dot (no animation to avoid layout thrashing)
+                // Live indicator
                 Circle()
                     .fill(Theme.success)
-                    .frame(width: 8, height: 8)
-                    .shadow(color: Theme.success.opacity(0.6), radius: 3)
-                    .padding(10)
+                    .frame(width: 12, height: 12)
+                    .overlay(Circle().stroke(.black.opacity(0.4), lineWidth: 2))
+                    .shadow(color: Theme.success.opacity(0.9), radius: isFocused ? 6 : 3)
+                    .padding(12)
             }
 
             // Channel info
             HStack {
                 VStack(alignment: .leading, spacing: 6) {
                     Text(channel.name)
-                        .font(.callout)
-                        .fontWeight(.medium)
+                        .font(.system(size: 24, weight: .semibold))
                         .foregroundColor(Theme.textPrimary)
                         .lineLimit(1)
 
                     Text(channel.groupTitle)
-                        .font(.caption)
-                        .foregroundColor(Theme.textSecondary)
+                        .font(.system(size: 18, weight: .medium))
+                        .foregroundColor(isFocused ? Theme.accentBright : Theme.textSecondary)
                         .lineLimit(1)
                 }
 
@@ -63,8 +43,8 @@ struct ChannelCardView: View {
 
                 if channel.isFavorite {
                     Image(systemName: "star.fill")
-                        .font(.caption)
-                        .foregroundColor(Theme.accent)
+                        .font(.system(size: 18))
+                        .foregroundColor(Theme.accentBright)
                 }
             }
         }
@@ -75,30 +55,50 @@ struct ChannelCardView: View {
         )
         .overlay(
             RoundedRectangle(cornerRadius: Theme.cardCornerRadius)
-                .stroke(isFocused ? Theme.accent.opacity(0.6) : Theme.border.opacity(0.3), lineWidth: isFocused ? 2 : 1)
+                .stroke(isFocused ? Theme.accent : Color.white.opacity(0.06),
+                        lineWidth: isFocused ? 3 : 1)
         )
-        .scaleEffect(isFocused ? 1.05 : 1.0)
-        .shadow(color: isFocused ? Theme.accent.opacity(0.3) : Color.clear, radius: 15)
-        .animation(.easeInOut(duration: 0.2), value: isFocused)
+        .scaleEffect(isFocused ? 1.10 : 1.0)
+        .shadow(color: isFocused ? Theme.accent.opacity(0.55) : .clear,
+                radius: isFocused ? 28 : 0, y: isFocused ? 12 : 0)
+        .animation(.spring(response: 0.32, dampingFraction: 0.72), value: isFocused)
+    }
+
+    @ViewBuilder
+    private var logoContent: some View {
+        if let logoURLString = channel.logoURL,
+           let logoURL = URL(string: logoURLString) {
+            AsyncImage(url: logoURL) { phase in
+                switch phase {
+                case .success(let image):
+                    image
+                        .resizable()
+                        .aspectRatio(contentMode: .fit)
+                        .frame(height: 88)
+                case .failure:
+                    initialsView
+                case .empty:
+                    ProgressView()
+                        .tint(Theme.textSecondary)
+                @unknown default:
+                    initialsView
+                }
+            }
+        } else {
+            initialsView
+        }
     }
 
     private var initialsView: some View {
         let initials = String(channel.name.prefix(2)).uppercased()
         return ZStack {
             Circle()
-                .fill(
-                    LinearGradient(
-                        colors: [Theme.secondary, Theme.accent.opacity(0.6)],
-                        startPoint: .topLeading,
-                        endPoint: .bottomTrailing
-                    )
-                )
-                .frame(width: 64, height: 64)
+                .fill(Theme.accentGradient)
+                .frame(width: 72, height: 72)
 
             Text(initials)
-                .font(.title3)
-                .fontWeight(.bold)
-                .foregroundColor(Theme.textPrimary)
+                .font(.system(size: 28, weight: .bold))
+                .foregroundColor(.white)
         }
     }
 }
