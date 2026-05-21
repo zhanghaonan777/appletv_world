@@ -1,29 +1,19 @@
 import SwiftUI
 import SwiftData
 
-/// App root: a live-TV state machine. The player is the home screen; the mini
-/// bar, full guide, and settings are overlays summoned over it.
+/// App root. Owns the single `AppModel` and a single `@FocusState`; every
+/// child view renders from the model and forwards remote input to it.
 struct RootView: View {
     @Environment(\.modelContext) private var modelContext
     @Query private var playlists: [Playlist]
 
-    @State private var currentChannel: Channel?
-    @State private var currentCategory: String = ChannelBrowser.allCategory
-    @State private var overlay: Overlay = .fullGuide
-    @State private var didDecideInitialState = false
+    @State private var appModel = AppModel()
+    @State private var didBootstrap = false
     @StateObject private var playlistHolder = PlaylistManagerHolder()
-
-    enum Overlay {
-        case none, miniBar, fullGuide, settings
-    }
+    @FocusState private var focus: FocusZone?
 
     private var allChannels: [Channel] {
         playlists.flatMap { $0.channels }
-    }
-
-    /// Ordered channel list for the current category — drives channel up/down.
-    private var categoryChannels: [Channel] {
-        ChannelBrowser.filter(allChannels, category: currentCategory)
     }
 
     var body: some View {
@@ -31,96 +21,53 @@ struct RootView: View {
             Theme.background
                 .ignoresSafeArea()
 
-            if let channel = currentChannel {
-                LivePlayerView(
-                    channel: channel,
-                    isActive: overlay == .none,
-                    isCovered: overlay == .fullGuide || overlay == .settings,
-                    onChannelUp: { zap(-1) },
-                    onChannelDown: { zap(1) },
-                    onSelect: { overlay = .miniBar },
-                    onExit: { overlay = .fullGuide }
-                )
+            if appModel.currentChannel != nil {
+                LivePlayerView(appModel: appModel, channels: allChannels)
+                    .focused($focus, equals: .player)
+                    .disabled(appModel.focusZone != .player)
             }
 
-            switch overlay {
-            case .none:
+            switch appModel.screen {
+            case .player:
                 EmptyView()
 
             case .miniBar:
-                if let channel = currentChannel {
-                    MiniGuideBar(
-                        allChannels: allChannels,
-                        selectedCategory: $currentCategory,
-                        selectedChannel: Binding(
-                            get: { channel },
-                            set: { currentChannel = $0 }
-                        ),
-                        onExpand: { overlay = .fullGuide },
-                        onDismiss: { overlay = .none }
-                    )
+                if appModel.currentChannel != nil {
+                    MiniGuideBar(appModel: appModel, channels: allChannels)
+                        .focused($focus, equals: .miniBar)
                 }
 
-            case .fullGuide:
-                ChannelGuideView(
-                    allChannels: allChannels,
-                    selectedCategory: $currentCategory,
-                    onSelectChannel: { channel in
-                        currentChannel = channel
-                        overlay = .none
-                    },
-                    onOpenSettings: { overlay = .settings },
-                    onDismiss: { if currentChannel != nil { overlay = .none } }
-                )
+            case .guide:
+                ChannelGuideView(appModel: appModel, channels: allChannels)
+                    .focused($focus, equals: .guide)
 
             case .settings:
                 SettingsView()
-                    .onExitCommand { overlay = .fullGuide }
+                    .focused($focus, equals: .settings)
+                    .onExitCommand { appModel.handle(.menu, channels: allChannels) }
             }
         }
         .onAppear {
             playlistHolder.configure(modelContext: modelContext)
             Task { await playlistHolder.manager?.ensureDefaultPlaylist() }
-            // Channels may already be loaded synchronously on a warm launch,
-            // in which case .onChange below never fires — decide here too.
-            decideInitialStateIfNeeded()
+            bootstrapIfNeeded()
+            focus = appModel.focusZone
         }
         .onChange(of: playlists.count) { _, _ in
-            decideInitialStateIfNeeded()
+            bootstrapIfNeeded()
+        }
+        .onChange(of: appModel.focusZone) { _, zone in
+            focus = zone
         }
     }
 
-    // MARK: - State
-
-    /// Once channels are available, resume the last-watched channel or, on a
-    /// fresh install, stay on the full guide so the user picks one.
-    private func decideInitialStateIfNeeded() {
-        guard !didDecideInitialState, !allChannels.isEmpty else { return }
-        didDecideInitialState = true
-
-        let lastWatched = allChannels
-            .filter { $0.lastWatched != nil }
-            .max { ($0.lastWatched ?? .distantPast) < ($1.lastWatched ?? .distantPast) }
-
-        if let lastWatched {
-            currentChannel = lastWatched
-            currentCategory = lastWatched.groupTitle
-            overlay = .none
-        } else {
-            overlay = .fullGuide
-        }
-    }
-
-    private func zap(_ direction: Int) {
-        guard let channel = currentChannel else { return }
-        let list = categoryChannels
-        let target = direction > 0
-            ? ChannelBrowser.next(after: channel, in: list)
-            : ChannelBrowser.previous(before: channel, in: list)
-        if let target {
-            currentChannel = target
-            overlay = .miniBar
-        }
+    /// Decide the initial screen once channels are available (warm launches
+    /// load synchronously, so `.onChange` may never fire — also called here).
+    private func bootstrapIfNeeded() {
+        guard !didBootstrap, !allChannels.isEmpty else { return }
+        didBootstrap = true
+        appModel.bootstrap(channels: allChannels)
+        focus = appModel.focusZone
     }
 }
 

@@ -1,13 +1,11 @@
 import SwiftUI
 
-/// Fullscreen channel guide shown as an overlay over the playing video:
-/// category sidebar + channel grid + search + a settings entry.
+/// Fullscreen channel guide shown as an overlay: category sidebar + channel
+/// grid + search + a settings entry. A dumb view — it reads/writes `appModel`
+/// and forwards Menu to it. Intra-guide focus stays native (focus sections).
 struct ChannelGuideView: View {
-    let allChannels: [Channel]
-    @Binding var selectedCategory: String
-    var onSelectChannel: (Channel) -> Void = { _ in }
-    var onOpenSettings: () -> Void = {}
-    var onDismiss: () -> Void = {}
+    let appModel: AppModel
+    let channels: [Channel]
 
     @State private var searchText: String = ""
     @State private var showSearch: Bool = false
@@ -31,11 +29,11 @@ struct ChannelGuideView: View {
     ]
 
     private var categories: [String] {
-        ChannelBrowser.categories(from: allChannels)
+        ChannelBrowser.categories(from: channels)
     }
 
     private var filteredChannels: [Channel] {
-        ChannelBrowser.filter(allChannels, category: selectedCategory, search: searchText)
+        ChannelBrowser.filter(channels, category: appModel.currentCategory, search: searchText)
     }
 
     var body: some View {
@@ -56,13 +54,13 @@ struct ChannelGuideView: View {
                 }
             }
         }
-        .onExitCommand { onDismiss() }
+        .onExitCommand { appModel.handle(.menu, channels: channels) }
     }
 
     // MARK: - Header
 
     private var headerBar: some View {
-        HStack(alignment: .center) {
+        HStack {
             HStack(spacing: 0) {
                 Text("World")
                     .foregroundStyle(Theme.textPrimary)
@@ -83,7 +81,7 @@ struct ChannelGuideView: View {
                 .buttonStyle(GuidePlainButtonStyle())
 
                 Button {
-                    onOpenSettings()
+                    appModel.openSettings()
                 } label: {
                     IconBadge(systemName: "gearshape.fill", highlighted: false)
                 }
@@ -131,13 +129,13 @@ struct ChannelGuideView: View {
             VStack(alignment: .leading, spacing: 8) {
                 ForEach(categories, id: \.self) { category in
                     Button {
-                        selectedCategory = category
+                        appModel.currentCategory = category
                     } label: {
                         CategoryRow(
                             title: category,
                             icon: groupIconMap[category] ?? "folder.fill",
-                            count: ChannelBrowser.count(allChannels, category: category),
-                            isSelected: category == selectedCategory
+                            count: ChannelBrowser.count(channels, category: category),
+                            isSelected: category == appModel.currentCategory
                         )
                     }
                     .buttonStyle(GuidePlainButtonStyle())
@@ -179,14 +177,14 @@ struct ChannelGuideView: View {
             .padding(.horizontal, 48)
             .padding(.top, 24)
 
-            if allChannels.isEmpty {
+            if channels.isEmpty {
                 emptyState
             } else {
                 ScrollView {
                     LazyVGrid(columns: columns, spacing: 36) {
                         ForEach(filteredChannels) { channel in
                             Button {
-                                onSelectChannel(channel)
+                                appModel.selectChannelFromGuide(channel)
                             } label: {
                                 ChannelCardView(channel: channel)
                             }

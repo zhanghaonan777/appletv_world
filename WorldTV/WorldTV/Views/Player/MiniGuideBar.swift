@@ -1,28 +1,20 @@
 import SwiftUI
 
-/// Bottom channel banner shown over the playing video — a compact two-row guide:
-/// top row switches category, bottom row switches channel. Up/down moves
-/// between rows, left/right moves within a row. Click expands to the full
-/// guide; Menu (or 4s of inactivity) dismisses.
+/// Bottom channel banner over the playing video — a compact two-row guide:
+/// top row switches category, bottom row switches channel. A dumb view: it
+/// renders from `appModel` and forwards every remote button to it.
 struct MiniGuideBar: View {
-    let allChannels: [Channel]
-    @Binding var selectedCategory: String
-    @Binding var selectedChannel: Channel
-    var onExpand: () -> Void = {}
-    var onDismiss: () -> Void = {}
+    let appModel: AppModel
+    let channels: [Channel]
 
-    @FocusState private var focused: Bool
-    @State private var zone: Zone = .channels
     @State private var hideTask: Task<Void, Never>?
 
-    enum Zone { case categories, channels }
-
     private var categories: [String] {
-        ChannelBrowser.categories(from: allChannels)
+        ChannelBrowser.categories(from: channels)
     }
 
-    private var channels: [Channel] {
-        ChannelBrowser.filter(allChannels, category: selectedCategory)
+    private var rowChannels: [Channel] {
+        ChannelBrowser.filter(channels, category: appModel.currentCategory)
     }
 
     var body: some View {
@@ -37,23 +29,28 @@ struct MiniGuideBar: View {
 
             VStack(alignment: .leading, spacing: 14) {
                 categoryRow
-                    .opacity(zone == .categories ? 1 : 0.5)
+                    .opacity(appModel.miniRow == .categories ? 1 : 0.5)
                 channelRow
-                    .opacity(zone == .channels ? 1 : 0.55)
+                    .opacity(appModel.miniRow == .channels ? 1 : 0.55)
             }
             .padding(.horizontal, 52)
             .padding(.bottom, 44)
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity)
         .focusable()
-        .focused($focused)
-        .onMoveCommand { handleMove($0) }
-        .onExitCommand { onDismiss() }
-        .onTapGesture { onExpand() }
-        .onAppear {
-            focused = true
+        .onMoveCommand { direction in
             scheduleHide()
+            switch direction {
+            case .up:            appModel.handle(.up, channels: channels)
+            case .down:          appModel.handle(.down, channels: channels)
+            case .left:          appModel.handle(.left, channels: channels)
+            case .right:         appModel.handle(.right, channels: channels)
+            @unknown default:    break
+            }
         }
+        .onExitCommand { appModel.handle(.menu, channels: channels) }
+        .onTapGesture { appModel.handle(.select, channels: channels) }
+        .onAppear { scheduleHide() }
         .onDisappear { hideTask?.cancel() }
     }
 
@@ -71,16 +68,16 @@ struct MiniGuideBar: View {
                 .padding(.horizontal, 4)
                 .padding(.vertical, 6)
             }
-            .onAppear { proxy.scrollTo(selectedCategory, anchor: .center) }
-            .onChange(of: selectedCategory) { _, value in
+            .onAppear { proxy.scrollTo(appModel.currentCategory, anchor: .center) }
+            .onChange(of: appModel.currentCategory) { _, value in
                 withAnimation(.easeOut(duration: 0.25)) { proxy.scrollTo(value, anchor: .center) }
             }
         }
     }
 
     private func categoryChip(_ category: String) -> some View {
-        let isSelected = category == selectedCategory
-        let isActive = zone == .categories
+        let isSelected = category == appModel.currentCategory
+        let isActive = appModel.miniRow == .categories
         return Text(category)
             .font(.system(size: 21, weight: isSelected ? .bold : .medium))
             .foregroundColor(isSelected ? .white : Theme.textSecondary)
@@ -105,23 +102,25 @@ struct MiniGuideBar: View {
         ScrollViewReader { proxy in
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(spacing: 18) {
-                    ForEach(channels, id: \.id) { channel in
-                        channelChip(channel, isCurrent: channel.id == selectedChannel.id)
+                    ForEach(rowChannels, id: \.id) { channel in
+                        channelChip(channel, isCurrent: channel.id == appModel.currentChannel?.id)
                             .id(channel.id)
                     }
                 }
                 .padding(.horizontal, 4)
                 .padding(.vertical, 22)
             }
-            .onAppear { proxy.scrollTo(selectedChannel.id, anchor: .center) }
-            .onChange(of: selectedChannel.id) { _, id in
-                withAnimation(.easeOut(duration: 0.25)) { proxy.scrollTo(id, anchor: .center) }
+            .onAppear {
+                if let id = appModel.currentChannel?.id { proxy.scrollTo(id, anchor: .center) }
+            }
+            .onChange(of: appModel.currentChannel?.id) { _, id in
+                if let id { withAnimation(.easeOut(duration: 0.25)) { proxy.scrollTo(id, anchor: .center) } }
             }
         }
     }
 
     private func channelChip(_ channel: Channel, isCurrent: Bool) -> some View {
-        let isActive = zone == .channels
+        let isActive = appModel.miniRow == .channels
         let highlighted = isCurrent && isActive
         return VStack(spacing: 9) {
             ZStack {
@@ -169,45 +168,13 @@ struct MiniGuideBar: View {
             .foregroundColor(Theme.textPrimary)
     }
 
-    // MARK: - Navigation
-
-    private func handleMove(_ direction: MoveCommandDirection) {
-        scheduleHide()
-        switch (zone, direction) {
-        case (.channels, .left):    moveChannel(-1)
-        case (.channels, .right):   moveChannel(1)
-        case (.channels, .up):      zone = .categories
-        case (.categories, .left):  moveCategory(-1)
-        case (.categories, .right): moveCategory(1)
-        case (.categories, .down):  zone = .channels
-        default:                    break
-        }
-    }
-
-    private func moveChannel(_ delta: Int) {
-        let list = channels
-        guard !list.isEmpty else { return }
-        let index = list.firstIndex { $0.id == selectedChannel.id } ?? 0
-        selectedChannel = list[(index + delta + list.count) % list.count]
-    }
-
-    private func moveCategory(_ delta: Int) {
-        let cats = categories
-        guard !cats.isEmpty,
-              let index = cats.firstIndex(of: selectedCategory) else { return }
-        let newCategory = cats[(index + delta + cats.count) % cats.count]
-        selectedCategory = newCategory
-        // Tune to the new category's first channel so player state stays consistent.
-        if let first = ChannelBrowser.filter(allChannels, category: newCategory).first {
-            selectedChannel = first
-        }
-    }
+    // MARK: - Auto-hide
 
     private func scheduleHide() {
         hideTask?.cancel()
         hideTask = Task {
             try? await Task.sleep(nanoseconds: 4_000_000_000)
-            if !Task.isCancelled { onDismiss() }
+            if !Task.isCancelled { appModel.handle(.menu, channels: channels) }
         }
     }
 }

@@ -78,23 +78,16 @@ final class LivePlayerModel: ObservableObject {
 
 // MARK: - Live Player View
 
-/// Fullscreen TV-style player: video surface, loading / error states,
-/// channel up/down zapping, and (when enabled) the AI subtitle overlay.
+/// Fullscreen TV-style player. A dumb view: it renders `appModel.currentChannel`,
+/// forwards remote input to `appModel`, and pauses when the model says the
+/// video is covered. Focus is driven by the root view.
 struct LivePlayerView: View {
-    let channel: Channel
-    /// True when the player is the foreground layer (no overlay covering input).
-    var isActive: Bool = true
-    /// True when a fullscreen overlay (guide / settings) hides the video.
-    var isCovered: Bool = false
-    var onChannelUp: () -> Void = {}
-    var onChannelDown: () -> Void = {}
-    var onSelect: () -> Void = {}
-    var onExit: () -> Void = {}
+    let appModel: AppModel
+    let channels: [Channel]
 
     @StateObject private var model = LivePlayerModel()
     @StateObject private var subtitleEngine = SubtitleEngine()
     @AppStorage("aiSubtitlesEnabled") private var aiSubtitlesEnabled = false
-    @FocusState private var focused: Bool
 
     var body: some View {
         ZStack {
@@ -130,52 +123,37 @@ struct LivePlayerView: View {
             }
         }
         .focusable()
-        .focused($focused)
-        .disabled(!isActive)
         .onMoveCommand { direction in
             switch direction {
-            case .up:            onChannelUp()
-            case .down:          onChannelDown()
-            case .left, .right:  onSelect()
+            case .up:            appModel.handle(.up, channels: channels)
+            case .down:          appModel.handle(.down, channels: channels)
+            case .left:          appModel.handle(.left, channels: channels)
+            case .right:         appModel.handle(.right, channels: channels)
             @unknown default:    break
             }
         }
-        .onExitCommand { onExit() }
-        .onTapGesture { onSelect() }
-        .onAppear {
-            focused = true
-            model.play(channel)
-            channel.lastWatched = Date()
-            startSubtitlesIfEnabled()
-        }
+        .onExitCommand { appModel.handle(.menu, channels: channels) }
+        .onTapGesture { appModel.handle(.select, channels: channels) }
+        .onAppear { playCurrentChannel() }
         .onDisappear {
             model.stop()
             subtitleEngine.stop()
         }
-        .onChange(of: channel.id) { _, _ in
-            model.play(channel)
-            channel.lastWatched = Date()
-            restartSubtitles()
+        .onChange(of: appModel.currentChannel?.id) { _, _ in
+            playCurrentChannel()
         }
-        .onChange(of: isCovered) { _, covered in
+        .onChange(of: appModel.isVideoCovered) { _, covered in
             if covered { model.pause() } else { model.resume() }
         }
-        .onChange(of: isActive) { _, active in
-            // The player is permanently mounted, so re-grab focus whenever it
-            // becomes the foreground layer again (an overlay just closed).
-            if active {
-                DispatchQueue.main.async { focused = true }
-            }
-        }
     }
 
-    private func startSubtitlesIfEnabled() {
-        guard aiSubtitlesEnabled else { return }
-        subtitleEngine.start(player: model.player)
-    }
-
-    private func restartSubtitles() {
+    private func playCurrentChannel() {
+        guard let channel = appModel.currentChannel else { return }
+        model.play(channel)
+        channel.lastWatched = Date()
         subtitleEngine.stop()
-        startSubtitlesIfEnabled()
+        if aiSubtitlesEnabled {
+            subtitleEngine.start(player: model.player)
+        }
     }
 }
