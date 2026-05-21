@@ -9,7 +9,6 @@ final class PlaylistManager: ObservableObject {
 
     private let modelContext: ModelContext
 
-    @Published var isLoading = false
     @Published var errorMessage: String?
 
     init(modelContext: ModelContext) {
@@ -25,7 +24,6 @@ final class PlaylistManager: ObservableObject {
             return
         }
 
-        isLoading = true
         errorMessage = nil
 
         do {
@@ -49,8 +47,6 @@ final class PlaylistManager: ObservableObject {
         } catch {
             errorMessage = "Failed to load playlist: \(error.localizedDescription)"
         }
-
-        isLoading = false
     }
 
     /// Remove a playlist by its persistent model ID.
@@ -66,32 +62,41 @@ final class PlaylistManager: ObservableObject {
             return
         }
 
-        isLoading = true
         errorMessage = nil
 
         do {
             let result = try await M3UParser.parse(from: remoteURL)
 
-            // Preserve favorite status
-            let favoriteIds = Set(playlist.channels.filter { $0.isFavorite }.map { $0.id })
+            // Upsert by stream URL — the channel's stable physical identity.
+            // Existing Channel objects are updated in place, so favorites,
+            // watch history, and any currently-playing reference all survive.
+            let current = Array(playlist.channels)
+            let existing = Dictionary(
+                current.map { ($0.streamURL, $0) },
+                uniquingKeysWith: { keep, _ in keep }
+            )
+            let parsedURLs = Set(result.channels.map { $0.streamURL })
 
-            // Remove old channels
-            for channel in playlist.channels {
+            // Drop channels no longer in the playlist.
+            for channel in current where !parsedURLs.contains(channel.streamURL) {
                 modelContext.delete(channel)
             }
-            playlist.channels.removeAll()
 
-            // Insert new channels
+            // Update existing channels in place, insert new ones.
             for parsed in result.channels {
-                let channel = Channel(
-                    id: parsed.id,
-                    name: parsed.name,
-                    logoURL: parsed.logoURL,
-                    groupTitle: parsed.groupTitle,
-                    streamURL: parsed.streamURL
-                )
-                channel.isFavorite = favoriteIds.contains(parsed.id)
-                playlist.channels.append(channel)
+                if let channel = existing[parsed.streamURL] {
+                    channel.name = parsed.name
+                    channel.logoURL = parsed.logoURL
+                    channel.groupTitle = parsed.groupTitle
+                } else {
+                    playlist.channels.append(Channel(
+                        id: parsed.id,
+                        name: parsed.name,
+                        logoURL: parsed.logoURL,
+                        groupTitle: parsed.groupTitle,
+                        streamURL: parsed.streamURL
+                    ))
+                }
             }
 
             playlist.lastRefresh = Date()
@@ -99,8 +104,6 @@ final class PlaylistManager: ObservableObject {
         } catch {
             errorMessage = "Failed to refresh playlist: \(error.localizedDescription)"
         }
-
-        isLoading = false
     }
 
     /// Refresh all playlists.

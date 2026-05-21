@@ -17,10 +17,22 @@ final class M3UParser {
 
     // MARK: - Public
 
+    /// GB18030 — covers GBK; many Chinese IPTV playlists are not UTF-8.
+    private static let gb18030 = String.Encoding(
+        rawValue: CFStringConvertEncodingToNSStringEncoding(
+            CFStringEncoding(CFStringEncodings.GB_18030_2000.rawValue)
+        )
+    )
+
     /// Parse M3U content from a remote URL.
     static func parse(from url: URL) async throws -> M3UParserResult {
         let (data, _) = try await URLSession.shared.data(from: url)
-        guard let content = String(data: data, encoding: .utf8) else {
+        let content: String
+        if let utf8 = String(data: data, encoding: .utf8) {
+            content = utf8
+        } else if let gb = String(data: data, encoding: gb18030) {
+            content = gb
+        } else {
             throw M3UParserError.invalidEncoding
         }
         return parse(content: content)
@@ -122,14 +134,11 @@ final class M3UParser {
 
 enum M3UParserError: LocalizedError {
     case invalidEncoding
-    case networkError(Error)
 
     var errorDescription: String? {
         switch self {
         case .invalidEncoding:
-            return "Failed to decode M3U content as UTF-8."
-        case .networkError(let error):
-            return "Network error: \(error.localizedDescription)"
+            return "无法解码 M3U 内容(既非 UTF-8 也非 GB18030)。"
         }
     }
 }

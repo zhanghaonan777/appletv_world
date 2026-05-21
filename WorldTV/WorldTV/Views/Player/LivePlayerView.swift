@@ -25,6 +25,9 @@ final class LivePlayerModel: ObservableObject {
         // correctly (plays in silent mode, takes over the audio session).
         try? AVAudioSession.sharedInstance().setCategory(.playback, mode: .moviePlayback)
         try? AVAudioSession.sharedInstance().setActive(true)
+        // Start a channel as soon as enough is buffered instead of waiting for
+        // a comfortable cushion — noticeably faster channel changes for live TV.
+        player.automaticallyWaitsToMinimizeStalling = false
     }
 
     func play(_ channel: Channel) {
