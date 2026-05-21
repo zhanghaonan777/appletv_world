@@ -75,6 +75,7 @@ async def handle_client(websocket):
     print(f"client connected: {peer}")
     buffer = np.zeros(0, dtype=np.float32)
     window = int(WINDOW_SECONDS * SAMPLE_RATE)
+    total_samples = 0
 
     try:
         async for message in websocket:
@@ -82,6 +83,7 @@ async def handle_client(websocket):
                 continue
             chunk = np.frombuffer(message, dtype=np.float32)
             buffer = np.concatenate([buffer, chunk])
+            total_samples += len(chunk)
 
             while len(buffer) >= window:
                 audio = buffer[:window]
@@ -91,6 +93,9 @@ async def handle_client(websocket):
                     audio, task="translate", vad_filter=True
                 )
                 english = " ".join(seg.text.strip() for seg in segments).strip()
+                rms = float(np.sqrt(np.mean(audio ** 2)))
+                print(f"window | total={total_samples / SAMPLE_RATE:.0f}s "
+                      f"rms={rms:.4f} lang={info.language} text='{english}'")
                 if not english:
                     continue
 
