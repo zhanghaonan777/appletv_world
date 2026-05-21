@@ -101,7 +101,7 @@ struct MiniGuideBar: View {
     private var channelRow: some View {
         ScrollViewReader { proxy in
             ScrollView(.horizontal, showsIndicators: false) {
-                HStack(spacing: 18) {
+                LazyHStack(spacing: 18) {
                     ForEach(rowChannels, id: \.id) { channel in
                         channelChip(channel, isCurrent: channel.id == appModel.currentChannel?.id)
                             .id(channel.id)
