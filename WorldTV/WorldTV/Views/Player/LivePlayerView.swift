@@ -86,9 +86,7 @@ struct LivePlayerView: View {
     let channels: [Channel]
 
     @StateObject private var model = LivePlayerModel()
-    @StateObject private var subtitleEngine = SubtitleEngine()
     @StateObject private var captions = CaptionOutput()
-    @AppStorage("aiSubtitlesEnabled") private var aiSubtitlesEnabled = false
 
     var body: some View {
         ZStack {
@@ -118,13 +116,8 @@ struct LivePlayerView: View {
                 EmptyView()
             }
 
-            if aiSubtitlesEnabled {
-                SubtitleOverlayView(engine: subtitleEngine)
-                    .ignoresSafeArea()
-            }
-
-            // Broadcast closed captions (shown only when the channel carries a
-            // CC track and the viewer has tvOS system captions enabled).
+            // Broadcast closed captions — shown automatically whenever the
+            // channel carries a CC / subtitle track.
             if !captions.text.isEmpty {
                 VStack {
                     Spacer()
@@ -156,7 +149,6 @@ struct LivePlayerView: View {
         .onAppear { playCurrentChannel() }
         .onDisappear {
             model.stop()
-            subtitleEngine.stop()
             captions.detach()
         }
         .onChange(of: appModel.currentChannel?.id) { _, _ in
@@ -173,10 +165,6 @@ struct LivePlayerView: View {
         channel.lastWatched = Date()
         if let item = model.player.currentItem {
             captions.attach(to: item)
-        }
-        subtitleEngine.stop()
-        if aiSubtitlesEnabled {
-            subtitleEngine.start(player: model.player)
         }
     }
 }

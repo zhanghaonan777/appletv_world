@@ -1,14 +1,12 @@
 import Foundation
 import AVFoundation
 
-/// Pulls a channel's broadcast closed-caption / subtitle track via
-/// `AVPlayerItemLegibleOutput` so the custom `AVPlayerLayer` player can render
-/// captions itself.
+/// Renders a channel's own broadcast closed-caption / subtitle track.
 ///
-/// AVPlayer only auto-selects a legible track when the viewer has tvOS system
-/// captions enabled (Settings → Accessibility → Subtitles & Captioning), so
-/// this stays silent unless the user has turned captions on — i.e. it reuses
-/// Apple TV's own CC switch instead of adding a custom one.
+/// The custom `AVPlayerLayer` player does not draw captions itself, so this
+/// pulls the cues via `AVPlayerItemLegibleOutput`. It also auto-selects the
+/// channel's legible track, so captions appear automatically whenever the
+/// channel carries them — no toggle needed.
 final class CaptionOutput: NSObject, ObservableObject, AVPlayerItemLegibleOutputPushDelegate {
 
     /// Current caption text (empty when nothing is showing).
@@ -16,6 +14,7 @@ final class CaptionOutput: NSObject, ObservableObject, AVPlayerItemLegibleOutput
 
     private var legibleOutput: AVPlayerItemLegibleOutput?
     private weak var attachedItem: AVPlayerItem?
+    private var selectionTask: Task<Void, Never>?
 
     /// Start delivering captions for `item`. Safe to call on every channel change.
     func attach(to item: AVPlayerItem) {
@@ -26,15 +25,34 @@ final class CaptionOutput: NSObject, ObservableObject, AVPlayerItemLegibleOutput
         item.add(output)
         legibleOutput = output
         attachedItem = item
+        autoEnableCaptions(on: item)
     }
 
     func detach() {
+        selectionTask?.cancel()
+        selectionTask = nil
         if let output = legibleOutput, let item = attachedItem {
             item.remove(output)
         }
         legibleOutput = nil
         attachedItem = nil
         text = ""
+    }
+
+    /// Auto-select the channel's CC / subtitle track if it has one. HLS exposes
+    /// the legible selection group only after playback starts, so retry briefly.
+    private func autoEnableCaptions(on item: AVPlayerItem) {
+        selectionTask = Task {
+            for _ in 0..<20 {
+                if Task.isCancelled { return }
+                if let group = try? await item.asset.loadMediaSelectionGroup(for: .legible),
+                   let option = group.defaultOption ?? group.options.first {
+                    item.select(option, in: group)
+                    return
+                }
+                try? await Task.sleep(nanoseconds: 1_000_000_000)
+            }
+        }
     }
 
     /// Collapse a set of caption cues into one displayable string.
