@@ -20,6 +20,13 @@ final class LivePlayerModel: ObservableObject {
     private var statusObservation: NSKeyValueObservation?
     private var loadTimeout: Task<Void, Never>?
 
+    init() {
+        // Route audio through the playback category so video sound behaves
+        // correctly (plays in silent mode, takes over the audio session).
+        try? AVAudioSession.sharedInstance().setCategory(.playback, mode: .moviePlayback)
+        try? AVAudioSession.sharedInstance().setActive(true)
+    }
+
     func play(_ channel: Channel) {
         guard let url = URL(string: channel.streamURL) else {
             state = .failed
