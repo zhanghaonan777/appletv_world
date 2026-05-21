@@ -39,15 +39,16 @@ struct MiniGuideBar: View {
         .focused($focused)
         .onMoveCommand { direction in
             scheduleHide()
+            // All four directions surf channels — keeps ↑/↓ consistent with the
+            // player so a second ↑ never unexpectedly opens the full guide.
             switch direction {
-            case .left:  move(-1)
-            case .right: move(1)
-            case .up:    onExpand()
-            case .down:  onDismiss()
-            @unknown default: break
+            case .left, .up:     move(-1)
+            case .right, .down:  move(1)
+            @unknown default:    break
             }
         }
         .onExitCommand { onDismiss() }
+        .onTapGesture { onExpand() }
         .onAppear {
             focused = true
             scheduleHide()
