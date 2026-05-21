@@ -38,6 +38,7 @@ struct MiniGuideBar: View {
             .background(.black.opacity(0.8))
             .padding(.bottom, 60)
         }
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
         .focusable()
         .focused($focused)
         .onMoveCommand { direction in
