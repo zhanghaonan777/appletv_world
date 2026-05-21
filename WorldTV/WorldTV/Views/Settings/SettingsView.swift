@@ -12,6 +12,7 @@ struct SettingsView: View {
     @State private var errorMessage: String?
 
     @AppStorage("aiSubtitlesEnabled") private var aiSubtitlesEnabled = false
+    @AppStorage("subtitleServerURL") private var subtitleServerURL = ""
 
     var body: some View {
         ScrollView {
@@ -85,24 +86,37 @@ struct SettingsView: View {
                     }
                 }
 
-                // AI subtitles (off by default — feature in development)
+                // AI subtitles — audio is sent to the Mac server for ASR + translation
                 settingsSection(title: "AI 字幕", icon: "captions.bubble") {
-                    HStack {
-                        VStack(alignment: .leading, spacing: 4) {
-                            Text("实时 AI 字幕")
-                                .foregroundColor(Theme.textPrimary)
-                            Text("语音识别 + 翻译,功能开发中,默认关闭")
+                    VStack(spacing: 12) {
+                        HStack {
+                            VStack(alignment: .leading, spacing: 4) {
+                                Text("实时 AI 字幕")
+                                    .foregroundColor(Theme.textPrimary)
+                                Text("音频发到 Mac 字幕服务器做语音识别 + 翻译")
+                                    .font(.caption)
+                                    .foregroundColor(Theme.textSecondary)
+                            }
+                            Spacer()
+                            Toggle("", isOn: $aiSubtitlesEnabled)
+                                .labelsHidden()
+                                .tint(Theme.accent)
+                        }
+                        .padding()
+                        .background(Theme.card)
+                        .cornerRadius(Theme.cornerRadius)
+
+                        VStack(alignment: .leading, spacing: 8) {
+                            Text("字幕服务器地址")
                                 .font(.caption)
                                 .foregroundColor(Theme.textSecondary)
+                            TextField("ws://192.168.1.20:8765", text: $subtitleServerURL)
+                                .foregroundColor(Theme.textPrimary)
                         }
-                        Spacer()
-                        Toggle("", isOn: $aiSubtitlesEnabled)
-                            .labelsHidden()
-                            .tint(Theme.accent)
+                        .padding()
+                        .background(Theme.card)
+                        .cornerRadius(Theme.cornerRadius)
                     }
-                    .padding()
-                    .background(Theme.card)
-                    .cornerRadius(Theme.cornerRadius)
                 }
 
                 // About
