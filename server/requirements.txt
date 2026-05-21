@@ -1,0 +1,4 @@
+faster-whisper
+argostranslate
+websockets
+numpy
