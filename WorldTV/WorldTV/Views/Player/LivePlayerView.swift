@@ -87,6 +87,7 @@ struct LivePlayerView: View {
 
     @StateObject private var model = LivePlayerModel()
     @StateObject private var captions = CaptionOutput()
+    @State private var switchTask: Task<Void, Never>?
 
     var body: some View {
         ZStack {
@@ -148,11 +149,19 @@ struct LivePlayerView: View {
         .onTapGesture { appModel.handle(.select, channels: channels) }
         .onAppear { playCurrentChannel() }
         .onDisappear {
+            switchTask?.cancel()
             model.stop()
             captions.detach()
         }
         .onChange(of: appModel.currentChannel?.id) { _, _ in
-            playCurrentChannel()
+            // Debounce: while the user is surfing channels quickly, don't load
+            // a stream on every keypress — only tune once they settle.
+            switchTask?.cancel()
+            switchTask = Task {
+                try? await Task.sleep(nanoseconds: 350_000_000)
+                guard !Task.isCancelled else { return }
+                playCurrentChannel()
+            }
         }
         .onChange(of: appModel.isVideoCovered) { _, covered in
             if covered { model.pause() } else { model.resume() }
