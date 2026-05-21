@@ -93,6 +93,7 @@ struct ChannelGuideView: View {
         .padding(.horizontal, 24)
         .padding(.top, 10)
         .padding(.bottom, 20)
+        .focusSection()
     }
 
     private var searchBar: some View {
@@ -158,6 +159,7 @@ struct ChannelGuideView: View {
                 .fill(Color.white.opacity(0.08))
                 .frame(width: 1)
         }
+        .focusSection()
     }
 
     // MARK: - Channel Grid
@@ -196,6 +198,7 @@ struct ChannelGuideView: View {
             }
         }
         .frame(maxWidth: .infinity)
+        .focusSection()
     }
 
     private var emptyState: some View {
