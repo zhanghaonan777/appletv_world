@@ -50,7 +50,8 @@ struct RootView: View {
             case .miniBar:
                 if let channel = currentChannel {
                     MiniGuideBar(
-                        channels: categoryChannels,
+                        allChannels: allChannels,
+                        selectedCategory: $currentCategory,
                         selectedChannel: Binding(
                             get: { channel },
                             set: { currentChannel = $0 }
