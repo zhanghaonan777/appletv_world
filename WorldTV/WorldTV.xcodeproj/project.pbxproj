@@ -38,6 +38,7 @@
 		AFE4EAB5FBD218664B0CF7E0 /* WhisperPipelineTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2140498430ADCDC76A3721C1 /* WhisperPipelineTests.swift */; };
 		B113ED336CF6E9FC835AF2B4 /* M3UParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = F609E4BC8D17646040287F19 /* M3UParser.swift */; };
 		BE5E150231E81860EC06D7F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 194F6E0E425D5EA972190660 /* Assets.xcassets */; };
+		5BB7170B3B1A0BAF11E00019 /* sim_speech.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5BB7170B3B1A0BAF11E0001A /* sim_speech.wav */; };
 		BFCD997990D05499C05EED76 /* SubtitleEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D9208D36FF35AA2B052FD0 /* SubtitleEngine.swift */; };
 		C3C7CA30FE4A030C84C7CC53 /* Channel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C34681475552D399F7ECF1 /* Channel.swift */; };
 		D5478595226B086A914AB90F /* WhisperService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1426EF3DA0625ADF7DA13547 /* WhisperService.swift */; };
@@ -58,6 +59,7 @@
 /* Begin PBXFileReference section */		1426EF3DA0625ADF7DA13547 /* WhisperService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhisperService.swift; sourceTree = "<group>"; };
 		163BE6CB6B2A86F1BA7AD569 /* ChannelCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelCardView.swift; sourceTree = "<group>"; };
 		194F6E0E425D5EA972190660 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5BB7170B3B1A0BAF11E0001A /* sim_speech.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sim_speech.wav; sourceTree = "<group>"; };
 		2140498430ADCDC76A3721C1 /* WhisperPipelineTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhisperPipelineTests.swift; sourceTree = "<group>"; };
 		28CC3B284C2074DE658108C2 /* WhisperDiagnostic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhisperDiagnostic.swift; sourceTree = "<group>"; };		5BB7170B3B1A0BAF11E0000E /* ChannelGuideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelGuideView.swift; sourceTree = "<group>"; };
 		2FC983A80DA60579E7192BB8 /* WorldTVTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = WorldTVTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -197,6 +199,7 @@
 			isa = PBXGroup;
 			children = (
 				194F6E0E425D5EA972190660 /* Assets.xcassets */,
+				5BB7170B3B1A0BAF11E0001A /* sim_speech.wav */,
 				66AE995E736DFE727CFB25CF /* WorldTVApp.swift */,
 				5BB7170B3B1A0BAF11E00010 /* RootView.swift */,
 				5BB7170B3B1A0BAF11E00012 /* AppModel.swift */,
@@ -367,6 +370,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BE5E150231E81860EC06D7F2 /* Assets.xcassets in Resources */,
+				5BB7170B3B1A0BAF11E00019 /* sim_speech.wav in Resources */,
 				AA0000000000000000000011 /* Qwen3.5-0.8B-Q4_K_M.gguf in Resources */,
 				AA0000000000000000000034 /* ggml-tiny.bin in Resources */,
 				AA0000000000000000000021 /* openai_whisper-tiny in Resources */,

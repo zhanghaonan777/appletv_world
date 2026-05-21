@@ -18,6 +18,7 @@ final class AudioExtractor: @unchecked Sendable {
     private var tap: MTAudioProcessingTap?
     private weak var playerItem: AVPlayerItem?
     private var attachTask: Task<Void, Never>?
+    private var simTask: Task<Void, Never>?
 
     // Set by the prepare callback once the player reveals its audio format.
     fileprivate var sourceSampleRate: Double = 48000
@@ -34,27 +35,67 @@ final class AudioExtractor: @unchecked Sendable {
 
     func start(player: AVPlayer) {
         stop()
+        #if targetEnvironment(simulator)
+        // MTAudioProcessingTap does not deliver audio in the tvOS Simulator,
+        // so stream a bundled speech clip instead — lets the full pipeline
+        // (stream -> server -> subtitle) be demoed without a real device.
+        startSimulatedAudio()
+        #else
         guard let item = player.currentItem else {
             lastError = "无播放项"
             return
         }
         playerItem = item
-
         attachTask = Task { [weak self] in
             guard let self else { return }
             await self.attachTap(to: item)
         }
+        #endif
     }
 
     func stop() {
         attachTask?.cancel()
         attachTask = nil
+        simTask?.cancel()
+        simTask = nil
         playerItem?.audioMix = nil
         playerItem = nil
         tap = nil
         lock.lock()
         pending.removeAll(keepingCapacity: false)
         lock.unlock()
+    }
+
+    // MARK: - Simulator Audio Source
+
+    private func startSimulatedAudio() {
+        guard let samples = Self.loadSimulatedSpeech() else {
+            lastError = "找不到 sim_speech.wav"
+            return
+        }
+        lastError = "模拟音频流(模拟器)"
+        simTask = Task { [weak self] in
+            let chunk = 8000  // 0.5s at 16kHz
+            var index = 0
+            while !Task.isCancelled {
+                let end = min(index + chunk, samples.count)
+                self?.onAudioBuffer?(Array(samples[index..<end]))
+                index = end >= samples.count ? 0 : end   // loop the clip
+                try? await Task.sleep(nanoseconds: 500_000_000)
+            }
+        }
+    }
+
+    private static func loadSimulatedSpeech() -> [Float]? {
+        guard let url = Bundle.main.url(forResource: "sim_speech", withExtension: "wav"),
+              let file = try? AVAudioFile(forReading: url) else { return nil }
+        let format = file.processingFormat
+        let frameCount = AVAudioFrameCount(file.length)
+        guard frameCount > 0,
+              let buffer = AVAudioPCMBuffer(pcmFormat: format, frameCapacity: frameCount),
+              (try? file.read(into: buffer)) != nil,
+              let channelData = buffer.floatChannelData else { return nil }
+        return Array(UnsafeBufferPointer(start: channelData[0], count: Int(buffer.frameLength)))
     }
 
     // MARK: - Tap Attachment
