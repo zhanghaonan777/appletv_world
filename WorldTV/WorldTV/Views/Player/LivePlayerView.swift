@@ -87,6 +87,7 @@ struct LivePlayerView: View {
 
     @StateObject private var model = LivePlayerModel()
     @StateObject private var subtitleEngine = SubtitleEngine()
+    @StateObject private var captions = CaptionOutput()
     @AppStorage("aiSubtitlesEnabled") private var aiSubtitlesEnabled = false
 
     var body: some View {
@@ -121,6 +122,24 @@ struct LivePlayerView: View {
                 SubtitleOverlayView(engine: subtitleEngine)
                     .ignoresSafeArea()
             }
+
+            // Broadcast closed captions (shown only when the channel carries a
+            // CC track and the viewer has tvOS system captions enabled).
+            if !captions.text.isEmpty {
+                VStack {
+                    Spacer()
+                    Text(captions.text)
+                        .font(.system(size: 32, weight: .semibold))
+                        .foregroundColor(.white)
+                        .multilineTextAlignment(.center)
+                        .padding(.horizontal, 26)
+                        .padding(.vertical, 12)
+                        .background(Color.black.opacity(0.65))
+                        .cornerRadius(8)
+                        .padding(.bottom, 90)
+                }
+                .allowsHitTesting(false)
+            }
         }
         .focusable()
         .onMoveCommand { direction in
@@ -138,6 +157,7 @@ struct LivePlayerView: View {
         .onDisappear {
             model.stop()
             subtitleEngine.stop()
+            captions.detach()
         }
         .onChange(of: appModel.currentChannel?.id) { _, _ in
             playCurrentChannel()
@@ -151,6 +171,9 @@ struct LivePlayerView: View {
         guard let channel = appModel.currentChannel else { return }
         model.play(channel)
         channel.lastWatched = Date()
+        if let item = model.player.currentItem {
+            captions.attach(to: item)
+        }
         subtitleEngine.stop()
         if aiSubtitlesEnabled {
             subtitleEngine.start(player: model.player)

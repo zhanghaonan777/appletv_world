@@ -28,6 +28,7 @@
 		AA0000000000000000000041 /* LiveSubtitleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA0000000000000000000040 /* LiveSubtitleTests.swift */; };
 		887A266ED57E27B93FB864D8 /* AudioExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5EA9BCDD92ECCD81F51E31D /* AudioExtractor.swift */; };
 		5BB7170B3B1A0BAF11E00003 /* ChannelBrowser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7170B3B1A0BAF11E00004 /* ChannelBrowser.swift */; };
+		5BB7170B3B1A0BAF11E00015 /* CaptionOutput.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7170B3B1A0BAF11E00016 /* CaptionOutput.swift */; };
 		5BB7170B3B1A0BAF11E00005 /* ChannelBrowserTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7170B3B1A0BAF11E00006 /* ChannelBrowserTests.swift */; };
 		9372705DB469F2F50DC19F99 /* TranslationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68962F39F1A6E1D6783EBDDA /* TranslationService.swift */; };		5BB7170B3B1A0BAF11E00001 /* SubtitleOverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7170B3B1A0BAF11E00002 /* SubtitleOverlayView.swift */; };
 		5BB7170B3B1A0BAF11E00007 /* PlayerLayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB7170B3B1A0BAF11E00008 /* PlayerLayerView.swift */; };
@@ -81,6 +82,7 @@
 		DD50D90A07AFBE5822BE0791 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
 		E5EA9BCDD92ECCD81F51E31D /* AudioExtractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioExtractor.swift; sourceTree = "<group>"; };
 		5BB7170B3B1A0BAF11E00004 /* ChannelBrowser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelBrowser.swift; sourceTree = "<group>"; };
+		5BB7170B3B1A0BAF11E00016 /* CaptionOutput.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionOutput.swift; sourceTree = "<group>"; };
 		5BB7170B3B1A0BAF11E00006 /* ChannelBrowserTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelBrowserTests.swift; sourceTree = "<group>"; };
 		AA0000000000000000000010 /* Qwen3.5-0.8B-Q4_K_M.gguf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Qwen3.5-0.8B-Q4_K_M.gguf"; path = "../Models/Qwen35/Qwen3.5-0.8B-Q4_K_M.gguf"; sourceTree = SOURCE_ROOT; };
 		AA0000000000000000000033 /* ggml-tiny.bin */ = {isa = PBXFileReference; lastKnownFileType = file; name = "ggml-tiny.bin"; path = "../Models/WhisperTiny/ggml-tiny.bin"; sourceTree = SOURCE_ROOT; };
@@ -161,6 +163,7 @@
 			children = (
 				E5EA9BCDD92ECCD81F51E31D /* AudioExtractor.swift */,
 				5BB7170B3B1A0BAF11E00004 /* ChannelBrowser.swift */,
+				5BB7170B3B1A0BAF11E00016 /* CaptionOutput.swift */,
 				F609E4BC8D17646040287F19 /* M3UParser.swift */,
 				6C6C11E350A2A4BD3C4BFD56 /* PlaylistManager.swift */,
 				D9D9208D36FF35AA2B052FD0 /* SubtitleEngine.swift */,
@@ -385,6 +388,7 @@
 			files = (
 				887A266ED57E27B93FB864D8 /* AudioExtractor.swift in Sources */,
 				5BB7170B3B1A0BAF11E00003 /* ChannelBrowser.swift in Sources */,
+				5BB7170B3B1A0BAF11E00015 /* CaptionOutput.swift in Sources */,
 				C3C7CA30FE4A030C84C7CC53 /* Channel.swift in Sources */,
 				03B77E5311704DBD098A32D6 /* ChannelCardView.swift in Sources */,				5BB7170B3B1A0BAF11E0000D /* ChannelGuideView.swift in Sources */,
 				3BEC6367DA808958D2A2AA7A /* ColorExtension.swift in Sources */,				B113ED336CF6E9FC835AF2B4 /* M3UParser.swift in Sources */,				5BB7170B3B1A0BAF11E00001 /* SubtitleOverlayView.swift in Sources */,
