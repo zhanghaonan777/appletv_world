@@ -52,6 +52,14 @@ final class LivePlayerModel: ObservableObject {
         player.play()
     }
 
+    func pause() {
+        player.pause()
+    }
+
+    func resume() {
+        player.play()
+    }
+
     func stop() {
         player.pause()
         player.replaceCurrentItem(with: nil)
@@ -67,6 +75,10 @@ final class LivePlayerModel: ObservableObject {
 /// channel up/down zapping, and (when enabled) the AI subtitle overlay.
 struct LivePlayerView: View {
     let channel: Channel
+    /// True when the player is the foreground layer (no overlay covering input).
+    var isActive: Bool = true
+    /// True when a fullscreen overlay (guide / settings) hides the video.
+    var isCovered: Bool = false
     var onChannelUp: () -> Void = {}
     var onChannelDown: () -> Void = {}
     var onSelect: () -> Void = {}
@@ -112,6 +124,7 @@ struct LivePlayerView: View {
         }
         .focusable()
         .focused($focused)
+        .disabled(!isActive)
         .onMoveCommand { direction in
             switch direction {
             case .up:            onChannelUp()
@@ -136,6 +149,16 @@ struct LivePlayerView: View {
             model.play(channel)
             channel.lastWatched = Date()
             restartSubtitles()
+        }
+        .onChange(of: isCovered) { _, covered in
+            if covered { model.pause() } else { model.resume() }
+        }
+        .onChange(of: isActive) { _, active in
+            // The player is permanently mounted, so re-grab focus whenever it
+            // becomes the foreground layer again (an overlay just closed).
+            if active {
+                DispatchQueue.main.async { focused = true }
+            }
         }
     }
 

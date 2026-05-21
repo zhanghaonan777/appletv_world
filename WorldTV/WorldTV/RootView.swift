@@ -34,12 +34,13 @@ struct RootView: View {
             if let channel = currentChannel {
                 LivePlayerView(
                     channel: channel,
+                    isActive: overlay == .none,
+                    isCovered: overlay == .fullGuide || overlay == .settings,
                     onChannelUp: { zap(-1) },
                     onChannelDown: { zap(1) },
                     onSelect: { overlay = .miniBar },
                     onExit: { overlay = .fullGuide }
                 )
-                .disabled(overlay != .none)
             }
 
             switch overlay {
